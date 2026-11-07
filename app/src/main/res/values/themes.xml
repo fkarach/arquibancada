@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ground">#0B1712</color>
+    <color name="accent">#FF7A59</color>
+    <color name="raised">#1C3326</color>
+
+    <style name="Theme.Arquibancada" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/ground</item>
+        <item name="android:statusBarColor">@color/ground</item>
+        <item name="android:navigationBarColor">@color/ground</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

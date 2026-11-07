@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Arquibancada</string>
+    <string name="widget_proximo">Próximo pra ver</string>
+    <string name="widget_agenda">Próximos eventos</string>
+    <string name="widget_proximo_desc">O próximo evento que dá pra ver</string>
+    <string name="widget_agenda_desc">Destaque e os próximos eventos</string>
+</resources>

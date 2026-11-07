@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Gramado listrado com um ponto coral (o "ao vivo"). Área segura: 66dp centrais de 108dp. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#1C3326" android:pathData="M30,34h48v40h-48z" />
+    <path android:fillColor="#2C4436" android:pathData="M36,34h6v40h-6z" />
+    <path android:fillColor="#2C4436" android:pathData="M48,34h6v40h-6z" />
+    <path android:fillColor="#2C4436" android:pathData="M60,34h6v40h-6z" />
+    <path android:fillColor="#2C4436" android:pathData="M72,34h6v40h-6z" />
+    <path android:fillColor="#FF7A59" android:pathData="M54,54m-9,0a9,9 0,1 1,18 0a9,9 0,1 1,-18 0" />
+</vector>

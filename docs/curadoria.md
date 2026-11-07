@@ -5,8 +5,7 @@ Este arquivo é a regra que a atualização automática segue para escrever `dad
 ## Janela e cadência
 
 - Agenda de **30 dias** à frente, a partir do dia da atualização.
-- **Atualização completa a cada 3 dias, às 06:00** (horário de Brasília).
-- **Checagem de véspera, todo dia às 06:00:** só para eventos de nível `meu_time` que acontecem nas próximas 36 horas; confere horário, situação e canal. Não adiciona eventos novos.
+- **Atualização completa a cada 3 dias, às 06:00** (horário de Brasília). Não há checagem diária: uma agenda de 30 dias não muda o bastante para justificar o custo.
 - Eventos que já terminaram saem do arquivo.
 
 ## O que entra
