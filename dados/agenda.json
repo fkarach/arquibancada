@@ -69,6 +69,10 @@
       ],
       "por_que_vale": [
         "O vencedor pega Vasco ou Palmeiras na final de 6/12."
+      ],
+      "times": [
+        "Atlético-MG",
+        "Grêmio"
       ]
     },
     {
@@ -207,6 +211,10 @@
       ],
       "por_que_vale": [
         "Clássico de divisão: Giants (4-2) contra Eagles (2-6)."
+      ],
+      "times": [
+        "Giants",
+        "Eagles"
       ]
     },
     {
@@ -262,6 +270,10 @@
       ],
       "por_que_vale": [
         "Vale vaga na final da Copa do Brasil, em 6/12 no Mané Garrincha."
+      ],
+      "times": [
+        "Vasco",
+        "Palmeiras"
       ]
     },
     {
@@ -296,6 +308,10 @@
       ],
       "por_que_vale": [
         "Os 76ers lideram o Leste (8-2)."
+      ],
+      "times": [
+        "Bulls",
+        "76ers"
       ]
     },
     {
@@ -360,7 +376,11 @@
       "motivos": [
         "dois times com campanha positiva"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Packers",
+        "Patriots"
+      ]
     },
     {
       "id": "nfl-2026-w10-buf-min",
@@ -397,7 +417,11 @@
       "motivos": [
         "dois líderes de conferência (6-1 x 6-1)"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Bills",
+        "Vikings"
+      ]
     },
     {
       "id": "nba-2026-11-10-bos-phi",
@@ -429,7 +453,11 @@
         "líder x vice do Leste",
         "no seu Prime"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Celtics",
+        "76ers"
+      ]
     },
     {
       "id": "nba-2026-11-11-sas-chi",
@@ -460,7 +488,11 @@
       "motivos": [
         "meu time"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Bulls",
+        "Spurs"
+      ]
     },
     {
       "id": "nba-2026-11-11-gsw-hou",
@@ -491,7 +523,11 @@
       "motivos": [
         "dois times do topo do Oeste"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Warriors",
+        "Rockets"
+      ]
     },
     {
       "id": "nfl-2026-w11-was-nyg",
@@ -528,7 +564,11 @@
       "motivos": [
         "meu time"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Commanders",
+        "Giants"
+      ]
     },
     {
       "id": "nba-2026-11-13-atl-chi",
@@ -559,7 +599,11 @@
       "motivos": [
         "meu time"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Bulls",
+        "Hawks"
+      ]
     },
     {
       "id": "nba-2026-11-13-gsw-sas",
@@ -591,7 +635,11 @@
         "dois times do topo do Oeste",
         "no seu Prime"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Warriors",
+        "Spurs"
+      ]
     },
     {
       "id": "lol-worlds-2026-final",
@@ -648,7 +696,11 @@
       "motivos": [
         "rebaixamento x vaga na Libertadores"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Mirassol",
+        "Atlético-MG"
+      ]
     },
     {
       "id": "ufc-334",
@@ -710,7 +762,11 @@
       "motivos": [
         "dois times com campanha positiva"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Patriots",
+        "Lions"
+      ]
     },
     {
       "id": "nba-2026-11-15-dal-bos",
@@ -741,7 +797,11 @@
       "motivos": [
         "no seu Prime"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Mavericks",
+        "Celtics"
+      ]
     },
     {
       "id": "nfl-2026-w11-pit-cin",
@@ -779,7 +839,11 @@
         "clássico de divisão",
         "dois times do topo da AFC"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Steelers",
+        "Bengals"
+      ]
     },
     {
       "id": "esqui-2026-levi-sl",
@@ -834,7 +898,11 @@
       "motivos": [
         "meu time"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Cavaliers",
+        "Bulls"
+      ]
     },
     {
       "id": "nba-2026-11-17-det-sas",
@@ -866,7 +934,11 @@
         "dois times do topo",
         "no seu Prime"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Pistons",
+        "Spurs"
+      ]
     },
     {
       "id": "bra-2026-r35-cru-pal",
@@ -893,6 +965,10 @@
       ],
       "por_que_vale": [
         "Palmeiras persegue o Flamengo na briga pelo título."
+      ],
+      "times": [
+        "Cruzeiro",
+        "Palmeiras"
       ]
     },
     {
@@ -918,7 +994,11 @@
         "líder em campo",
         "afeta a briga com o Palmeiras"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Flamengo",
+        "Athletico-PR"
+      ]
     },
     {
       "id": "nba-2026-11-18-bkn-chi",
@@ -949,7 +1029,11 @@
       "motivos": [
         "meu time"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Nets",
+        "Bulls"
+      ]
     },
     {
       "id": "bra-2026-r35-gre-bah",
@@ -973,7 +1057,11 @@
       "motivos": [
         "rebaixamento x vaga na Libertadores"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Grêmio",
+        "Bahia"
+      ]
     },
     {
       "id": "bra-2026-r35-cor-bot",
@@ -997,7 +1085,11 @@
       "motivos": [
         "luta contra o rebaixamento"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Corinthians",
+        "Botafogo"
+      ]
     },
     {
       "id": "bra-2026-r35-sao-flu",
@@ -1021,7 +1113,11 @@
       "motivos": [
         "Fluminense na briga pelo G4"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "São Paulo",
+        "Fluminense"
+      ]
     },
     {
       "id": "nba-2026-11-20-was-chi",
@@ -1052,7 +1148,11 @@
       "motivos": [
         "meu time"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Bulls",
+        "Wizards"
+      ]
     },
     {
       "id": "bra-2026-r36-pal-fla",
@@ -1079,6 +1179,10 @@
       ],
       "por_que_vale": [
         "Confronto direto entre o líder Flamengo e o vice Palmeiras na reta final."
+      ],
+      "times": [
+        "Palmeiras",
+        "Flamengo"
       ]
     },
     {
@@ -1142,7 +1246,11 @@
         "meu time",
         "dois times com campanha positiva"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Jaguars",
+        "Giants"
+      ]
     },
     {
       "id": "nba-2026-11-22-den-chi",
@@ -1173,7 +1281,11 @@
       "motivos": [
         "meu time"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Bulls",
+        "Nuggets"
+      ]
     },
     {
       "id": "nfl-2026-w12-min-sf",
@@ -1210,7 +1322,11 @@
       "motivos": [
         "dois líderes da NFC (6-1 x 6-1)"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Vikings",
+        "49ers"
+      ]
     },
     {
       "id": "esqui-2026-gurgl-sl",
@@ -1265,7 +1381,11 @@
       "motivos": [
         "meu time"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Bulls",
+        "Cavaliers"
+      ]
     },
     {
       "id": "ucl-2026-md5-ars-bvb",
@@ -1297,7 +1417,11 @@
         "Champions",
         "gigantes europeus"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Arsenal",
+        "Borussia Dortmund"
+      ]
     },
     {
       "id": "ucl-2026-md5-mci-nap",
@@ -1329,7 +1453,11 @@
         "Champions",
         "gigantes europeus"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Manchester City",
+        "Napoli"
+      ]
     },
     {
       "id": "ucl-2026-md5-rma-psv",
@@ -1360,7 +1488,11 @@
       "motivos": [
         "Champions"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Real Madrid",
+        "PSV"
+      ]
     },
     {
       "id": "nba-2026-11-25-cha-chi",
@@ -1391,7 +1523,11 @@
       "motivos": [
         "meu time"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Hornets",
+        "Bulls"
+      ]
     },
     {
       "id": "nba-2026-11-25-min-okc",
@@ -1422,7 +1558,11 @@
       "motivos": [
         "dois times do topo do Oeste"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Timberwolves",
+        "Thunder"
+      ]
     },
     {
       "id": "nfl-2026-w12-chi-det",
@@ -1454,7 +1594,11 @@
         "Thanksgiving",
         "clássico de divisão entre times do topo"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Bears",
+        "Lions"
+      ]
     },
     {
       "id": "nfl-2026-w12-kc-buf",
@@ -1486,7 +1630,11 @@
         "Thanksgiving",
         "dois times do topo da AFC"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Chiefs",
+        "Bills"
+      ]
     },
     {
       "id": "nfl-2026-w12-den-pit",
@@ -1517,7 +1665,11 @@
       "motivos": [
         "dois times 6-2"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Broncos",
+        "Steelers"
+      ]
     },
     {
       "id": "nba-2026-11-27-lal-sas",
@@ -1549,7 +1701,11 @@
         "dois times do topo do Oeste",
         "no seu Prime"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Lakers",
+        "Spurs"
+      ]
     },
     {
       "id": "lib-2026-final",
@@ -1599,6 +1755,10 @@
       ],
       "por_que_vale": [
         "Final da Libertadores em jogo único, em Montevidéu."
+      ],
+      "times": [
+        "Palmeiras",
+        "Estudiantes"
       ]
     },
     {
@@ -1630,7 +1790,11 @@
       "motivos": [
         "meu time"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Bulls",
+        "Pacers"
+      ]
     },
     {
       "id": "f1-2026-catar",
@@ -1691,7 +1855,11 @@
       "motivos": [
         "meu time"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Giants",
+        "Colts"
+      ]
     },
     {
       "id": "nfl-2026-w13-sea-sf",
@@ -1723,7 +1891,11 @@
         "clássico de divisão",
         "49ers lideram a NFC"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Seahawks",
+        "49ers"
+      ]
     },
     {
       "id": "esqui-2026-copper-gs",
@@ -1778,7 +1950,11 @@
       "motivos": [
         "meu time"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Bulls",
+        "Knicks"
+      ]
     },
     {
       "id": "bra-2026-r38-pal-cfc",
@@ -1803,7 +1979,11 @@
         "meu time"
       ],
       "por_que_vale": [],
-      "observacao": "Horário ainda não oficializado pela CBF."
+      "observacao": "Horário ainda não oficializado pela CBF.",
+      "times": [
+        "Palmeiras",
+        "Coritiba"
+      ]
     },
     {
       "id": "nba-2026-12-03-cle-chi",
@@ -1834,7 +2014,11 @@
       "motivos": [
         "meu time"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "Bulls",
+        "Cavaliers"
+      ]
     },
     {
       "id": "f1-2026-abu-dhabi",
@@ -1897,7 +2081,11 @@
         "meu time",
         "contra o líder da NFC"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "times": [
+        "49ers",
+        "Giants"
+      ]
     },
     {
       "id": "cdb-2026-final",

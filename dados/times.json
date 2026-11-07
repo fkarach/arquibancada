@@ -1,0 +1,254 @@
+{
+  "versao": 1,
+  "times": {
+    "Atlético-MG": {
+      "busca": "Atletico Mineiro",
+      "esporte": "futebol",
+      "pais": "Brazil"
+    },
+    "Grêmio": {
+      "busca": "Gremio",
+      "esporte": "futebol",
+      "pais": "Brazil"
+    },
+    "Vasco": {
+      "busca": "Vasco da Gama",
+      "esporte": "futebol",
+      "pais": "Brazil"
+    },
+    "Palmeiras": {
+      "busca": "Palmeiras",
+      "esporte": "futebol",
+      "pais": "Brazil"
+    },
+    "Mirassol": {
+      "busca": "Mirassol",
+      "esporte": "futebol",
+      "pais": "Brazil"
+    },
+    "Cruzeiro": {
+      "busca": "Cruzeiro",
+      "esporte": "futebol",
+      "pais": "Brazil"
+    },
+    "Flamengo": {
+      "busca": "Flamengo",
+      "esporte": "futebol",
+      "pais": "Brazil"
+    },
+    "Athletico-PR": {
+      "busca": "Athletico Paranaense",
+      "esporte": "futebol",
+      "pais": "Brazil"
+    },
+    "Bahia": {
+      "busca": "Bahia",
+      "esporte": "futebol",
+      "pais": "Brazil"
+    },
+    "Corinthians": {
+      "busca": "Corinthians",
+      "esporte": "futebol",
+      "pais": "Brazil"
+    },
+    "Botafogo": {
+      "busca": "Botafogo",
+      "esporte": "futebol",
+      "pais": "Brazil"
+    },
+    "São Paulo": {
+      "busca": "Sao Paulo",
+      "esporte": "futebol",
+      "pais": "Brazil"
+    },
+    "Fluminense": {
+      "busca": "Fluminense",
+      "esporte": "futebol",
+      "pais": "Brazil"
+    },
+    "Coritiba": {
+      "busca": "Coritiba",
+      "esporte": "futebol",
+      "pais": "Brazil"
+    },
+    "Estudiantes": {
+      "busca": "Estudiantes",
+      "esporte": "futebol",
+      "pais": "Argentina"
+    },
+    "Arsenal": {
+      "busca": "Arsenal",
+      "esporte": "futebol",
+      "pais": "England"
+    },
+    "Borussia Dortmund": {
+      "busca": "Borussia Dortmund",
+      "esporte": "futebol",
+      "pais": "Germany"
+    },
+    "Manchester City": {
+      "busca": "Manchester City",
+      "esporte": "futebol",
+      "pais": "England"
+    },
+    "Napoli": {
+      "busca": "Napoli",
+      "esporte": "futebol",
+      "pais": "Italy"
+    },
+    "Real Madrid": {
+      "busca": "Real Madrid",
+      "esporte": "futebol",
+      "pais": "Spain"
+    },
+    "PSV": {
+      "busca": "PSV Eindhoven",
+      "esporte": "futebol",
+      "pais": "Netherlands"
+    },
+    "Bulls": {
+      "busca": "Chicago Bulls",
+      "esporte": "nba"
+    },
+    "76ers": {
+      "busca": "Philadelphia 76ers",
+      "esporte": "nba"
+    },
+    "Celtics": {
+      "busca": "Boston Celtics",
+      "esporte": "nba"
+    },
+    "Spurs": {
+      "busca": "San Antonio Spurs",
+      "esporte": "nba"
+    },
+    "Warriors": {
+      "busca": "Golden State Warriors",
+      "esporte": "nba"
+    },
+    "Rockets": {
+      "busca": "Houston Rockets",
+      "esporte": "nba"
+    },
+    "Hawks": {
+      "busca": "Atlanta Hawks",
+      "esporte": "nba"
+    },
+    "Mavericks": {
+      "busca": "Dallas Mavericks",
+      "esporte": "nba"
+    },
+    "Cavaliers": {
+      "busca": "Cleveland Cavaliers",
+      "esporte": "nba"
+    },
+    "Pistons": {
+      "busca": "Detroit Pistons",
+      "esporte": "nba"
+    },
+    "Nets": {
+      "busca": "Brooklyn Nets",
+      "esporte": "nba"
+    },
+    "Wizards": {
+      "busca": "Washington Wizards",
+      "esporte": "nba"
+    },
+    "Nuggets": {
+      "busca": "Denver Nuggets",
+      "esporte": "nba"
+    },
+    "Hornets": {
+      "busca": "Charlotte Hornets",
+      "esporte": "nba"
+    },
+    "Timberwolves": {
+      "busca": "Minnesota Timberwolves",
+      "esporte": "nba"
+    },
+    "Thunder": {
+      "busca": "Oklahoma City Thunder",
+      "esporte": "nba"
+    },
+    "Lakers": {
+      "busca": "Los Angeles Lakers",
+      "esporte": "nba"
+    },
+    "Pacers": {
+      "busca": "Indiana Pacers",
+      "esporte": "nba"
+    },
+    "Knicks": {
+      "busca": "New York Knicks",
+      "esporte": "nba"
+    },
+    "Giants": {
+      "busca": "New York Giants",
+      "esporte": "nfl"
+    },
+    "Eagles": {
+      "busca": "Philadelphia Eagles",
+      "esporte": "nfl"
+    },
+    "Packers": {
+      "busca": "Green Bay Packers",
+      "esporte": "nfl"
+    },
+    "Patriots": {
+      "busca": "New England Patriots",
+      "esporte": "nfl"
+    },
+    "Bills": {
+      "busca": "Buffalo Bills",
+      "esporte": "nfl"
+    },
+    "Vikings": {
+      "busca": "Minnesota Vikings",
+      "esporte": "nfl"
+    },
+    "Commanders": {
+      "busca": "Washington Commanders",
+      "esporte": "nfl"
+    },
+    "Lions": {
+      "busca": "Detroit Lions",
+      "esporte": "nfl"
+    },
+    "Steelers": {
+      "busca": "Pittsburgh Steelers",
+      "esporte": "nfl"
+    },
+    "Bengals": {
+      "busca": "Cincinnati Bengals",
+      "esporte": "nfl"
+    },
+    "Jaguars": {
+      "busca": "Jacksonville Jaguars",
+      "esporte": "nfl"
+    },
+    "49ers": {
+      "busca": "San Francisco 49ers",
+      "esporte": "nfl"
+    },
+    "Bears": {
+      "busca": "Chicago Bears",
+      "esporte": "nfl"
+    },
+    "Chiefs": {
+      "busca": "Kansas City Chiefs",
+      "esporte": "nfl"
+    },
+    "Broncos": {
+      "busca": "Denver Broncos",
+      "esporte": "nfl"
+    },
+    "Colts": {
+      "busca": "Indianapolis Colts",
+      "esporte": "nfl"
+    },
+    "Seahawks": {
+      "busca": "Seattle Seahawks",
+      "esporte": "nfl"
+    }
+  }
+}

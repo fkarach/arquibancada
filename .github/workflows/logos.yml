@@ -1,0 +1,43 @@
+name: Atualizar logos
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "dados/times.json"
+      - "scripts/logos.py"
+      - ".github/workflows/logos.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: logos
+  cancel-in-progress: false
+
+jobs:
+  logos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Buscar logos
+        run: python scripts/logos.py
+
+      - name: Salvar no repositório
+        run: |
+          if git diff --quiet -- dados/logos.json && git ls-files --error-unmatch dados/logos.json >/dev/null 2>&1; then
+            echo "Nada mudou"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dados/logos.json
+          git commit -m "Logos: atualização automática"
+          git pull --rebase origin main
+          git push origin HEAD:main

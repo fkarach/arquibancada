@@ -44,6 +44,7 @@ Este arquivo é a regra que a atualização automática segue para escrever `dad
 
 - Horários sempre em Brasília com offset (`2026-11-08T17:00:00-03:00`). Sem horário definido: `"horario_definido": false` e só a data em `inicio`.
 - `id` estável entre atualizações (mesmo evento, mesmo id).
+- **Times e logos:** em jogos entre equipes, preencha `times` com os dois nomes curtos exatamente como aparecem no título (ex.: `["Vasco", "Palmeiras"]`). Todo nome usado em `times` precisa existir em `dados/times.json` com `busca` (nome completo em inglês/sem acento, como no TheSportsDB), `esporte` e, no futebol, `pais`. Ao adicionar um time novo em `times.json`, o GitHub busca o logo sozinho e grava em `dados/logos.json`. Não edite `logos.json` à mão.
 - Horário mudou: preencha `inicio_anterior` e `situacao: "alterado"`.
 - `por_que_vale`: 1 a 2 fatos verificáveis, nunca opinião.
 - Registre as fontes em `fontes` (URLs) no topo do arquivo.
