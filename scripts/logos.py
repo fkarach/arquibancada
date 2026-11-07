@@ -5,25 +5,31 @@ e só procura os times novos. Resultado em dados/logos.json.
 """
 import json
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 
 ESPORTE = {"futebol": "Soccer", "nba": "Basketball", "nfl": "American Football"}
-CHAVES = ["123", "3"]
+CHAVE = "123"  # chave pública gratuita do TheSportsDB
 
 
 def buscar(nome):
-    for chave in CHAVES:
-        url = f"https://www.thesportsdb.com/api/v1/json/{chave}/searchteams.php?t={urllib.parse.quote(nome)}"
+    """Busca com paciência: o plano gratuito bloqueia rajadas (HTTP 429)."""
+    url = f"https://www.thesportsdb.com/api/v1/json/{CHAVE}/searchteams.php?t={urllib.parse.quote(nome)}"
+    for tentativa in range(5):
         try:
             req = urllib.request.Request(url, headers={"User-Agent": "arquibancada-app"})
             with urllib.request.urlopen(req, timeout=20) as r:
                 dados = json.load(r)
             return dados.get("teams") or []
-        except Exception as erro:  # tenta a próxima chave
-            print(f"  falhou com chave {chave}: {erro}")
-            time.sleep(3)
-    return []
+        except urllib.error.HTTPError as erro:
+            espera = 30 * (tentativa + 1) if erro.code == 429 else 5
+            print(f"  HTTP {erro.code}; nova tentativa em {espera}s")
+            time.sleep(espera)
+        except Exception as erro:
+            print(f"  falhou: {erro}")
+            time.sleep(5)
+    return None  # None = não deu para consultar (diferente de "não encontrado")
 
 
 def escolher(times, info):
@@ -51,12 +57,13 @@ def main():
         if nome in logos:
             continue
         print(f"buscando {nome} ({info['busca']})")
-        url = escolher(buscar(info["busca"]), info)
+        resultado = buscar(info["busca"])
+        url = escolher(resultado, info) if resultado is not None else None
         if url:
             logos[nome] = url
         else:
             sem_logo.append(nome)
-        time.sleep(2.2)  # limite do plano gratuito: 30 pedidos por minuto
+        time.sleep(6)  # bem abaixo do limite do plano gratuito
     saida = {"versao": 1, "logos": dict(sorted(logos.items())), "sem_logo": sorted(sem_logo)}
     with open("dados/logos.json", "w", encoding="utf-8") as f:
         json.dump(saida, f, ensure_ascii=False, indent=2)
