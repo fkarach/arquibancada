@@ -1,0 +1,1980 @@
+{
+  "versao": 1,
+  "atualizado_em": "2026-11-07T17:40:00-03:00",
+  "proxima_atualizacao": "2026-11-10T06:00:00-03:00",
+  "janela": {
+    "de": "2026-11-07",
+    "ate": "2026-12-07"
+  },
+  "observacoes": [
+    "Primeira carga, feita em 07/11/2026.",
+    "Futebol europeu abaixo do piso semanal nesta carga; a próxima atualização completa."
+  ],
+  "fontes": [
+    "https://abcdoabc.com.br/copa-do-brasil-cbf-dedfine-detalhes-datas",
+    "https://portaldopalestra.com.br/agenda-palmeiras-novembro-2026-jogos-copa-do-brasil-brasileirao-final-libertadores/",
+    "https://www.lance.com.br/futebol-nacional/cbf-detalha-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios-dos-jogos.html",
+    "https://www.dgabc.com.br/Noticia/4366193/palmeiras-x-estudiantes-conmebol-define-horario-da-final-da-libertadores-veja-detalhes",
+    "https://www.opovo.com.br/esportes/mais-esportes/2026/03/06/guia-da-formula-1-em-2026-veja-datas-hora-e-onde-assistir.html",
+    "https://gameoverdrive.com.br/nfl-novembro-2026-onde-assistir-jogos-horarios/",
+    "https://maquinadoesporte.com.br/onde-assistir/nfl-veja-onde-assistir-aos-jogos-da-temporada-2026-2027/",
+    "https://gameoverdrive.com.br/nba-novembro-2026-onde-assistir-jogos-horarios/",
+    "https://www.prnewswire.com/br/comunicados-para-a-imprensa/paramount-e-ufc-expandem-parceria-para-a-america-latina-e-australia-a-partir-de-2026-302598745.html",
+    "https://lolesports.com/pt-BR/lolesports/news/worlds-2026-primer",
+    "https://www.ggrecon.com/articles/lol-worlds-2026-semifinals-uk-time/",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_FIS_Alpine_Ski_World_Cup",
+    "https://www.brasil247.com/tendencias/2026/11/02/brasileirao-2026-34-rodada/"
+  ],
+  "eventos": [
+    {
+      "id": "cdb-2026-semi-cam-gre",
+      "esporte": "futebol",
+      "competicao": "Copa do Brasil · semifinal, volta",
+      "titulo": "Atlético-MG x Grêmio",
+      "monogramas": [
+        "CAM",
+        "GRE"
+      ],
+      "inicio": "2026-11-07T18:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Arena MRV, Belo Horizonte",
+      "onde_assistir": [
+        {
+          "canal": "Prime Video",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "prime_video"
+        },
+        {
+          "canal": "sportv",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "globoplay"
+        },
+        {
+          "canal": "Premiere",
+          "tipo": "ppv",
+          "gratis": false
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "CBF via ABCdoABC",
+      "meu_time": false,
+      "pontos": 5,
+      "motivos": [
+        "mata-mata",
+        "define o rival do Palmeiras numa eventual final"
+      ],
+      "por_que_vale": [
+        "O vencedor pega Vasco ou Palmeiras na final de 6/12."
+      ]
+    },
+    {
+      "id": "lol-worlds-2026-sf1",
+      "esporte": "esports",
+      "competicao": "Mundial de LoL · semifinal",
+      "titulo": "Gen.G x Invictus Gaming",
+      "monogramas": [
+        "GEN",
+        "IG"
+      ],
+      "inicio": "2026-11-07T18:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Allen, Texas",
+      "onde_assistir": [
+        {
+          "canal": "LoL Esports Brasil (YouTube/Twitch)",
+          "tipo": "youtube",
+          "gratis": true
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "canais oficiais da Riot transmitem o Mundial",
+      "meu_time": false,
+      "pontos": 7,
+      "motivos": [
+        "mega-evento",
+        "semifinal do Mundial"
+      ],
+      "por_que_vale": [],
+      "modalidade": "league_of_legends",
+      "observacao": "Guia oficial da Riot diz 18:00; um site britânico indica 19:00. Conferir na véspera."
+    },
+    {
+      "id": "ufc-fn-2026-11-07",
+      "esporte": "mma",
+      "competicao": "UFC Fight Night · Las Vegas",
+      "titulo": "Cortes Acosta x Johnny Walker",
+      "monogramas": [
+        "WCA",
+        "JWA"
+      ],
+      "inicio": "2026-11-07T23:40:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": null,
+      "onde_assistir": [
+        {
+          "canal": "Paramount+",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "paramount_plus"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "UFC no Paramount+ na América Latina desde 2026",
+      "meu_time": false,
+      "pontos": 3,
+      "motivos": [
+        "brasileiro na luta principal"
+      ],
+      "por_que_vale": [
+        "Johnny Walker faz a luta principal; Virna Jandiroba enfrenta Tatiana Suarez antes."
+      ],
+      "observacao": "Card começa às 19:00; luta principal prevista para 23:40."
+    },
+    {
+      "id": "f1-2026-sao-paulo",
+      "esporte": "f1",
+      "competicao": "Fórmula 1 · Interlagos",
+      "titulo": "GP de São Paulo",
+      "monogramas": [
+        "F1"
+      ],
+      "inicio": "2026-11-08T14:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Interlagos, São Paulo",
+      "onde_assistir": [
+        {
+          "canal": "TV Globo",
+          "tipo": "tv_aberta",
+          "gratis": true
+        },
+        {
+          "canal": "sportv",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "globoplay"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Globo tem a F1 desde 2026; GP do Brasil ao vivo na TV aberta é o padrão",
+      "meu_time": false,
+      "pontos": 9,
+      "motivos": [
+        "mega-evento",
+        "corrida em casa"
+      ],
+      "por_que_vale": [
+        "Gabriel Bortoleto corre diante da torcida brasileira."
+      ]
+    },
+    {
+      "id": "nfl-2026-w10-nyg-phi",
+      "esporte": "nfl",
+      "competicao": "NFL · temporada regular",
+      "titulo": "Giants @ Eagles",
+      "monogramas": [
+        "NYG",
+        "PHI"
+      ],
+      "inicio": "2026-11-08T15:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Filadélfia",
+      "onde_assistir": [
+        {
+          "canal": "NFL Game Pass (DAZN)",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "nfl_game_pass"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Game Pass confirmado; ESPN e ge TV ainda não divulgaram o jogo da semana",
+      "meu_time": true,
+      "pontos": 6,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": [
+        "Clássico de divisão: Giants (4-2) contra Eagles (2-6)."
+      ]
+    },
+    {
+      "id": "cdb-2026-semi-vas-pal",
+      "esporte": "futebol",
+      "competicao": "Copa do Brasil · semifinal, volta",
+      "titulo": "Vasco x Palmeiras",
+      "monogramas": [
+        "VAS",
+        "PAL"
+      ],
+      "inicio": "2026-11-08T17:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "São Januário, Rio de Janeiro",
+      "onde_assistir": [
+        {
+          "canal": "TV Globo",
+          "tipo": "tv_aberta",
+          "gratis": true
+        },
+        {
+          "canal": "ge TV",
+          "tipo": "youtube",
+          "gratis": true
+        },
+        {
+          "canal": "Prime Video",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "prime_video"
+        },
+        {
+          "canal": "sportv",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "globoplay"
+        },
+        {
+          "canal": "Premiere",
+          "tipo": "ppv",
+          "gratis": false
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "CBF via ABCdoABC",
+      "meu_time": true,
+      "pontos": 10,
+      "motivos": [
+        "meu time",
+        "vale vaga na final"
+      ],
+      "por_que_vale": [
+        "Vale vaga na final da Copa do Brasil, em 6/12 no Mané Garrincha."
+      ]
+    },
+    {
+      "id": "nba-2026-11-08-phi-chi",
+      "esporte": "nba",
+      "competicao": "NBA · temporada regular",
+      "titulo": "Bulls x 76ers",
+      "monogramas": [
+        "CHI",
+        "PHI"
+      ],
+      "inicio": "2026-11-08T17:30:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Chicago",
+      "onde_assistir": [
+        {
+          "canal": "NBA League Pass",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "league_pass"
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "grade de novembro do Game Over Drive",
+      "meu_time": true,
+      "pontos": 6,
+      "motivos": [
+        "meu time",
+        "conflita com Vasco x Palmeiras"
+      ],
+      "por_que_vale": [
+        "Os 76ers lideram o Leste (8-2)."
+      ]
+    },
+    {
+      "id": "lol-worlds-2026-sf2",
+      "esporte": "esports",
+      "competicao": "Mundial de LoL · semifinal",
+      "titulo": "T1 x Bilibili Gaming",
+      "monogramas": [
+        "T1",
+        "BLG"
+      ],
+      "inicio": "2026-11-08T18:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Allen, Texas",
+      "onde_assistir": [
+        {
+          "canal": "LoL Esports Brasil (YouTube/Twitch)",
+          "tipo": "youtube",
+          "gratis": true
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "canais oficiais da Riot transmitem o Mundial",
+      "meu_time": false,
+      "pontos": 7,
+      "motivos": [
+        "mega-evento",
+        "semifinal do Mundial"
+      ],
+      "por_que_vale": [],
+      "modalidade": "league_of_legends",
+      "observacao": "Guia oficial da Riot diz 18:00; um site britânico indica 19:00. Conferir na véspera."
+    },
+    {
+      "id": "nfl-2026-w10-gb-ne",
+      "esporte": "nfl",
+      "competicao": "NFL · temporada regular",
+      "titulo": "Packers @ Patriots",
+      "monogramas": [
+        "GB",
+        "NE"
+      ],
+      "inicio": "2026-11-08T18:25:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": null,
+      "onde_assistir": [
+        {
+          "canal": "NFL Game Pass (DAZN)",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "nfl_game_pass"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Game Pass confirmado; demais canais a definir",
+      "meu_time": false,
+      "pontos": 4,
+      "motivos": [
+        "dois times com campanha positiva"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "nfl-2026-w10-buf-min",
+      "esporte": "nfl",
+      "competicao": "NFL · Monday Night",
+      "titulo": "Bills @ Vikings",
+      "monogramas": [
+        "BUF",
+        "MIN"
+      ],
+      "inicio": "2026-11-09T22:15:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": null,
+      "onde_assistir": [
+        {
+          "canal": "ESPN / Disney+",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "espn_disney"
+        },
+        {
+          "canal": "NFL Game Pass (DAZN)",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "nfl_game_pass"
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "grade de novembro do Game Over Drive",
+      "meu_time": false,
+      "pontos": 5,
+      "motivos": [
+        "dois líderes de conferência (6-1 x 6-1)"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "nba-2026-11-10-bos-phi",
+      "esporte": "nba",
+      "competicao": "NBA · temporada regular",
+      "titulo": "Celtics x 76ers",
+      "monogramas": [
+        "BOS",
+        "PHI"
+      ],
+      "inicio": "2026-11-10T22:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": null,
+      "onde_assistir": [
+        {
+          "canal": "Prime Video",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "prime_video"
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "grade de novembro do Game Over Drive",
+      "meu_time": false,
+      "pontos": 6,
+      "motivos": [
+        "líder x vice do Leste",
+        "no seu Prime"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "nba-2026-11-11-sas-chi",
+      "esporte": "nba",
+      "competicao": "NBA · temporada regular",
+      "titulo": "Bulls x Spurs",
+      "monogramas": [
+        "CHI",
+        "SAS"
+      ],
+      "inicio": "2026-11-11T22:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Chicago",
+      "onde_assistir": [
+        {
+          "canal": "NBA League Pass",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "league_pass"
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "grade de novembro do Game Over Drive",
+      "meu_time": true,
+      "pontos": 6,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "nba-2026-11-11-gsw-hou",
+      "esporte": "nba",
+      "competicao": "NBA · temporada regular",
+      "titulo": "Warriors x Rockets",
+      "monogramas": [
+        "GSW",
+        "HOU"
+      ],
+      "inicio": "2026-11-11T23:30:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": null,
+      "onde_assistir": [
+        {
+          "canal": "ESPN 2 / Disney+",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "espn_disney"
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "grade de novembro do Game Over Drive",
+      "meu_time": false,
+      "pontos": 4,
+      "motivos": [
+        "dois times do topo do Oeste"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "nfl-2026-w11-was-nyg",
+      "esporte": "nfl",
+      "competicao": "NFL · Thursday Night",
+      "titulo": "Commanders @ Giants",
+      "monogramas": [
+        "WAS",
+        "NYG"
+      ],
+      "inicio": "2026-11-12T22:15:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Nova Jersey",
+      "onde_assistir": [
+        {
+          "canal": "sportv",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "globoplay"
+        },
+        {
+          "canal": "NFL Game Pass (DAZN)",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "nfl_game_pass"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "sportv tem todos os jogos de quinta (Máquina do Esporte)",
+      "meu_time": true,
+      "pontos": 6,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "nba-2026-11-13-atl-chi",
+      "esporte": "nba",
+      "competicao": "NBA · temporada regular",
+      "titulo": "Bulls x Hawks",
+      "monogramas": [
+        "CHI",
+        "ATL"
+      ],
+      "inicio": "2026-11-13T22:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Chicago",
+      "onde_assistir": [
+        {
+          "canal": "NBA League Pass",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "league_pass"
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "grade de novembro do Game Over Drive",
+      "meu_time": true,
+      "pontos": 6,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "nba-2026-11-13-gsw-sas",
+      "esporte": "nba",
+      "competicao": "NBA · temporada regular",
+      "titulo": "Warriors x Spurs",
+      "monogramas": [
+        "GSW",
+        "SAS"
+      ],
+      "inicio": "2026-11-13T23:30:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": null,
+      "onde_assistir": [
+        {
+          "canal": "Prime Video",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "prime_video"
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "grade de novembro do Game Over Drive",
+      "meu_time": false,
+      "pontos": 5,
+      "motivos": [
+        "dois times do topo do Oeste",
+        "no seu Prime"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "lol-worlds-2026-final",
+      "esporte": "esports",
+      "competicao": "Mundial de LoL · final",
+      "titulo": "Final do Mundial de LoL",
+      "monogramas": [
+        "LOL"
+      ],
+      "inicio": "2026-11-14T16:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Barclays Center, Nova York",
+      "onde_assistir": [
+        {
+          "canal": "LoL Esports Brasil (YouTube/Twitch)",
+          "tipo": "youtube",
+          "gratis": true
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "canais oficiais da Riot transmitem o Mundial",
+      "meu_time": false,
+      "pontos": 9,
+      "motivos": [
+        "mega-evento",
+        "final"
+      ],
+      "por_que_vale": [
+        "Decisão do Mundial de League of Legends."
+      ],
+      "modalidade": "league_of_legends"
+    },
+    {
+      "id": "bra-2026-r35-mir-cam",
+      "esporte": "futebol",
+      "competicao": "Brasileirão · 35ª rodada",
+      "titulo": "Mirassol x Atlético-MG",
+      "monogramas": [
+        "MIR",
+        "CAM"
+      ],
+      "inicio": "2026-11-14T18:30:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Maião, Mirassol",
+      "onde_assistir": [],
+      "status_canal": "desconhecido",
+      "origem_canal": "",
+      "meu_time": false,
+      "pontos": 3,
+      "motivos": [
+        "rebaixamento x vaga na Libertadores"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "ufc-334",
+      "esporte": "mma",
+      "competicao": "UFC 334",
+      "titulo": "Gane x Hokit",
+      "monogramas": [
+        "UFC"
+      ],
+      "inicio": "2026-11-14T19:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": null,
+      "onde_assistir": [
+        {
+          "canal": "Paramount+",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "paramount_plus"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "UFC no Paramount+ na América Latina desde 2026",
+      "meu_time": false,
+      "pontos": 4,
+      "motivos": [
+        "card numerado"
+      ],
+      "por_que_vale": [],
+      "observacao": "Horário é o início do card; a luta principal fica para o fim da noite."
+    },
+    {
+      "id": "nfl-2026-w11-ne-det",
+      "esporte": "nfl",
+      "competicao": "NFL · temporada regular",
+      "titulo": "Patriots @ Lions",
+      "monogramas": [
+        "NE",
+        "DET"
+      ],
+      "inicio": "2026-11-15T11:30:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": null,
+      "onde_assistir": [
+        {
+          "canal": "NFL Game Pass (DAZN)",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "nfl_game_pass"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Game Pass confirmado; demais canais a definir",
+      "meu_time": false,
+      "pontos": 4,
+      "motivos": [
+        "dois times com campanha positiva"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "nba-2026-11-15-dal-bos",
+      "esporte": "nba",
+      "competicao": "NBA · temporada regular",
+      "titulo": "Mavericks x Celtics",
+      "monogramas": [
+        "DAL",
+        "BOS"
+      ],
+      "inicio": "2026-11-15T20:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": null,
+      "onde_assistir": [
+        {
+          "canal": "Prime Video",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "prime_video"
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "grade de novembro do Game Over Drive",
+      "meu_time": false,
+      "pontos": 4,
+      "motivos": [
+        "no seu Prime"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "nfl-2026-w11-pit-cin",
+      "esporte": "nfl",
+      "competicao": "NFL · Sunday Night",
+      "titulo": "Steelers @ Bengals",
+      "monogramas": [
+        "PIT",
+        "CIN"
+      ],
+      "inicio": "2026-11-15T22:20:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": null,
+      "onde_assistir": [
+        {
+          "canal": "sportv",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "globoplay"
+        },
+        {
+          "canal": "NFL Game Pass (DAZN)",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "nfl_game_pass"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "sportv tem os jogos de domingo à noite (Máquina do Esporte)",
+      "meu_time": false,
+      "pontos": 5,
+      "motivos": [
+        "clássico de divisão",
+        "dois times do topo da AFC"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "esqui-2026-levi-sl",
+      "esporte": "esqui",
+      "competicao": "Copa do Mundo de esqui alpino · slalom",
+      "titulo": "Slalom de Levi",
+      "monogramas": [
+        "LPB"
+      ],
+      "inicio": "2026-11-15",
+      "horario_definido": false,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Levi, Finlândia",
+      "onde_assistir": [],
+      "status_canal": "desconhecido",
+      "origem_canal": "",
+      "meu_time": true,
+      "pontos": 6,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": [],
+      "observacao": "Calendário provisório da FIS; horário e transmissão ainda não divulgados."
+    },
+    {
+      "id": "nba-2026-11-16-cle-chi",
+      "esporte": "nba",
+      "competicao": "NBA · temporada regular",
+      "titulo": "Cavaliers x Bulls",
+      "monogramas": [
+        "CLE",
+        "CHI"
+      ],
+      "inicio": "2026-11-16T21:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Cleveland",
+      "onde_assistir": [
+        {
+          "canal": "NBA League Pass",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "league_pass"
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "grade de novembro do Game Over Drive",
+      "meu_time": true,
+      "pontos": 6,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "nba-2026-11-17-det-sas",
+      "esporte": "nba",
+      "competicao": "NBA · temporada regular",
+      "titulo": "Pistons x Spurs",
+      "monogramas": [
+        "DET",
+        "SAS"
+      ],
+      "inicio": "2026-11-17T22:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": null,
+      "onde_assistir": [
+        {
+          "canal": "Prime Video",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "prime_video"
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "grade de novembro do Game Over Drive",
+      "meu_time": false,
+      "pontos": 6,
+      "motivos": [
+        "dois times do topo",
+        "no seu Prime"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "bra-2026-r35-cru-pal",
+      "esporte": "futebol",
+      "competicao": "Brasileirão · 35ª rodada",
+      "titulo": "Cruzeiro x Palmeiras",
+      "monogramas": [
+        "CRU",
+        "PAL"
+      ],
+      "inicio": "2026-11-18T20:30:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Mineirão, Belo Horizonte",
+      "onde_assistir": [],
+      "status_canal": "desconhecido",
+      "origem_canal": "",
+      "meu_time": true,
+      "pontos": 8,
+      "motivos": [
+        "meu time",
+        "briga pelo título"
+      ],
+      "por_que_vale": [
+        "Palmeiras persegue o Flamengo na briga pelo título."
+      ]
+    },
+    {
+      "id": "bra-2026-r35-fla-cap",
+      "esporte": "futebol",
+      "competicao": "Brasileirão · 35ª rodada",
+      "titulo": "Flamengo x Athletico-PR",
+      "monogramas": [
+        "FLA",
+        "CAP"
+      ],
+      "inicio": "2026-11-18T20:30:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Maracanã, Rio de Janeiro",
+      "onde_assistir": [],
+      "status_canal": "desconhecido",
+      "origem_canal": "",
+      "meu_time": false,
+      "pontos": 4,
+      "motivos": [
+        "líder em campo",
+        "afeta a briga com o Palmeiras"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "nba-2026-11-18-bkn-chi",
+      "esporte": "nba",
+      "competicao": "NBA · temporada regular",
+      "titulo": "Nets x Bulls",
+      "monogramas": [
+        "BKN",
+        "CHI"
+      ],
+      "inicio": "2026-11-18T21:30:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Brooklyn",
+      "onde_assistir": [
+        {
+          "canal": "NBA League Pass",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "league_pass"
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "grade de novembro do Game Over Drive",
+      "meu_time": true,
+      "pontos": 6,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "bra-2026-r35-gre-bah",
+      "esporte": "futebol",
+      "competicao": "Brasileirão · 35ª rodada",
+      "titulo": "Grêmio x Bahia",
+      "monogramas": [
+        "GRE",
+        "BAH"
+      ],
+      "inicio": "2026-11-18T21:30:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Arena do Grêmio, Porto Alegre",
+      "onde_assistir": [],
+      "status_canal": "desconhecido",
+      "origem_canal": "",
+      "meu_time": false,
+      "pontos": 3,
+      "motivos": [
+        "rebaixamento x vaga na Libertadores"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "bra-2026-r35-cor-bot",
+      "esporte": "futebol",
+      "competicao": "Brasileirão · 35ª rodada",
+      "titulo": "Corinthians x Botafogo",
+      "monogramas": [
+        "COR",
+        "BOT"
+      ],
+      "inicio": "2026-11-18T21:30:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Neo Química Arena, São Paulo",
+      "onde_assistir": [],
+      "status_canal": "desconhecido",
+      "origem_canal": "",
+      "meu_time": false,
+      "pontos": 3,
+      "motivos": [
+        "luta contra o rebaixamento"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "bra-2026-r35-sao-flu",
+      "esporte": "futebol",
+      "competicao": "Brasileirão · 35ª rodada",
+      "titulo": "São Paulo x Fluminense",
+      "monogramas": [
+        "SAO",
+        "FLU"
+      ],
+      "inicio": "2026-11-19T21:30:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Morumbis, São Paulo",
+      "onde_assistir": [],
+      "status_canal": "desconhecido",
+      "origem_canal": "",
+      "meu_time": false,
+      "pontos": 3,
+      "motivos": [
+        "Fluminense na briga pelo G4"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "nba-2026-11-20-was-chi",
+      "esporte": "nba",
+      "competicao": "NBA · temporada regular",
+      "titulo": "Bulls x Wizards",
+      "monogramas": [
+        "CHI",
+        "WAS"
+      ],
+      "inicio": "2026-11-20T22:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Chicago",
+      "onde_assistir": [
+        {
+          "canal": "NBA League Pass",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "league_pass"
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "grade de novembro do Game Over Drive",
+      "meu_time": true,
+      "pontos": 6,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "bra-2026-r36-pal-fla",
+      "esporte": "futebol",
+      "competicao": "Brasileirão · 36ª rodada",
+      "titulo": "Palmeiras x Flamengo",
+      "monogramas": [
+        "PAL",
+        "FLA"
+      ],
+      "inicio": "2026-11-21T16:30:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Nubank Parque, São Paulo",
+      "onde_assistir": [],
+      "status_canal": "desconhecido",
+      "origem_canal": "",
+      "meu_time": true,
+      "pontos": 10,
+      "motivos": [
+        "meu time",
+        "confronto direto pelo título"
+      ],
+      "por_que_vale": [
+        "Confronto direto entre o líder Flamengo e o vice Palmeiras na reta final."
+      ]
+    },
+    {
+      "id": "f1-2026-las-vegas",
+      "esporte": "f1",
+      "competicao": "Fórmula 1 · Las Vegas",
+      "titulo": "GP de Las Vegas",
+      "monogramas": [
+        "F1"
+      ],
+      "inicio": "2026-11-22T01:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Las Vegas",
+      "onde_assistir": [
+        {
+          "canal": "sportv",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "globoplay"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "sportv exibe todas as corridas; TV Globo ao vivo ainda não confirmada para este GP",
+      "meu_time": false,
+      "pontos": 8,
+      "motivos": [
+        "mega-evento"
+      ],
+      "por_que_vale": [],
+      "observacao": "Corrida na madrugada de sábado para domingo."
+    },
+    {
+      "id": "nfl-2026-w12-jax-nyg",
+      "esporte": "nfl",
+      "competicao": "NFL · temporada regular",
+      "titulo": "Jaguars @ Giants",
+      "monogramas": [
+        "JAX",
+        "NYG"
+      ],
+      "inicio": "2026-11-22T15:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Nova Jersey",
+      "onde_assistir": [
+        {
+          "canal": "NFL Game Pass (DAZN)",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "nfl_game_pass"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Game Pass confirmado; demais canais a definir",
+      "meu_time": true,
+      "pontos": 7,
+      "motivos": [
+        "meu time",
+        "dois times com campanha positiva"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "nba-2026-11-22-den-chi",
+      "esporte": "nba",
+      "competicao": "NBA · temporada regular",
+      "titulo": "Bulls x Nuggets",
+      "monogramas": [
+        "CHI",
+        "DEN"
+      ],
+      "inicio": "2026-11-22T21:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Chicago",
+      "onde_assistir": [
+        {
+          "canal": "NBA League Pass",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "league_pass"
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "grade de novembro do Game Over Drive",
+      "meu_time": true,
+      "pontos": 6,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "nfl-2026-w12-min-sf",
+      "esporte": "nfl",
+      "competicao": "NFL · Sunday Night",
+      "titulo": "Vikings @ 49ers",
+      "monogramas": [
+        "MIN",
+        "SF"
+      ],
+      "inicio": "2026-11-22T22:20:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": null,
+      "onde_assistir": [
+        {
+          "canal": "sportv",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "globoplay"
+        },
+        {
+          "canal": "NFL Game Pass (DAZN)",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "nfl_game_pass"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "sportv tem os jogos de domingo à noite (Máquina do Esporte)",
+      "meu_time": false,
+      "pontos": 5,
+      "motivos": [
+        "dois líderes da NFC (6-1 x 6-1)"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "esqui-2026-gurgl-sl",
+      "esporte": "esqui",
+      "competicao": "Copa do Mundo de esqui alpino · slalom",
+      "titulo": "Slalom de Gurgl",
+      "monogramas": [
+        "LPB"
+      ],
+      "inicio": "2026-11-22",
+      "horario_definido": false,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Gurgl, Áustria",
+      "onde_assistir": [],
+      "status_canal": "desconhecido",
+      "origem_canal": "",
+      "meu_time": true,
+      "pontos": 6,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": [],
+      "observacao": "Calendário provisório da FIS; horário e transmissão ainda não divulgados."
+    },
+    {
+      "id": "nba-2026-11-23-cle-chi",
+      "esporte": "nba",
+      "competicao": "NBA · temporada regular",
+      "titulo": "Bulls x Cavaliers",
+      "monogramas": [
+        "CHI",
+        "CLE"
+      ],
+      "inicio": "2026-11-23T22:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Chicago",
+      "onde_assistir": [
+        {
+          "canal": "NBA League Pass",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "league_pass"
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "grade de novembro do Game Over Drive",
+      "meu_time": true,
+      "pontos": 6,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "ucl-2026-md5-ars-bvb",
+      "esporte": "futebol",
+      "competicao": "Champions League · 5ª rodada",
+      "titulo": "Arsenal x Borussia Dortmund",
+      "monogramas": [
+        "ARS",
+        "BVB"
+      ],
+      "inicio": "2026-11-24T17:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Londres",
+      "onde_assistir": [
+        {
+          "canal": "TNT / HBO Max",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "hbo_max"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "TNT/HBO Max têm todos os jogos; SBT escolhe 1 por rodada",
+      "meu_time": false,
+      "pontos": 4,
+      "motivos": [
+        "Champions",
+        "gigantes europeus"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "ucl-2026-md5-mci-nap",
+      "esporte": "futebol",
+      "competicao": "Champions League · 5ª rodada",
+      "titulo": "Manchester City x Napoli",
+      "monogramas": [
+        "MCI",
+        "NAP"
+      ],
+      "inicio": "2026-11-24T17:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Manchester",
+      "onde_assistir": [
+        {
+          "canal": "TNT / HBO Max",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "hbo_max"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "TNT/HBO Max têm todos os jogos; SBT escolhe 1 por rodada",
+      "meu_time": false,
+      "pontos": 4,
+      "motivos": [
+        "Champions",
+        "gigantes europeus"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "ucl-2026-md5-rma-psv",
+      "esporte": "futebol",
+      "competicao": "Champions League · 5ª rodada",
+      "titulo": "Real Madrid x PSV",
+      "monogramas": [
+        "RMA",
+        "PSV"
+      ],
+      "inicio": "2026-11-24T17:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Madri",
+      "onde_assistir": [
+        {
+          "canal": "TNT / HBO Max",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "hbo_max"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "TNT/HBO Max têm todos os jogos; SBT escolhe 1 por rodada",
+      "meu_time": false,
+      "pontos": 3,
+      "motivos": [
+        "Champions"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "nba-2026-11-25-cha-chi",
+      "esporte": "nba",
+      "competicao": "NBA · temporada regular",
+      "titulo": "Hornets x Bulls",
+      "monogramas": [
+        "CHA",
+        "CHI"
+      ],
+      "inicio": "2026-11-25T21:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Charlotte",
+      "onde_assistir": [
+        {
+          "canal": "NBA League Pass",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "league_pass"
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "grade de novembro do Game Over Drive",
+      "meu_time": true,
+      "pontos": 6,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "nba-2026-11-25-min-okc",
+      "esporte": "nba",
+      "competicao": "NBA · temporada regular",
+      "titulo": "Timberwolves x Thunder",
+      "monogramas": [
+        "MIN",
+        "OKC"
+      ],
+      "inicio": "2026-11-25T21:30:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": null,
+      "onde_assistir": [
+        {
+          "canal": "ESPN 2 / Disney+",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "espn_disney"
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "grade de novembro do Game Over Drive",
+      "meu_time": false,
+      "pontos": 4,
+      "motivos": [
+        "dois times do topo do Oeste"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "nfl-2026-w12-chi-det",
+      "esporte": "nfl",
+      "competicao": "NFL · Thanksgiving",
+      "titulo": "Bears @ Lions",
+      "monogramas": [
+        "CHI",
+        "DET"
+      ],
+      "inicio": "2026-11-26T15:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": null,
+      "onde_assistir": [
+        {
+          "canal": "NFL Game Pass (DAZN)",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "nfl_game_pass"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Game Pass confirmado; demais canais a definir",
+      "meu_time": false,
+      "pontos": 5,
+      "motivos": [
+        "Thanksgiving",
+        "clássico de divisão entre times do topo"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "nfl-2026-w12-kc-buf",
+      "esporte": "nfl",
+      "competicao": "NFL · Thanksgiving",
+      "titulo": "Chiefs @ Bills",
+      "monogramas": [
+        "KC",
+        "BUF"
+      ],
+      "inicio": "2026-11-26T22:20:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": null,
+      "onde_assistir": [
+        {
+          "canal": "NFL Game Pass (DAZN)",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "nfl_game_pass"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Game Pass confirmado; demais canais a definir",
+      "meu_time": false,
+      "pontos": 5,
+      "motivos": [
+        "Thanksgiving",
+        "dois times do topo da AFC"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "nfl-2026-w12-den-pit",
+      "esporte": "nfl",
+      "competicao": "NFL · Black Friday",
+      "titulo": "Broncos @ Steelers",
+      "monogramas": [
+        "DEN",
+        "PIT"
+      ],
+      "inicio": "2026-11-27T17:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": null,
+      "onde_assistir": [
+        {
+          "canal": "NFL Game Pass (DAZN)",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "nfl_game_pass"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Game Pass confirmado; demais canais a definir",
+      "meu_time": false,
+      "pontos": 4,
+      "motivos": [
+        "dois times 6-2"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "nba-2026-11-27-lal-sas",
+      "esporte": "nba",
+      "competicao": "NBA · temporada regular",
+      "titulo": "Lakers x Spurs",
+      "monogramas": [
+        "LAL",
+        "SAS"
+      ],
+      "inicio": "2026-11-27T23:30:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": null,
+      "onde_assistir": [
+        {
+          "canal": "Prime Video",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "prime_video"
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "grade de novembro do Game Over Drive",
+      "meu_time": false,
+      "pontos": 6,
+      "motivos": [
+        "dois times do topo do Oeste",
+        "no seu Prime"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "lib-2026-final",
+      "esporte": "futebol",
+      "competicao": "Libertadores · final",
+      "titulo": "Palmeiras x Estudiantes",
+      "monogramas": [
+        "PAL",
+        "EST"
+      ],
+      "inicio": "2026-11-28T17:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Estádio Centenário, Montevidéu",
+      "onde_assistir": [
+        {
+          "canal": "TV Globo",
+          "tipo": "tv_aberta",
+          "gratis": true
+        },
+        {
+          "canal": "ge TV",
+          "tipo": "youtube",
+          "gratis": true
+        },
+        {
+          "canal": "ESPN / Disney+",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "espn_disney"
+        },
+        {
+          "canal": "Paramount+",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "paramount_plus"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "pacote de direitos da Libertadores 2026 (TechTudo); final costuma ir à TV aberta",
+      "meu_time": true,
+      "pontos": 10,
+      "motivos": [
+        "meu time",
+        "final"
+      ],
+      "por_que_vale": [
+        "Final da Libertadores em jogo único, em Montevidéu."
+      ]
+    },
+    {
+      "id": "nba-2026-11-28-ind-chi",
+      "esporte": "nba",
+      "competicao": "NBA · temporada regular",
+      "titulo": "Bulls x Pacers",
+      "monogramas": [
+        "CHI",
+        "IND"
+      ],
+      "inicio": "2026-11-28T22:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Chicago",
+      "onde_assistir": [
+        {
+          "canal": "NBA League Pass",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "league_pass"
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "grade de novembro do Game Over Drive",
+      "meu_time": true,
+      "pontos": 6,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "f1-2026-catar",
+      "esporte": "f1",
+      "competicao": "Fórmula 1 · Losail",
+      "titulo": "GP do Catar",
+      "monogramas": [
+        "F1"
+      ],
+      "inicio": "2026-11-29T13:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Losail, Catar",
+      "onde_assistir": [
+        {
+          "canal": "sportv",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "globoplay"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "sportv exibe todas as corridas; TV Globo não confirmada para este GP",
+      "meu_time": false,
+      "pontos": 6,
+      "motivos": [
+        "mega-evento"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "nfl-2026-w13-nyg-ind",
+      "esporte": "nfl",
+      "competicao": "NFL · temporada regular",
+      "titulo": "Giants @ Colts",
+      "monogramas": [
+        "NYG",
+        "IND"
+      ],
+      "inicio": "2026-11-29T15:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Indianápolis",
+      "onde_assistir": [
+        {
+          "canal": "NFL Game Pass (DAZN)",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "nfl_game_pass"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Game Pass confirmado; demais canais a definir",
+      "meu_time": true,
+      "pontos": 6,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "nfl-2026-w13-sea-sf",
+      "esporte": "nfl",
+      "competicao": "NFL · temporada regular",
+      "titulo": "Seahawks @ 49ers",
+      "monogramas": [
+        "SEA",
+        "SF"
+      ],
+      "inicio": "2026-11-29T18:25:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": null,
+      "onde_assistir": [
+        {
+          "canal": "NFL Game Pass (DAZN)",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "nfl_game_pass"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Game Pass confirmado; demais canais a definir",
+      "meu_time": false,
+      "pontos": 4,
+      "motivos": [
+        "clássico de divisão",
+        "49ers lideram a NFC"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "esqui-2026-copper-gs",
+      "esporte": "esqui",
+      "competicao": "Copa do Mundo de esqui alpino · slalom gigante",
+      "titulo": "Slalom gigante de Copper Mountain",
+      "monogramas": [
+        "LPB"
+      ],
+      "inicio": "2026-11-29",
+      "horario_definido": false,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Copper Mountain, EUA",
+      "onde_assistir": [],
+      "status_canal": "desconhecido",
+      "origem_canal": "",
+      "meu_time": true,
+      "pontos": 6,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": [],
+      "observacao": "Calendário provisório da FIS; prova sujeita a confirmação."
+    },
+    {
+      "id": "nba-2026-12-01-nyk-chi",
+      "esporte": "nba",
+      "competicao": "NBA · temporada regular",
+      "titulo": "Bulls x Knicks",
+      "monogramas": [
+        "CHI",
+        "NYK"
+      ],
+      "inicio": "2026-12-01T22:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Chicago",
+      "onde_assistir": [
+        {
+          "canal": "NBA League Pass",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "league_pass"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "grade de dezembro ainda não divulgada; League Pass tem todos",
+      "meu_time": true,
+      "pontos": 6,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "bra-2026-r38-pal-cfc",
+      "esporte": "futebol",
+      "competicao": "Brasileirão · rodada final",
+      "titulo": "Palmeiras x Coritiba",
+      "monogramas": [
+        "PAL",
+        "CFC"
+      ],
+      "inicio": "2026-12-02T17:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Nubank Parque, São Paulo",
+      "onde_assistir": [],
+      "status_canal": "desconhecido",
+      "origem_canal": "",
+      "meu_time": true,
+      "pontos": 7,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": [],
+      "observacao": "Horário ainda não oficializado pela CBF."
+    },
+    {
+      "id": "nba-2026-12-03-cle-chi",
+      "esporte": "nba",
+      "competicao": "NBA · temporada regular",
+      "titulo": "Bulls x Cavaliers",
+      "monogramas": [
+        "CHI",
+        "CLE"
+      ],
+      "inicio": "2026-12-03T22:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Chicago",
+      "onde_assistir": [
+        {
+          "canal": "NBA League Pass",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "league_pass"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "grade de dezembro ainda não divulgada; League Pass tem todos",
+      "meu_time": true,
+      "pontos": 6,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "f1-2026-abu-dhabi",
+      "esporte": "f1",
+      "competicao": "Fórmula 1 · Yas Marina",
+      "titulo": "GP de Abu Dhabi",
+      "monogramas": [
+        "F1"
+      ],
+      "inicio": "2026-12-06T10:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Abu Dhabi",
+      "onde_assistir": [
+        {
+          "canal": "sportv",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "globoplay"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "sportv exibe todas as corridas; TV Globo ao vivo ainda não confirmada para este GP",
+      "meu_time": false,
+      "pontos": 8,
+      "motivos": [
+        "mega-evento",
+        "última etapa"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "nfl-2026-w14-sf-nyg",
+      "esporte": "nfl",
+      "competicao": "NFL · temporada regular",
+      "titulo": "49ers @ Giants",
+      "monogramas": [
+        "SF",
+        "NYG"
+      ],
+      "inicio": "2026-12-06T15:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Nova Jersey",
+      "onde_assistir": [
+        {
+          "canal": "NFL Game Pass (DAZN)",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "nfl_game_pass"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Game Pass confirmado; demais canais a definir",
+      "meu_time": true,
+      "pontos": 8,
+      "motivos": [
+        "meu time",
+        "contra o líder da NFC"
+      ],
+      "por_que_vale": []
+    },
+    {
+      "id": "cdb-2026-final",
+      "esporte": "futebol",
+      "competicao": "Copa do Brasil · final",
+      "titulo": "Final da Copa do Brasil",
+      "monogramas": [
+        "CDB"
+      ],
+      "inicio": "2026-12-06",
+      "horario_definido": false,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Mané Garrincha, Brasília",
+      "onde_assistir": [
+        {
+          "canal": "TV Globo",
+          "tipo": "tv_aberta",
+          "gratis": true
+        },
+        {
+          "canal": "ge TV",
+          "tipo": "youtube",
+          "gratis": true
+        },
+        {
+          "canal": "Prime Video",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "prime_video"
+        },
+        {
+          "canal": "sportv",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "globoplay"
+        },
+        {
+          "canal": "Premiere",
+          "tipo": "ppv",
+          "gratis": false
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "CBF via ABCdoABC",
+      "meu_time": false,
+      "pontos": 9,
+      "motivos": [
+        "mega-evento",
+        "final"
+      ],
+      "por_que_vale": [],
+      "observacao": "Jogo único. Times definidos após as semifinais de 7 e 8/11; Palmeiras joga se passar pelo Vasco."
+    },
+    {
+      "id": "esqui-2026-beaver-gs",
+      "esporte": "esqui",
+      "competicao": "Copa do Mundo de esqui alpino · slalom gigante",
+      "titulo": "Slalom gigante de Beaver Creek",
+      "monogramas": [
+        "LPB"
+      ],
+      "inicio": "2026-12-06",
+      "horario_definido": false,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Beaver Creek, EUA",
+      "onde_assistir": [],
+      "status_canal": "desconhecido",
+      "origem_canal": "",
+      "meu_time": true,
+      "pontos": 6,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": [],
+      "observacao": "Calendário provisório da FIS."
+    }
+  ]
+}

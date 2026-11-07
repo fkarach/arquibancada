@@ -1,0 +1,66 @@
+{
+  "versao": 1,
+  "seguindo": [
+    {
+      "nome": "Palmeiras",
+      "esporte": "futebol",
+      "nivel": "meu_time"
+    },
+    {
+      "nome": "New York Giants",
+      "esporte": "nfl",
+      "nivel": "meu_time"
+    },
+    {
+      "nome": "Chicago Bulls",
+      "esporte": "nba",
+      "nivel": "meu_time"
+    },
+    {
+      "nome": "Lucas Pinheiro Braathen",
+      "esporte": "esqui",
+      "nivel": "meu_time"
+    }
+  ],
+  "modalidades": [
+    {
+      "esporte": "futebol",
+      "nivel": "normal"
+    },
+    {
+      "esporte": "nfl",
+      "nivel": "normal"
+    },
+    {
+      "esporte": "nba",
+      "nivel": "normal"
+    },
+    {
+      "esporte": "f1",
+      "nivel": "normal"
+    },
+    {
+      "esporte": "mma",
+      "nivel": "normal"
+    },
+    {
+      "esporte": "esqui",
+      "nivel": "normal"
+    },
+    {
+      "esporte": "esports",
+      "modalidade": "league_of_legends",
+      "nivel": "normal"
+    },
+    {
+      "esporte": "esports",
+      "modalidade": "rocket_league",
+      "nivel": "normal"
+    }
+  ],
+  "servicos": [
+    "tv_aberta",
+    "youtube",
+    "prime_video"
+  ]
+}
