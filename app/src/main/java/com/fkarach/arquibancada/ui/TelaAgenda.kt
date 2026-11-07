@@ -132,7 +132,7 @@ fun TelaAgenda(estado: Estado, vm: AppViewModel) {
                         items(eventos, key = { it.id }) { e ->
                             Box(Modifier.padding(horizontal = 20.dp)) {
                                 LinhaEvento(
-                                    e, estado.servicos,
+                                    e, estado.servicos, estado.logos,
                                     lembrete = estado.versaoLembretes.let { vm.lembreteAtivo(e) },
                                     aoVivo = e.aoVivo(agora),
                                     onSino = { vm.alternarLembrete(e) },
@@ -169,6 +169,7 @@ fun CartaoDestaque(e: Evento, estado: Estado, onClick: () -> Unit) {
             else Text("PRÓXIMO GRANDE · ${rotuloDiaCurto(e, agora.toLocalDate()).uppercase()}", style = Tipo.eyebrow.copy(color = Cor.inkSubtle))
             SeloDoEvento(e, estado.servicos, grande = true)
         }
+        if (e.times.size == 2) ConfrontoGrande(e, estado.logos, 44.dp)
         Column(verticalArrangement = Arrangement.spacedBy(2.dp)) {
             Text(e.titulo.uppercase(), style = Tipo.displayL.copy(color = Cor.ink), maxLines = 2, overflow = TextOverflow.Ellipsis)
             Text(

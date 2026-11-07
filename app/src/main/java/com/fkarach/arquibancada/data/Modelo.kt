@@ -32,6 +32,14 @@ data class Evento(
     val motivos: List<String> = emptyList(),
     @SerialName("por_que_vale") val porQueVale: List<String> = emptyList(),
     val observacao: String? = null,
+    val times: List<String> = emptyList(),
+)
+
+@Serializable
+data class Logos(
+    val versao: Int = 1,
+    val logos: Map<String, String> = emptyMap(),
+    @SerialName("sem_logo") val semLogo: List<String> = emptyList(),
 )
 
 @Serializable

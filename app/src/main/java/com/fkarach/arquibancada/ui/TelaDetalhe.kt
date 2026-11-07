@@ -76,6 +76,7 @@ fun TelaDetalhe(e: Evento, estado: Estado, vm: AppViewModel) {
             }
 
             Column(Modifier.padding(start = 20.dp, end = 20.dp, top = 8.dp, bottom = 20.dp), verticalArrangement = Arrangement.spacedBy(10.dp)) {
+                if (e.times.size == 2) Box(Modifier.padding(bottom = 6.dp)) { ConfrontoGrande(e, estado.logos, 64.dp) }
                 Text(e.competicao.uppercase() + if (e.meuTime) " · MEU TIME" else "", style = Tipo.eyebrow.copy(color = Cor.inkSubtle))
                 Text(
                     e.titulo.uppercase(),

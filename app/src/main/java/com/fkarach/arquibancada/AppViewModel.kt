@@ -23,6 +23,7 @@ enum class Aba { AGENDA, MEUS }
 data class Estado(
     val agenda: Agenda? = null,
     val seguindo: Seguindo? = null,
+    val logos: Map<String, String> = emptyMap(),
     val servicos: Set<String> = emptySet(),
     val carregando: Boolean = true,
     val atualizando: Boolean = false,
@@ -48,6 +49,7 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
         _estado.value = Estado(
             agenda = agenda,
             seguindo = seguindo,
+            logos = repo.logosSalvos(),
             servicos = prefs.servicos(seguindo?.servicos.orEmpty()),
             carregando = agenda == null,
             soDaPraVer = prefs.soDaPraVer,
@@ -72,6 +74,7 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
                 it.copy(
                     agenda = agenda,
                     seguindo = seguindo,
+                    logos = repo.logosSalvos(),
                     servicos = prefs.servicos(seguindo?.servicos.orEmpty()),
                     carregando = false,
                     atualizando = false,

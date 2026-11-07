@@ -210,13 +210,14 @@ fun Bolinha(sigla: String, rotulo: String, estado: EstadoBolinha, selecionada: B
 // ---------- Linha de evento ----------
 
 @Composable
-fun LinhaEvento(e: Evento, servicos: Set<String>, lembrete: Boolean, aoVivo: Boolean, onSino: () -> Unit, onClick: () -> Unit) {
+fun LinhaEvento(e: Evento, servicos: Set<String>, logos: Map<String, String>, lembrete: Boolean, aoVivo: Boolean, onSino: () -> Unit, onClick: () -> Unit) {
     Row(
         verticalAlignment = Alignment.CenterVertically,
-        horizontalArrangement = Arrangement.spacedBy(12.dp),
+        horizontalArrangement = Arrangement.spacedBy(10.dp),
         modifier = Modifier.fillMaxWidth().clickable(onClick = onClick).padding(vertical = 10.dp),
     ) {
-        Text(e.hora(), style = Tipo.timeM.copy(color = Cor.ink), modifier = Modifier.width(52.dp))
+        Text(e.hora(), style = Tipo.timeM.copy(color = Cor.ink), modifier = Modifier.width(50.dp))
+        MarcaDoEvento(e, logos)
         Column(Modifier.weight(1f), verticalArrangement = Arrangement.spacedBy(2.dp)) {
             Text(e.titulo, style = Tipo.event.copy(color = Cor.ink), maxLines = 1, overflow = TextOverflow.Ellipsis)
             Text(e.linhaMeta(), style = Tipo.meta.copy(color = Cor.inkSubtle), maxLines = 1, overflow = TextOverflow.Ellipsis)
