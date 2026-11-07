@@ -23,6 +23,7 @@
     "Coritiba": "https://r2.thesportsdb.com/images/media/team/badge/ywwsyu1473538050.png/small",
     "Cruzeiro": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png/small",
     "Eagles": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png/small",
+    "Estudiantes": "https://r2.thesportsdb.com/images/media/team/badge/pf08dq1760634366.png/small",
     "Flamengo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png/small",
     "Fluminense": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png/small",
     "Giants": "https://r2.thesportsdb.com/images/media/team/badge/i9muak1784751331.png/small",
@@ -58,7 +59,5 @@
     "Warriors": "https://r2.thesportsdb.com/images/media/team/badge/xokycb1778197905.png/small",
     "Wizards": "https://r2.thesportsdb.com/images/media/team/badge/dxac7a1778227278.png/small"
   },
-  "sem_logo": [
-    "Estudiantes"
-  ]
+  "sem_logo": []
 }
