@@ -34,6 +34,7 @@ import com.fkarach.arquibancada.logica.CATEGORIAS
 import com.fkarach.arquibancada.logica.aConfirmar
 import com.fkarach.arquibancada.logica.aoVivo
 import com.fkarach.arquibancada.logica.canalPrincipal
+import com.fkarach.arquibancada.logica.categoria
 import com.fkarach.arquibancada.logica.categoriaDe
 import com.fkarach.arquibancada.logica.daPraVer
 import com.fkarach.arquibancada.logica.escolherDestaque
@@ -49,10 +50,12 @@ import com.fkarach.arquibancada.logica.terminou
 fun TelaAgenda(estado: Estado, vm: AppViewModel) {
     val agora = estado.agora
     val hoje = agora.toLocalDate()
-    val todos = estado.agenda?.eventos.orEmpty().filterNot { it.terminou(agora) }.sortedBy { it.inicioZoned() }
+    val todos = estado.agenda?.eventos.orEmpty()
+        .filterNot { it.terminou(agora) || estado.perfil?.silenciado(it) == true }
+        .sortedBy { it.inicioZoned() }
 
     var visiveis = todos
-    estado.filtroEsporte?.let { f -> visiveis = visiveis.filter { it.esporte == f } }
+    estado.filtroEsporte?.let { f -> visiveis = visiveis.filter { it.categoria().chave == f } }
     if (estado.soDaPraVer) visiveis = visiveis.filter { it.daPraVer(estado.servicos) }
 
     val destaque = escolherDestaque(visiveis, estado.servicos, agora)
@@ -60,10 +63,10 @@ fun TelaAgenda(estado: Estado, vm: AppViewModel) {
     val porDia = lista.groupBy { it.inicioZoned().toLocalDate() }.toSortedMap()
 
     // Bolinhas: só esportes que existem na agenda; ao vivo primeiro, depois hoje, depois o resto.
-    val presentes = CATEGORIAS.filter { c -> todos.any { it.esporte == c.chave } } +
-        todos.map { categoriaDe(it.esporte) }.distinctBy { it.chave }.filter { c -> CATEGORIAS.none { it.chave == c.chave } }
+    val presentes = todos.map { it.categoria() }.distinctBy { it.chave }
+        .sortedBy { c -> CATEGORIAS.indexOfFirst { it.chave == c.chave }.let { if (it < 0) 99 else it } }
     val bolinhas = presentes.map { c ->
-        val doEsporte = todos.filter { it.esporte == c.chave }
+        val doEsporte = todos.filter { it.categoria().chave == c.chave }
         val estadoB = when {
             doEsporte.any { it.aoVivo(agora) } -> EstadoBolinha.AO_VIVO
             doEsporte.any { it.inicioZoned().toLocalDate() == hoje } -> EstadoBolinha.HOJE
@@ -107,7 +110,7 @@ fun TelaAgenda(estado: Estado, vm: AppViewModel) {
                 estado.carregando -> item { Carregando() }
                 estado.agenda == null -> item { Vazio("Sem agenda ainda", "Não consegui baixar a agenda. Confira a internet e puxe a tela para baixo para tentar de novo.") }
                 visiveis.isEmpty() -> item {
-                    val nome = estado.filtroEsporte?.let { categoriaDe(it).rotulo } ?: "evento"
+                    val nome = estado.filtroEsporte?.let { f -> presentes.firstOrNull { it.chave == f }?.rotulo ?: categoriaDe(f).rotulo } ?: "evento"
                     Vazio(
                         if (estado.soDaPraVer) "Nada de $nome pra você ver ainda" else "Nada de $nome nos próximos 30 dias",
                         if (estado.soDaPraVer) "Os eventos com canal definido estão em serviços que você não marcou em Meus. Canais costumam ser confirmados na semana do jogo."

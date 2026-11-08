@@ -42,6 +42,7 @@ import com.fkarach.arquibancada.ui.IconeEstrela
 import com.fkarach.arquibancada.ui.TelaAgenda
 import com.fkarach.arquibancada.ui.TelaDetalhe
 import com.fkarach.arquibancada.ui.TelaMeus
+import com.fkarach.arquibancada.ui.TelaSeguir
 import com.fkarach.arquibancada.ui.TemaArquibancada
 import com.fkarach.arquibancada.ui.Tipo
 
@@ -83,7 +84,12 @@ private fun Raiz(vm: AppViewModel) {
     val detalhe = estado.detalheId?.let { id -> estado.agenda?.eventos?.firstOrNull { it.id == id } }
 
     BackHandler(enabled = detalhe != null || estado.aba != Aba.AGENDA) {
-        if (detalhe != null) vm.abrir(null) else vm.irPara(Aba.AGENDA)
+        when {
+            detalhe != null -> vm.abrir(null)
+            estado.seguindoNovo -> vm.abrirSeguir(false)
+            estado.editandoInteresse != null -> vm.editarInteresse(null)
+            else -> vm.irPara(Aba.AGENDA)
+        }
     }
 
     Box(Modifier.fillMaxSize().background(Cor.ground)) {
@@ -94,9 +100,10 @@ private fun Raiz(vm: AppViewModel) {
         } else {
             Column(Modifier.fillMaxSize().windowInsetsPadding(WindowInsets.safeDrawing.only(WindowInsetsSides.Top + WindowInsetsSides.Horizontal))) {
                 Box(Modifier.weight(1f)) {
-                    when (estado.aba) {
-                        Aba.AGENDA -> TelaAgenda(estado, vm)
-                        Aba.MEUS -> TelaMeus(estado, vm)
+                    when {
+                        estado.aba == Aba.MEUS && estado.seguindoNovo -> TelaSeguir(vm)
+                        estado.aba == Aba.AGENDA -> TelaAgenda(estado, vm)
+                        else -> TelaMeus(estado, vm)
                     }
                 }
                 BarraInferior(estado.aba) { vm.irPara(it) }

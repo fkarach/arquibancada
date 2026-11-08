@@ -42,6 +42,7 @@ object Lembretes {
         val agenda = Repositorio(app).agendaSalva() ?: return
         val prefs = Preferencias(app)
         val servicos = prefs.servicos(Repositorio(app).seguindoSalvo()?.servicos.orEmpty())
+        val perfil = com.fkarach.arquibancada.logica.Perfil.carregar(app)
         val alarmes = app.getSystemService(AlarmManager::class.java)
         val agora = ZonedDateTime.now(BRASILIA)
         val registro = app.getSharedPreferences(PREFS, Context.MODE_PRIVATE)
@@ -51,7 +52,7 @@ object Lembretes {
 
         val novos = mutableSetOf<String>()
         agenda.eventos
-            .filter { it.horarioDefinido && it.situacao != "adiado" && prefs.lembreteAtivo(it) }
+            .filter { it.horarioDefinido && it.situacao != "adiado" && !perfil.silenciado(it) && perfil.lembreteAtivo(it) }
             .forEach { e ->
                 val quando = e.inicioZoned().minusMinutes(ANTECEDENCIA_MIN)
                 if (quando.isAfter(agora)) {

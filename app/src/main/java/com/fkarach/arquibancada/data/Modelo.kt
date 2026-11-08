@@ -33,7 +33,12 @@ data class Evento(
     @SerialName("por_que_vale") val porQueVale: List<String> = emptyList(),
     val observacao: String? = null,
     val times: List<String> = emptyList(),
+    val interesses: List<String> = emptyList(),
+    val categoria: CategoriaDados? = null,
 )
+
+@Serializable
+data class CategoriaDados(val chave: String, val sigla: String, val rotulo: String)
 
 @Serializable
 data class Logos(
@@ -59,7 +64,17 @@ data class Seguindo(
 )
 
 @Serializable
-data class Seguido(val nome: String, val esporte: String, val nivel: String)
+data class Seguido(
+    val id: String = "",
+    val nome: String,
+    val tipo: String = "time",
+    val esporte: String,
+    val modalidade: String? = null,
+    val detalhe: String? = null,
+    val nivel: String = "normal",
+) {
+    val chave: String get() = id.ifBlank { nome }
+}
 
 @Serializable
 data class Modalidade(val esporte: String, val modalidade: String? = null, val nivel: String = "normal")

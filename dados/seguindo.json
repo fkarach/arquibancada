@@ -1,58 +1,114 @@
 {
-  "versao": 1,
+  "versao": 2,
   "seguindo": [
     {
+      "id": "palmeiras",
       "nome": "Palmeiras",
+      "tipo": "time",
       "esporte": "futebol",
       "nivel": "meu_time"
     },
     {
+      "id": "new-york-giants",
       "nome": "New York Giants",
+      "tipo": "time",
       "esporte": "nfl",
       "nivel": "meu_time"
     },
     {
+      "id": "chicago-bulls",
       "nome": "Chicago Bulls",
+      "tipo": "time",
       "esporte": "nba",
       "nivel": "meu_time"
     },
     {
+      "id": "lucas-pinheiro-braathen",
       "nome": "Lucas Pinheiro Braathen",
+      "tipo": "atleta",
       "esporte": "esqui",
       "nivel": "meu_time"
-    }
-  ],
-  "modalidades": [
+    },
     {
+      "id": "selecao-brasileira",
+      "nome": "Seleção Brasileira",
+      "tipo": "time",
+      "esporte": "futebol",
+      "nivel": "meu_time",
+      "detalhe": "Seleção masculina de futebol"
+    },
+    {
+      "id": "g3x",
+      "nome": "G3X",
+      "tipo": "time",
+      "esporte": "kings_league",
+      "nivel": "meu_time",
+      "detalhe": "Kings League Brasil"
+    },
+    {
+      "id": "furia-cs2",
+      "nome": "FURIA",
+      "tipo": "time",
+      "esporte": "esports",
+      "modalidade": "cs2",
+      "nivel": "meu_time",
+      "detalhe": "Counter-Strike 2"
+    },
+    {
+      "id": "brasil-grandes-eventos",
+      "nome": "Brasil em grandes eventos",
+      "tipo": "tema",
+      "esporte": "varios",
+      "nivel": "meu_time",
+      "detalhe": "Seleções e atletas brasileiros em Copas do Mundo (inclusive a feminina), Olimpíadas, Pan, Mundiais e amistosos das seleções principais"
+    },
+    {
+      "id": "futebol",
+      "nome": "Futebol",
+      "tipo": "modalidade",
       "esporte": "futebol",
       "nivel": "normal"
     },
     {
+      "id": "nfl",
+      "nome": "NFL",
+      "tipo": "modalidade",
       "esporte": "nfl",
       "nivel": "normal"
     },
     {
+      "id": "nba",
+      "nome": "NBA",
+      "tipo": "modalidade",
       "esporte": "nba",
       "nivel": "normal"
     },
     {
+      "id": "f1",
+      "nome": "Fórmula 1",
+      "tipo": "modalidade",
       "esporte": "f1",
       "nivel": "normal"
     },
     {
+      "id": "mma",
+      "nome": "Lutas (UFC)",
+      "tipo": "modalidade",
       "esporte": "mma",
       "nivel": "normal"
     },
     {
-      "esporte": "esqui",
-      "nivel": "normal"
-    },
-    {
+      "id": "league-of-legends",
+      "nome": "League of Legends",
+      "tipo": "modalidade",
       "esporte": "esports",
       "modalidade": "league_of_legends",
       "nivel": "normal"
     },
     {
+      "id": "rocket-league",
+      "nome": "Rocket League",
+      "tipo": "modalidade",
       "esporte": "esports",
       "modalidade": "rocket_league",
       "nivel": "normal"

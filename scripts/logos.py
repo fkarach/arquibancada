@@ -9,7 +9,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
-ESPORTE = {"futebol": "Soccer", "nba": "Basketball", "nfl": "American Football"}
+ESPORTE = {"futebol": "Soccer", "nba": "Basketball", "nfl": "American Football", "esports": "ESports"}
 CHAVE = "123"  # chave pública gratuita do TheSportsDB
 
 
@@ -55,6 +55,8 @@ def main():
     sem_logo = []
     for nome, info in registro.items():
         if nome in logos:
+            continue
+        if info.get("buscar") is False:  # time sem logo em banco aberto: fica com monograma
             continue
         print(f"buscando {nome} ({info['busca']})")
         resultado = buscar(info["busca"])

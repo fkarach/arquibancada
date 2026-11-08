@@ -1,5 +1,5 @@
 {
-  "versao": 1,
+  "versao": 2,
   "atualizado_em": "2026-11-07T17:40:00-03:00",
   "proxima_atualizacao": "2026-11-10T06:00:00-03:00",
   "janela": {
@@ -23,7 +23,15 @@
     "https://lolesports.com/pt-BR/lolesports/news/worlds-2026-primer",
     "https://www.ggrecon.com/articles/lol-worlds-2026-semifinals-uk-time/",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_FIS_Alpine_Ski_World_Cup",
-    "https://www.brasil247.com/tendencias/2026/11/02/brasileirao-2026-34-rodada/"
+    "https://www.brasil247.com/tendencias/2026/11/02/brasileirao-2026-34-rodada/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/selecao-veja-datas-dos-amistosos-do-brasil-na-ultima-data-fifa-de-2026/",
+    "https://www.dgabc.com.br/Noticia/4365742/ancelotti-convoca-selecao-brasileira-para-ultimos-jogos-de-2026-veja-onde-assistir",
+    "https://m.imirante.com/esporte/brasil/2026/09/17/selecao-brasileira-feminina-define-mais-dois-amistosos",
+    "https://clutchzonegg.com.br/counter-strike/times/furia-2/agenda",
+    "https://www.strafe.com/news/read/blast-rivals-fall-2026-hong-kong-teams-format-schedule-and-more/",
+    "https://www.fragster.com/pgl-major-singapore-2026-teams/",
+    "https://tmc.com.br/esporte/quando-comeca-kings-league-brasil-2026-jogos-datas/",
+    "https://www.flashscore.com.br/equipe/g3x-fc-kings-league/QRHeV9Hs/"
   ],
   "eventos": [
     {
@@ -73,6 +81,9 @@
       "times": [
         "Atlético-MG",
         "Grêmio"
+      ],
+      "interesses": [
+        "futebol"
       ]
     },
     {
@@ -106,7 +117,15 @@
       ],
       "por_que_vale": [],
       "modalidade": "league_of_legends",
-      "observacao": "Guia oficial da Riot diz 18:00; um site britânico indica 19:00. Conferir na véspera."
+      "observacao": "Guia oficial da Riot diz 18:00; um site britânico indica 19:00. Conferir na véspera.",
+      "categoria": {
+        "chave": "league_of_legends",
+        "sigla": "LOL",
+        "rotulo": "LoL"
+      },
+      "interesses": [
+        "league-of-legends"
+      ]
     },
     {
       "id": "ufc-fn-2026-11-07",
@@ -140,7 +159,10 @@
       "por_que_vale": [
         "Johnny Walker faz a luta principal; Virna Jandiroba enfrenta Tatiana Suarez antes."
       ],
-      "observacao": "Card começa às 19:00; luta principal prevista para 23:40."
+      "observacao": "Card começa às 19:00; luta principal prevista para 23:40.",
+      "interesses": [
+        "mma"
+      ]
     },
     {
       "id": "f1-2026-sao-paulo",
@@ -178,6 +200,9 @@
       ],
       "por_que_vale": [
         "Gabriel Bortoleto corre diante da torcida brasileira."
+      ],
+      "interesses": [
+        "f1"
       ]
     },
     {
@@ -215,6 +240,10 @@
       "times": [
         "Giants",
         "Eagles"
+      ],
+      "interesses": [
+        "new-york-giants",
+        "nfl"
       ]
     },
     {
@@ -274,6 +303,10 @@
       "times": [
         "Vasco",
         "Palmeiras"
+      ],
+      "interesses": [
+        "palmeiras",
+        "futebol"
       ]
     },
     {
@@ -312,6 +345,10 @@
       "times": [
         "Bulls",
         "76ers"
+      ],
+      "interesses": [
+        "chicago-bulls",
+        "nba"
       ]
     },
     {
@@ -345,7 +382,15 @@
       ],
       "por_que_vale": [],
       "modalidade": "league_of_legends",
-      "observacao": "Guia oficial da Riot diz 18:00; um site britânico indica 19:00. Conferir na véspera."
+      "observacao": "Guia oficial da Riot diz 18:00; um site britânico indica 19:00. Conferir na véspera.",
+      "categoria": {
+        "chave": "league_of_legends",
+        "sigla": "LOL",
+        "rotulo": "LoL"
+      },
+      "interesses": [
+        "league-of-legends"
+      ]
     },
     {
       "id": "nfl-2026-w10-gb-ne",
@@ -380,7 +425,53 @@
       "times": [
         "Packers",
         "Patriots"
+      ],
+      "interesses": [
+        "nfl"
       ]
+    },
+    {
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "meu_time": true,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": [],
+      "onde_assistir": [
+        {
+          "canal": "Kings League Brasil (YouTube/Twitch)",
+          "tipo": "youtube",
+          "gratis": true
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "jogos transmitidos nos canais oficiais da Kings League (TMC)",
+      "id": "kings-2026-r4-g3x-desimpain",
+      "esporte": "kings_league",
+      "categoria": {
+        "chave": "kings_league",
+        "sigla": "KGS",
+        "rotulo": "Kings League"
+      },
+      "competicao": "Kings League Brasil · rodada 4",
+      "titulo": "G3X x DesimpaiN",
+      "times": [
+        "G3X",
+        "DesimpaiN"
+      ],
+      "monogramas": [
+        "G3X",
+        "DES"
+      ],
+      "inicio": "2026-11-09T18:00:00-03:00",
+      "local": "Trident Arena, São Paulo",
+      "pontos": 6,
+      "interesses": [
+        "g3x"
+      ],
+      "observacao": "Jogo no formato Challenger."
     },
     {
       "id": "nfl-2026-w10-buf-min",
@@ -421,6 +512,9 @@
       "times": [
         "Bills",
         "Vikings"
+      ],
+      "interesses": [
+        "nfl"
       ]
     },
     {
@@ -457,7 +551,56 @@
       "times": [
         "Celtics",
         "76ers"
+      ],
+      "interesses": [
+        "nba"
       ]
+    },
+    {
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "meu_time": true,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": [
+        "A FURIA defende o título do BLAST Rivals."
+      ],
+      "onde_assistir": [
+        {
+          "canal": "BLAST (Twitch/YouTube)",
+          "tipo": "youtube",
+          "gratis": true
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "ClutchZone e Strafe",
+      "id": "cs2-2026-blast-rivals-fur-leg",
+      "esporte": "esports",
+      "modalidade": "cs2",
+      "categoria": {
+        "chave": "cs2",
+        "sigla": "CS2",
+        "rotulo": "CS2"
+      },
+      "competicao": "BLAST Rivals Hong Kong · grupo A",
+      "titulo": "FURIA x Legacy",
+      "times": [
+        "FURIA",
+        "Legacy"
+      ],
+      "monogramas": [
+        "FUR",
+        "LEG"
+      ],
+      "inicio": "2026-11-10T23:00:00-03:00",
+      "local": "AsiaWorld-Expo, Hong Kong",
+      "pontos": 6,
+      "interesses": [
+        "furia-cs2"
+      ],
+      "observacao": "Os próximos jogos da FURIA no torneio dependem do resultado."
     },
     {
       "id": "nba-2026-11-11-sas-chi",
@@ -492,6 +635,10 @@
       "times": [
         "Bulls",
         "Spurs"
+      ],
+      "interesses": [
+        "chicago-bulls",
+        "nba"
       ]
     },
     {
@@ -527,6 +674,9 @@
       "times": [
         "Warriors",
         "Rockets"
+      ],
+      "interesses": [
+        "nba"
       ]
     },
     {
@@ -568,6 +718,10 @@
       "times": [
         "Commanders",
         "Giants"
+      ],
+      "interesses": [
+        "new-york-giants",
+        "nfl"
       ]
     },
     {
@@ -603,6 +757,10 @@
       "times": [
         "Bulls",
         "Hawks"
+      ],
+      "interesses": [
+        "chicago-bulls",
+        "nba"
       ]
     },
     {
@@ -639,6 +797,60 @@
       "times": [
         "Warriors",
         "Spurs"
+      ],
+      "interesses": [
+        "nba"
+      ]
+    },
+    {
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "meu_time": true,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": [
+        "Penúltimo jogo da Seleção em 2026, na Data Fifa de novembro."
+      ],
+      "onde_assistir": [
+        {
+          "canal": "TV Globo",
+          "tipo": "tv_aberta",
+          "gratis": true
+        },
+        {
+          "canal": "ge TV",
+          "tipo": "youtube",
+          "gratis": true
+        },
+        {
+          "canal": "sportv",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "globoplay"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "jogos da Seleção costumam passar na TV Globo e no ge TV; transmissão não anunciada",
+      "id": "fut-2026-amistoso-jap-bra",
+      "esporte": "futebol",
+      "competicao": "Amistoso internacional",
+      "titulo": "Japão x Brasil",
+      "times": [
+        "Japão",
+        "Brasil"
+      ],
+      "monogramas": [
+        "JAP",
+        "BRA"
+      ],
+      "inicio": "2026-11-14T07:15:00-03:00",
+      "local": "Estádio Nacional, Singapura",
+      "pontos": 8,
+      "interesses": [
+        "selecao-brasileira",
+        "brasil-grandes-eventos"
       ]
     },
     {
@@ -672,7 +884,15 @@
       "por_que_vale": [
         "Decisão do Mundial de League of Legends."
       ],
-      "modalidade": "league_of_legends"
+      "modalidade": "league_of_legends",
+      "categoria": {
+        "chave": "league_of_legends",
+        "sigla": "LOL",
+        "rotulo": "LoL"
+      },
+      "interesses": [
+        "league-of-legends"
+      ]
     },
     {
       "id": "bra-2026-r35-mir-cam",
@@ -700,6 +920,9 @@
       "times": [
         "Mirassol",
         "Atlético-MG"
+      ],
+      "interesses": [
+        "futebol"
       ]
     },
     {
@@ -731,7 +954,10 @@
         "card numerado"
       ],
       "por_que_vale": [],
-      "observacao": "Horário é o início do card; a luta principal fica para o fim da noite."
+      "observacao": "Horário é o início do card; a luta principal fica para o fim da noite.",
+      "interesses": [
+        "mma"
+      ]
     },
     {
       "id": "nfl-2026-w11-ne-det",
@@ -766,6 +992,9 @@
       "times": [
         "Patriots",
         "Lions"
+      ],
+      "interesses": [
+        "nfl"
       ]
     },
     {
@@ -801,6 +1030,9 @@
       "times": [
         "Mavericks",
         "Celtics"
+      ],
+      "interesses": [
+        "nba"
       ]
     },
     {
@@ -843,6 +1075,9 @@
       "times": [
         "Steelers",
         "Bengals"
+      ],
+      "interesses": [
+        "nfl"
       ]
     },
     {
@@ -867,7 +1102,93 @@
         "meu time"
       ],
       "por_que_vale": [],
-      "observacao": "Calendário provisório da FIS; horário e transmissão ainda não divulgados."
+      "observacao": "Calendário provisório da FIS; horário e transmissão ainda não divulgados.",
+      "interesses": [
+        "lucas-pinheiro-braathen"
+      ]
+    },
+    {
+      "horario_definido": false,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "meu_time": false,
+      "motivos": [
+        "FURIA defende o título"
+      ],
+      "por_que_vale": [],
+      "onde_assistir": [
+        {
+          "canal": "BLAST (Twitch/YouTube)",
+          "tipo": "youtube",
+          "gratis": true
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "Strafe",
+      "id": "cs2-2026-blast-rivals-final",
+      "esporte": "esports",
+      "modalidade": "cs2",
+      "categoria": {
+        "chave": "cs2",
+        "sigla": "CS2",
+        "rotulo": "CS2"
+      },
+      "competicao": "BLAST Rivals Hong Kong · final",
+      "titulo": "Final do BLAST Rivals",
+      "times": [],
+      "monogramas": [
+        "CS2"
+      ],
+      "inicio": "2026-11-15",
+      "local": "AsiaWorld-Expo, Hong Kong",
+      "pontos": 5,
+      "interesses": [
+        "furia-cs2"
+      ],
+      "observacao": "A FURIA só joga a final se avançar; horário não divulgado."
+    },
+    {
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "meu_time": true,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": [],
+      "onde_assistir": [
+        {
+          "canal": "Kings League Brasil (YouTube/Twitch)",
+          "tipo": "youtube",
+          "gratis": true
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "jogos transmitidos nos canais oficiais da Kings League (TMC)",
+      "id": "kings-2026-r5-g3x-capim",
+      "esporte": "kings_league",
+      "categoria": {
+        "chave": "kings_league",
+        "sigla": "KGS",
+        "rotulo": "Kings League"
+      },
+      "competicao": "Kings League Brasil · rodada 5",
+      "titulo": "G3X x Capim",
+      "times": [
+        "G3X",
+        "Capim"
+      ],
+      "monogramas": [
+        "G3X",
+        "CAP"
+      ],
+      "inicio": "2026-11-16T20:00:00-03:00",
+      "local": "Trident Arena, São Paulo",
+      "pontos": 6,
+      "interesses": [
+        "g3x"
+      ],
+      "observacao": "TMC indica 16/11 às 20:00; o Flashscore lista 17/11. Conferir na véspera."
     },
     {
       "id": "nba-2026-11-16-cle-chi",
@@ -902,6 +1223,61 @@
       "times": [
         "Cavaliers",
         "Bulls"
+      ],
+      "interesses": [
+        "chicago-bulls",
+        "nba"
+      ]
+    },
+    {
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "meu_time": true,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": [
+        "Último jogo da Seleção em 2026."
+      ],
+      "onde_assistir": [
+        {
+          "canal": "TV Globo",
+          "tipo": "tv_aberta",
+          "gratis": true
+        },
+        {
+          "canal": "ge TV",
+          "tipo": "youtube",
+          "gratis": true
+        },
+        {
+          "canal": "sportv",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "globoplay"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "jogos da Seleção costumam passar na TV Globo e no ge TV; transmissão não anunciada",
+      "id": "fut-2026-amistoso-sin-bra",
+      "esporte": "futebol",
+      "competicao": "Amistoso internacional",
+      "titulo": "Singapura x Brasil",
+      "times": [
+        "Singapura",
+        "Brasil"
+      ],
+      "monogramas": [
+        "SIN",
+        "BRA"
+      ],
+      "inicio": "2026-11-17T07:00:00-03:00",
+      "local": "Estádio Nacional, Singapura",
+      "pontos": 7,
+      "interesses": [
+        "selecao-brasileira",
+        "brasil-grandes-eventos"
       ]
     },
     {
@@ -938,6 +1314,9 @@
       "times": [
         "Pistons",
         "Spurs"
+      ],
+      "interesses": [
+        "nba"
       ]
     },
     {
@@ -969,6 +1348,10 @@
       "times": [
         "Cruzeiro",
         "Palmeiras"
+      ],
+      "interesses": [
+        "palmeiras",
+        "futebol"
       ]
     },
     {
@@ -998,6 +1381,9 @@
       "times": [
         "Flamengo",
         "Athletico-PR"
+      ],
+      "interesses": [
+        "futebol"
       ]
     },
     {
@@ -1033,6 +1419,10 @@
       "times": [
         "Nets",
         "Bulls"
+      ],
+      "interesses": [
+        "chicago-bulls",
+        "nba"
       ]
     },
     {
@@ -1061,6 +1451,9 @@
       "times": [
         "Grêmio",
         "Bahia"
+      ],
+      "interesses": [
+        "futebol"
       ]
     },
     {
@@ -1089,6 +1482,9 @@
       "times": [
         "Corinthians",
         "Botafogo"
+      ],
+      "interesses": [
+        "futebol"
       ]
     },
     {
@@ -1117,6 +1513,9 @@
       "times": [
         "São Paulo",
         "Fluminense"
+      ],
+      "interesses": [
+        "futebol"
       ]
     },
     {
@@ -1152,6 +1551,10 @@
       "times": [
         "Bulls",
         "Wizards"
+      ],
+      "interesses": [
+        "chicago-bulls",
+        "nba"
       ]
     },
     {
@@ -1183,6 +1586,10 @@
       "times": [
         "Palmeiras",
         "Flamengo"
+      ],
+      "interesses": [
+        "palmeiras",
+        "futebol"
       ]
     },
     {
@@ -1214,7 +1621,10 @@
         "mega-evento"
       ],
       "por_que_vale": [],
-      "observacao": "Corrida na madrugada de sábado para domingo."
+      "observacao": "Corrida na madrugada de sábado para domingo.",
+      "interesses": [
+        "f1"
+      ]
     },
     {
       "id": "nfl-2026-w12-jax-nyg",
@@ -1250,6 +1660,10 @@
       "times": [
         "Jaguars",
         "Giants"
+      ],
+      "interesses": [
+        "new-york-giants",
+        "nfl"
       ]
     },
     {
@@ -1285,6 +1699,10 @@
       "times": [
         "Bulls",
         "Nuggets"
+      ],
+      "interesses": [
+        "chicago-bulls",
+        "nba"
       ]
     },
     {
@@ -1326,6 +1744,9 @@
       "times": [
         "Vikings",
         "49ers"
+      ],
+      "interesses": [
+        "nfl"
       ]
     },
     {
@@ -1350,7 +1771,10 @@
         "meu time"
       ],
       "por_que_vale": [],
-      "observacao": "Calendário provisório da FIS; horário e transmissão ainda não divulgados."
+      "observacao": "Calendário provisório da FIS; horário e transmissão ainda não divulgados.",
+      "interesses": [
+        "lucas-pinheiro-braathen"
+      ]
     },
     {
       "id": "nba-2026-11-23-cle-chi",
@@ -1385,6 +1809,10 @@
       "times": [
         "Bulls",
         "Cavaliers"
+      ],
+      "interesses": [
+        "chicago-bulls",
+        "nba"
       ]
     },
     {
@@ -1421,6 +1849,9 @@
       "times": [
         "Arsenal",
         "Borussia Dortmund"
+      ],
+      "interesses": [
+        "futebol"
       ]
     },
     {
@@ -1457,6 +1888,9 @@
       "times": [
         "Manchester City",
         "Napoli"
+      ],
+      "interesses": [
+        "futebol"
       ]
     },
     {
@@ -1492,6 +1926,9 @@
       "times": [
         "Real Madrid",
         "PSV"
+      ],
+      "interesses": [
+        "futebol"
       ]
     },
     {
@@ -1527,6 +1964,10 @@
       "times": [
         "Hornets",
         "Bulls"
+      ],
+      "interesses": [
+        "chicago-bulls",
+        "nba"
       ]
     },
     {
@@ -1562,6 +2003,9 @@
       "times": [
         "Timberwolves",
         "Thunder"
+      ],
+      "interesses": [
+        "nba"
       ]
     },
     {
@@ -1598,6 +2042,9 @@
       "times": [
         "Bears",
         "Lions"
+      ],
+      "interesses": [
+        "nfl"
       ]
     },
     {
@@ -1634,6 +2081,9 @@
       "times": [
         "Chiefs",
         "Bills"
+      ],
+      "interesses": [
+        "nfl"
       ]
     },
     {
@@ -1669,6 +2119,9 @@
       "times": [
         "Broncos",
         "Steelers"
+      ],
+      "interesses": [
+        "nfl"
       ]
     },
     {
@@ -1705,6 +2158,9 @@
       "times": [
         "Lakers",
         "Spurs"
+      ],
+      "interesses": [
+        "nba"
       ]
     },
     {
@@ -1759,6 +2215,10 @@
       "times": [
         "Palmeiras",
         "Estudiantes"
+      ],
+      "interesses": [
+        "palmeiras",
+        "futebol"
       ]
     },
     {
@@ -1794,6 +2254,10 @@
       "times": [
         "Bulls",
         "Pacers"
+      ],
+      "interesses": [
+        "chicago-bulls",
+        "nba"
       ]
     },
     {
@@ -1824,7 +2288,10 @@
       "motivos": [
         "mega-evento"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "interesses": [
+        "f1"
+      ]
     },
     {
       "id": "nfl-2026-w13-nyg-ind",
@@ -1859,6 +2326,10 @@
       "times": [
         "Giants",
         "Colts"
+      ],
+      "interesses": [
+        "new-york-giants",
+        "nfl"
       ]
     },
     {
@@ -1895,6 +2366,9 @@
       "times": [
         "Seahawks",
         "49ers"
+      ],
+      "interesses": [
+        "nfl"
       ]
     },
     {
@@ -1919,7 +2393,44 @@
         "meu time"
       ],
       "por_que_vale": [],
-      "observacao": "Calendário provisório da FIS; prova sujeita a confirmação."
+      "observacao": "Calendário provisório da FIS; prova sujeita a confirmação.",
+      "interesses": [
+        "lucas-pinheiro-braathen"
+      ]
+    },
+    {
+      "horario_definido": false,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "meu_time": true,
+      "motivos": [
+        "Seleção feminina"
+      ],
+      "por_que_vale": [
+        "Preparação para a Copa do Mundo feminina de 2027, no Brasil."
+      ],
+      "onde_assistir": [],
+      "status_canal": "desconhecido",
+      "origem_canal": "",
+      "id": "fut-fem-2026-amistoso-jap-bra-1",
+      "esporte": "futebol",
+      "competicao": "Amistoso · Seleção feminina",
+      "titulo": "Japão x Brasil",
+      "times": [
+        "Japão",
+        "Brasil"
+      ],
+      "monogramas": [
+        "JAP",
+        "BRA"
+      ],
+      "inicio": "2026-11-29",
+      "local": "Edion Peace Wing, Hiroshima",
+      "pontos": 6,
+      "interesses": [
+        "brasil-grandes-eventos"
+      ],
+      "observacao": "Horário ainda não divulgado pela CBF."
     },
     {
       "id": "nba-2026-12-01-nyk-chi",
@@ -1954,6 +2465,10 @@
       "times": [
         "Bulls",
         "Knicks"
+      ],
+      "interesses": [
+        "chicago-bulls",
+        "nba"
       ]
     },
     {
@@ -1983,7 +2498,48 @@
       "times": [
         "Palmeiras",
         "Coritiba"
+      ],
+      "interesses": [
+        "palmeiras",
+        "futebol"
       ]
+    },
+    {
+      "horario_definido": false,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "meu_time": true,
+      "motivos": [
+        "meu time",
+        "Major"
+      ],
+      "por_que_vale": [
+        "A FURIA entra direto no Stage 3 do Major, um dos dois torneios mais importantes do CS2."
+      ],
+      "onde_assistir": [],
+      "status_canal": "desconhecido",
+      "origem_canal": "",
+      "id": "cs2-2026-pgl-major-stage3",
+      "esporte": "esports",
+      "modalidade": "cs2",
+      "categoria": {
+        "chave": "cs2",
+        "sigla": "CS2",
+        "rotulo": "CS2"
+      },
+      "competicao": "PGL Major Singapura · Stage 3",
+      "titulo": "FURIA estreia no Major",
+      "times": [],
+      "monogramas": [
+        "FUR"
+      ],
+      "inicio": "2026-12-02",
+      "local": "Singapura",
+      "pontos": 8,
+      "interesses": [
+        "furia-cs2"
+      ],
+      "observacao": "Adversário e horário definidos pelo sorteio da fase."
     },
     {
       "id": "nba-2026-12-03-cle-chi",
@@ -2018,7 +2574,43 @@
       "times": [
         "Bulls",
         "Cavaliers"
+      ],
+      "interesses": [
+        "chicago-bulls",
+        "nba"
       ]
+    },
+    {
+      "horario_definido": false,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "meu_time": true,
+      "motivos": [
+        "Seleção feminina"
+      ],
+      "por_que_vale": [],
+      "onde_assistir": [],
+      "status_canal": "desconhecido",
+      "origem_canal": "",
+      "id": "fut-fem-2026-amistoso-jap-bra-2",
+      "esporte": "futebol",
+      "competicao": "Amistoso · Seleção feminina",
+      "titulo": "Japão x Brasil",
+      "times": [
+        "Japão",
+        "Brasil"
+      ],
+      "monogramas": [
+        "JAP",
+        "BRA"
+      ],
+      "inicio": "2026-12-05",
+      "local": "JFE Harenokuni Stadium, Okayama",
+      "pontos": 6,
+      "interesses": [
+        "brasil-grandes-eventos"
+      ],
+      "observacao": "Horário ainda não divulgado pela CBF."
     },
     {
       "id": "f1-2026-abu-dhabi",
@@ -2049,7 +2641,10 @@
         "mega-evento",
         "última etapa"
       ],
-      "por_que_vale": []
+      "por_que_vale": [],
+      "interesses": [
+        "f1"
+      ]
     },
     {
       "id": "nfl-2026-w14-sf-nyg",
@@ -2085,6 +2680,10 @@
       "times": [
         "49ers",
         "Giants"
+      ],
+      "interesses": [
+        "new-york-giants",
+        "nfl"
       ]
     },
     {
@@ -2138,7 +2737,10 @@
         "final"
       ],
       "por_que_vale": [],
-      "observacao": "Jogo único. Times definidos após as semifinais de 7 e 8/11; Palmeiras joga se passar pelo Vasco."
+      "observacao": "Jogo único. Times definidos após as semifinais de 7 e 8/11; Palmeiras joga se passar pelo Vasco.",
+      "interesses": [
+        "futebol"
+      ]
     },
     {
       "id": "esqui-2026-beaver-gs",
@@ -2162,7 +2764,10 @@
         "meu time"
       ],
       "por_que_vale": [],
-      "observacao": "Calendário provisório da FIS."
+      "observacao": "Calendário provisório da FIS.",
+      "interesses": [
+        "lucas-pinheiro-braathen"
+      ]
     }
   ]
 }

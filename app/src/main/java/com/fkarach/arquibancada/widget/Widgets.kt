@@ -49,7 +49,7 @@ import com.fkarach.arquibancada.logica.BRASILIA
 import com.fkarach.arquibancada.logica.aConfirmar
 import com.fkarach.arquibancada.logica.aoVivo
 import com.fkarach.arquibancada.logica.canalPrincipal
-import com.fkarach.arquibancada.logica.categoriaDe
+import com.fkarach.arquibancada.logica.categoria
 import com.fkarach.arquibancada.logica.daPraVer
 import com.fkarach.arquibancada.logica.gratis
 import com.fkarach.arquibancada.logica.hora
@@ -87,7 +87,8 @@ private fun carregar(ctx: Context): DadosWidget {
     val agenda = repo.agendaSalva()
     val servicos = Preferencias(ctx).servicos(repo.seguindoSalvo()?.servicos.orEmpty())
     val agora = ZonedDateTime.now(BRASILIA)
-    val eventos = agenda?.eventos.orEmpty().filter { !it.terminou(agora) && it.situacao != "adiado" }.sortedBy { it.inicioZoned() }
+    val perfil = com.fkarach.arquibancada.logica.Perfil.carregar(ctx)
+    val eventos = agenda?.eventos.orEmpty().filter { !it.terminou(agora) && it.situacao != "adiado" && !perfil.silenciado(it) }.sortedBy { it.inicioZoned() }
     // Ao vivo: mais relevantes primeiro (o que dá pra ver, depois pontos).
     val aoVivo = eventos.filter { it.aoVivo(agora) }
         .sortedWith(compareByDescending<Evento> { it.daPraVer(servicos) }.thenByDescending { it.pontos })
@@ -110,7 +111,7 @@ private fun abrirApp(ctx: Context, e: Evento?) =
     })
 
 /** "UFC Fight Night · Las Vegas" -> "UFC Fight Night": dá contexto a nomes que a pessoa não reconhece. */
-private fun Evento.competicaoCurta(): String = competicao.substringBefore(" · ").ifBlank { categoriaDe(esporte).rotulo }
+private fun Evento.competicaoCurta(): String = competicao.substringBefore(" · ").ifBlank { categoria().rotulo }
 
 // ---------- Escudos no widget ----------
 
@@ -140,7 +141,7 @@ private fun MarcaW(d: DadosWidget, e: Evento, tamanho: Dp) {
             EscudoW(d, e.times[1], e.monogramas.getOrNull(1), tamanho)
         }
     } else {
-        EscudoW(d, categoriaDe(e.esporte).rotulo, categoriaDe(e.esporte).sigla, tamanho)
+        EscudoW(d, e.categoria().rotulo, e.categoria().sigla, tamanho)
     }
 }
 

@@ -88,7 +88,15 @@ val CATEGORIAS = listOf(
 )
 
 fun categoriaDe(esporte: String): Categoria =
-    CATEGORIAS.firstOrNull { it.chave == esporte } ?: Categoria(esporte, esporte.take(3).uppercase(), esporte.replaceFirstChar { it.uppercase() })
+    CATEGORIAS.firstOrNull { it.chave == esporte } ?: Categoria(
+        esporte,
+        esporte.replace("_", "").take(3).uppercase(),
+        esporte.split("_").joinToString(" ") { p -> p.replaceFirstChar { it.uppercase() } },
+    )
+
+/** Categoria da bolinha de um evento: a que vem nos dados (livre) ou a do esporte. */
+fun Evento.categoria(): Categoria =
+    categoria?.let { Categoria(it.chave, it.sigla.take(4).uppercase(), it.rotulo) } ?: categoriaDe(esporte)
 
 /** Destaque: ao vivo que dá pra ver; senão, o melhor que dá pra ver nas próximas 48h. */
 fun escolherDestaque(eventos: List<Evento>, servicos: Set<String>, agora: ZonedDateTime): Evento? {

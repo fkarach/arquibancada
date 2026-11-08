@@ -249,6 +249,45 @@
     "Seahawks": {
       "busca": "Seattle Seahawks",
       "esporte": "nfl"
+    },
+    "Brasil": {
+      "busca": "Brazil",
+      "esporte": "futebol",
+      "pais": "Brazil"
+    },
+    "Japão": {
+      "busca": "Japan",
+      "esporte": "futebol",
+      "pais": "Japan"
+    },
+    "Singapura": {
+      "busca": "Singapore",
+      "esporte": "futebol",
+      "pais": "Singapore"
+    },
+    "FURIA": {
+      "busca": "FURIA Esports",
+      "esporte": "esports"
+    },
+    "Legacy": {
+      "busca": "Legacy",
+      "esporte": "esports",
+      "buscar": false
+    },
+    "G3X": {
+      "busca": "G3X",
+      "esporte": "kings_league",
+      "buscar": false
+    },
+    "DesimpaiN": {
+      "busca": "DesimpaiN",
+      "esporte": "kings_league",
+      "buscar": false
+    },
+    "Capim": {
+      "busca": "Capim",
+      "esporte": "kings_league",
+      "buscar": false
     }
   }
 }

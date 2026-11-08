@@ -22,7 +22,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import coil.compose.AsyncImage
 import com.fkarach.arquibancada.data.Evento
-import com.fkarach.arquibancada.logica.categoriaDe
+import com.fkarach.arquibancada.logica.categoria
 
 /** Escudo num disco claro (o branco "refletor" do app); sem logo, cai para o monograma. */
 @Composable
@@ -59,7 +59,7 @@ fun MarcaDoEvento(e: Evento, logos: Map<String, String>, tamanho: Dp = 26.dp) {
         }
     } else {
         Box(Modifier.width(tamanho * 2 - tamanho * 0.3f), contentAlignment = Alignment.CenterStart) {
-            Escudo(categoriaDe(e.esporte).rotulo, null, tamanho, categoriaDe(e.esporte).sigla)
+            Escudo(e.categoria().rotulo, null, tamanho, e.categoria().sigla)
         }
     }
 }
