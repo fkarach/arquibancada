@@ -12,6 +12,7 @@
     "Bills": "https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png/small",
     "Borussia Dortmund": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png/small",
     "Botafogo": "https://r2.thesportsdb.com/images/media/team/badge/bs5mbw1733004596.png/small",
+    "Brasil": "https://r2.thesportsdb.com/images/media/team/badge/jl6dip1726167280.png/small",
     "Broncos": "https://r2.thesportsdb.com/images/media/team/badge/zy3m9v1784718707.png/small",
     "Bulls": "https://r2.thesportsdb.com/images/media/team/badge/ehq8l31778197349.png/small",
     "Cavaliers": "https://r2.thesportsdb.com/images/media/team/badge/pch9ct1778195828.png/small",
@@ -31,6 +32,7 @@
     "Hawks": "https://r2.thesportsdb.com/images/media/team/badge/7o1noy1778226315.png/small",
     "Hornets": "https://r2.thesportsdb.com/images/media/team/badge/xqtvvp1422380623.png/small",
     "Jaguars": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png/small",
+    "Japão": "https://r2.thesportsdb.com/images/media/team/badge/ffsyxz1591989843.png/small",
     "Knicks": "https://r2.thesportsdb.com/images/media/team/badge/4k8obt1778226764.png/small",
     "Lakers": "https://r2.thesportsdb.com/images/media/team/badge/d8uoxw1714254511.png/small",
     "Lions": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png/small",
@@ -49,6 +51,7 @@
     "Real Madrid": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png/small",
     "Rockets": "https://r2.thesportsdb.com/images/media/team/badge/azoktf1780729261.png/small",
     "Seahawks": "https://r2.thesportsdb.com/images/media/team/badge/1t84c51784752684.png/small",
+    "Singapura": "https://r2.thesportsdb.com/images/media/team/badge/cpctsg1597743506.png/small",
     "Spurs": "https://r2.thesportsdb.com/images/media/team/badge/yc5qfx1781459158.png/small",
     "Steelers": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png/small",
     "São Paulo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png/small",
@@ -59,5 +62,7 @@
     "Warriors": "https://r2.thesportsdb.com/images/media/team/badge/xokycb1778197905.png/small",
     "Wizards": "https://r2.thesportsdb.com/images/media/team/badge/dxac7a1778227278.png/small"
   },
-  "sem_logo": []
+  "sem_logo": [
+    "FURIA"
+  ]
 }
