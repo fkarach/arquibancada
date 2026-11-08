@@ -29,6 +29,8 @@ Lista única e livre. Nada é fixo: o Felipe adiciona, muda o nível ou remove p
    - narrativa forte (estreia, recorde, despedida): +1
    - jogo só em canal que a pessoa não tem precisa de 4 pontos.
 6. **Pisos por semana em temporada** (modalidades `normal`): NBA 5, NFL 3, futebol brasileiro 6, futebol europeu 4. Se um esporte não bater o piso, baixe a régua em 1 ponto só para ele.
+7. **Pisos são obrigatórios.** Nunca publique uma carga abaixo do piso com uma nota dizendo que "a próxima completa": pesquise até bater. Para futebol europeu, varra rodada a rodada Premier League, LaLiga, Serie A, Bundesliga, Ligue 1 e Champions na janela inteira.
+8. **Topo de tabela sempre entra** (mesmo fora dos serviços): confronto direto entre os 4 primeiros de qualquer uma das 5 grandes ligas europeias, e os clássicos grandes (Barcelona x Real Madrid, Atlético x Real/Barça, Manchester United x Liverpool, Arsenal x Tottenham, Inter x Milan, Bayern x Dortmund, PSG x Olympique de Marseille).
 
 ## Onde assistir
 

@@ -288,6 +288,14 @@
       "busca": "Capim",
       "esporte": "kings_league",
       "buscar": false
+    },
+    "Atlético de Madrid": {
+      "busca": "Atletico Madrid",
+      "esporte": "futebol"
+    },
+    "Barcelona": {
+      "busca": "Barcelona",
+      "esporte": "futebol"
     }
   }
 }

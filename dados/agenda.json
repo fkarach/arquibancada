@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-11-07T17:40:00-03:00",
+  "atualizado_em": "2026-11-08T16:15:00-03:00",
   "proxima_atualizacao": "2026-11-10T06:00:00-03:00",
   "janela": {
     "de": "2026-11-07",
@@ -31,7 +31,9 @@
     "https://www.strafe.com/news/read/blast-rivals-fall-2026-hong-kong-teams-format-schedule-and-more/",
     "https://www.fragster.com/pgl-major-singapore-2026-teams/",
     "https://tmc.com.br/esporte/quando-comeca-kings-league-brasil-2026-jogos-datas/",
-    "https://www.flashscore.com.br/equipe/g3x-fc-kings-league/QRHeV9Hs/"
+    "https://www.flashscore.com.br/equipe/g3x-fc-kings-league/QRHeV9Hs/",
+    "https://olhardigital.com.br/apostas/atletico-de-madrid-x-fc-barcelona-palpites-e-onde-assistir-08-11-2026/",
+    "https://www.clarosports.com/futbol/laliga/atletico-de-madrid-vs-barcelona-en-vivo-horario-alineaciones-y-donde-ver-la-jornada-12-de-laliga-2026/"
   ],
   "eventos": [
     {
@@ -306,6 +308,53 @@
       ],
       "interesses": [
         "palmeiras",
+        "futebol"
+      ]
+    },
+    {
+      "id": "laliga-2026-r12-atm-bar",
+      "esporte": "futebol",
+      "competicao": "LaLiga · 12ª rodada",
+      "titulo": "Atlético de Madrid x Barcelona",
+      "monogramas": [
+        "ATM",
+        "BAR"
+      ],
+      "inicio": "2026-11-08T17:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Metropolitano, Madri",
+      "onde_assistir": [
+        {
+          "canal": "ESPN",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "espn_disney"
+        },
+        {
+          "canal": "Disney+",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "espn_disney"
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": null,
+      "meu_time": false,
+      "pontos": 4,
+      "motivos": [
+        "1º x 2º",
+        "briga pelo título"
+      ],
+      "por_que_vale": [
+        "Líder contra vice: o Barcelona chega com 30 pontos e o Atlético com 28."
+      ],
+      "times": [
+        "Atlético de Madrid",
+        "Barcelona"
+      ],
+      "interesses": [
         "futebol"
       ]
     },
@@ -960,6 +1009,73 @@
       ]
     },
     {
+      "id": "esqui-2026-levi-sl",
+      "esporte": "esqui",
+      "competicao": "Copa do Mundo de esqui alpino · slalom",
+      "titulo": "Slalom de Levi",
+      "monogramas": [
+        "LPB"
+      ],
+      "inicio": "2026-11-15",
+      "horario_definido": false,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Levi, Finlândia",
+      "onde_assistir": [],
+      "status_canal": "desconhecido",
+      "origem_canal": "",
+      "meu_time": true,
+      "pontos": 6,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": [],
+      "observacao": "Calendário provisório da FIS; horário e transmissão ainda não divulgados.",
+      "interesses": [
+        "lucas-pinheiro-braathen"
+      ]
+    },
+    {
+      "horario_definido": false,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "meu_time": false,
+      "motivos": [
+        "FURIA defende o título"
+      ],
+      "por_que_vale": [],
+      "onde_assistir": [
+        {
+          "canal": "BLAST (Twitch/YouTube)",
+          "tipo": "youtube",
+          "gratis": true
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "Strafe",
+      "id": "cs2-2026-blast-rivals-final",
+      "esporte": "esports",
+      "modalidade": "cs2",
+      "categoria": {
+        "chave": "cs2",
+        "sigla": "CS2",
+        "rotulo": "CS2"
+      },
+      "competicao": "BLAST Rivals Hong Kong · final",
+      "titulo": "Final do BLAST Rivals",
+      "times": [],
+      "monogramas": [
+        "CS2"
+      ],
+      "inicio": "2026-11-15",
+      "local": "AsiaWorld-Expo, Hong Kong",
+      "pontos": 5,
+      "interesses": [
+        "furia-cs2"
+      ],
+      "observacao": "A FURIA só joga a final se avançar; horário não divulgado."
+    },
+    {
       "id": "nfl-2026-w11-ne-det",
       "esporte": "nfl",
       "competicao": "NFL · temporada regular",
@@ -1079,73 +1195,6 @@
       "interesses": [
         "nfl"
       ]
-    },
-    {
-      "id": "esqui-2026-levi-sl",
-      "esporte": "esqui",
-      "competicao": "Copa do Mundo de esqui alpino · slalom",
-      "titulo": "Slalom de Levi",
-      "monogramas": [
-        "LPB"
-      ],
-      "inicio": "2026-11-15",
-      "horario_definido": false,
-      "situacao": "agendado",
-      "inicio_anterior": null,
-      "local": "Levi, Finlândia",
-      "onde_assistir": [],
-      "status_canal": "desconhecido",
-      "origem_canal": "",
-      "meu_time": true,
-      "pontos": 6,
-      "motivos": [
-        "meu time"
-      ],
-      "por_que_vale": [],
-      "observacao": "Calendário provisório da FIS; horário e transmissão ainda não divulgados.",
-      "interesses": [
-        "lucas-pinheiro-braathen"
-      ]
-    },
-    {
-      "horario_definido": false,
-      "situacao": "agendado",
-      "inicio_anterior": null,
-      "meu_time": false,
-      "motivos": [
-        "FURIA defende o título"
-      ],
-      "por_que_vale": [],
-      "onde_assistir": [
-        {
-          "canal": "BLAST (Twitch/YouTube)",
-          "tipo": "youtube",
-          "gratis": true
-        }
-      ],
-      "status_canal": "confirmado",
-      "origem_canal": "Strafe",
-      "id": "cs2-2026-blast-rivals-final",
-      "esporte": "esports",
-      "modalidade": "cs2",
-      "categoria": {
-        "chave": "cs2",
-        "sigla": "CS2",
-        "rotulo": "CS2"
-      },
-      "competicao": "BLAST Rivals Hong Kong · final",
-      "titulo": "Final do BLAST Rivals",
-      "times": [],
-      "monogramas": [
-        "CS2"
-      ],
-      "inicio": "2026-11-15",
-      "local": "AsiaWorld-Expo, Hong Kong",
-      "pontos": 5,
-      "interesses": [
-        "furia-cs2"
-      ],
-      "observacao": "A FURIA só joga a final se avançar; horário não divulgado."
     },
     {
       "horario_definido": true,
@@ -1593,6 +1642,33 @@
       ]
     },
     {
+      "id": "esqui-2026-gurgl-sl",
+      "esporte": "esqui",
+      "competicao": "Copa do Mundo de esqui alpino · slalom",
+      "titulo": "Slalom de Gurgl",
+      "monogramas": [
+        "LPB"
+      ],
+      "inicio": "2026-11-22",
+      "horario_definido": false,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Gurgl, Áustria",
+      "onde_assistir": [],
+      "status_canal": "desconhecido",
+      "origem_canal": "",
+      "meu_time": true,
+      "pontos": 6,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": [],
+      "observacao": "Calendário provisório da FIS; horário e transmissão ainda não divulgados.",
+      "interesses": [
+        "lucas-pinheiro-braathen"
+      ]
+    },
+    {
       "id": "f1-2026-las-vegas",
       "esporte": "f1",
       "competicao": "Fórmula 1 · Las Vegas",
@@ -1747,33 +1823,6 @@
       ],
       "interesses": [
         "nfl"
-      ]
-    },
-    {
-      "id": "esqui-2026-gurgl-sl",
-      "esporte": "esqui",
-      "competicao": "Copa do Mundo de esqui alpino · slalom",
-      "titulo": "Slalom de Gurgl",
-      "monogramas": [
-        "LPB"
-      ],
-      "inicio": "2026-11-22",
-      "horario_definido": false,
-      "situacao": "agendado",
-      "inicio_anterior": null,
-      "local": "Gurgl, Áustria",
-      "onde_assistir": [],
-      "status_canal": "desconhecido",
-      "origem_canal": "",
-      "meu_time": true,
-      "pontos": 6,
-      "motivos": [
-        "meu time"
-      ],
-      "por_que_vale": [],
-      "observacao": "Calendário provisório da FIS; horário e transmissão ainda não divulgados.",
-      "interesses": [
-        "lucas-pinheiro-braathen"
       ]
     },
     {
@@ -2261,6 +2310,67 @@
       ]
     },
     {
+      "id": "esqui-2026-copper-gs",
+      "esporte": "esqui",
+      "competicao": "Copa do Mundo de esqui alpino · slalom gigante",
+      "titulo": "Slalom gigante de Copper Mountain",
+      "monogramas": [
+        "LPB"
+      ],
+      "inicio": "2026-11-29",
+      "horario_definido": false,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Copper Mountain, EUA",
+      "onde_assistir": [],
+      "status_canal": "desconhecido",
+      "origem_canal": "",
+      "meu_time": true,
+      "pontos": 6,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": [],
+      "observacao": "Calendário provisório da FIS; prova sujeita a confirmação.",
+      "interesses": [
+        "lucas-pinheiro-braathen"
+      ]
+    },
+    {
+      "horario_definido": false,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "meu_time": true,
+      "motivos": [
+        "Seleção feminina"
+      ],
+      "por_que_vale": [
+        "Preparação para a Copa do Mundo feminina de 2027, no Brasil."
+      ],
+      "onde_assistir": [],
+      "status_canal": "desconhecido",
+      "origem_canal": "",
+      "id": "fut-fem-2026-amistoso-jap-bra-1",
+      "esporte": "futebol",
+      "competicao": "Amistoso · Seleção feminina",
+      "titulo": "Japão x Brasil",
+      "times": [
+        "Japão",
+        "Brasil"
+      ],
+      "monogramas": [
+        "JAP",
+        "BRA"
+      ],
+      "inicio": "2026-11-29",
+      "local": "Edion Peace Wing, Hiroshima",
+      "pontos": 6,
+      "interesses": [
+        "brasil-grandes-eventos"
+      ],
+      "observacao": "Horário ainda não divulgado pela CBF."
+    },
+    {
       "id": "f1-2026-catar",
       "esporte": "f1",
       "competicao": "Fórmula 1 · Losail",
@@ -2372,67 +2482,6 @@
       ]
     },
     {
-      "id": "esqui-2026-copper-gs",
-      "esporte": "esqui",
-      "competicao": "Copa do Mundo de esqui alpino · slalom gigante",
-      "titulo": "Slalom gigante de Copper Mountain",
-      "monogramas": [
-        "LPB"
-      ],
-      "inicio": "2026-11-29",
-      "horario_definido": false,
-      "situacao": "agendado",
-      "inicio_anterior": null,
-      "local": "Copper Mountain, EUA",
-      "onde_assistir": [],
-      "status_canal": "desconhecido",
-      "origem_canal": "",
-      "meu_time": true,
-      "pontos": 6,
-      "motivos": [
-        "meu time"
-      ],
-      "por_que_vale": [],
-      "observacao": "Calendário provisório da FIS; prova sujeita a confirmação.",
-      "interesses": [
-        "lucas-pinheiro-braathen"
-      ]
-    },
-    {
-      "horario_definido": false,
-      "situacao": "agendado",
-      "inicio_anterior": null,
-      "meu_time": true,
-      "motivos": [
-        "Seleção feminina"
-      ],
-      "por_que_vale": [
-        "Preparação para a Copa do Mundo feminina de 2027, no Brasil."
-      ],
-      "onde_assistir": [],
-      "status_canal": "desconhecido",
-      "origem_canal": "",
-      "id": "fut-fem-2026-amistoso-jap-bra-1",
-      "esporte": "futebol",
-      "competicao": "Amistoso · Seleção feminina",
-      "titulo": "Japão x Brasil",
-      "times": [
-        "Japão",
-        "Brasil"
-      ],
-      "monogramas": [
-        "JAP",
-        "BRA"
-      ],
-      "inicio": "2026-11-29",
-      "local": "Edion Peace Wing, Hiroshima",
-      "pontos": 6,
-      "interesses": [
-        "brasil-grandes-eventos"
-      ],
-      "observacao": "Horário ainda não divulgado pela CBF."
-    },
-    {
       "id": "nba-2026-12-01-nyk-chi",
       "esporte": "nba",
       "competicao": "NBA · temporada regular",
@@ -2472,39 +2521,6 @@
       ]
     },
     {
-      "id": "bra-2026-r38-pal-cfc",
-      "esporte": "futebol",
-      "competicao": "Brasileirão · rodada final",
-      "titulo": "Palmeiras x Coritiba",
-      "monogramas": [
-        "PAL",
-        "CFC"
-      ],
-      "inicio": "2026-12-02T17:00:00-03:00",
-      "horario_definido": true,
-      "situacao": "agendado",
-      "inicio_anterior": null,
-      "local": "Nubank Parque, São Paulo",
-      "onde_assistir": [],
-      "status_canal": "desconhecido",
-      "origem_canal": "",
-      "meu_time": true,
-      "pontos": 7,
-      "motivos": [
-        "meu time"
-      ],
-      "por_que_vale": [],
-      "observacao": "Horário ainda não oficializado pela CBF.",
-      "times": [
-        "Palmeiras",
-        "Coritiba"
-      ],
-      "interesses": [
-        "palmeiras",
-        "futebol"
-      ]
-    },
-    {
       "horario_definido": false,
       "situacao": "agendado",
       "inicio_anterior": null,
@@ -2540,6 +2556,39 @@
         "furia-cs2"
       ],
       "observacao": "Adversário e horário definidos pelo sorteio da fase."
+    },
+    {
+      "id": "bra-2026-r38-pal-cfc",
+      "esporte": "futebol",
+      "competicao": "Brasileirão · rodada final",
+      "titulo": "Palmeiras x Coritiba",
+      "monogramas": [
+        "PAL",
+        "CFC"
+      ],
+      "inicio": "2026-12-02T17:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Nubank Parque, São Paulo",
+      "onde_assistir": [],
+      "status_canal": "desconhecido",
+      "origem_canal": "",
+      "meu_time": true,
+      "pontos": 7,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": [],
+      "observacao": "Horário ainda não oficializado pela CBF.",
+      "times": [
+        "Palmeiras",
+        "Coritiba"
+      ],
+      "interesses": [
+        "palmeiras",
+        "futebol"
+      ]
     },
     {
       "id": "nba-2026-12-03-cle-chi",
@@ -2611,80 +2660,6 @@
         "brasil-grandes-eventos"
       ],
       "observacao": "Horário ainda não divulgado pela CBF."
-    },
-    {
-      "id": "f1-2026-abu-dhabi",
-      "esporte": "f1",
-      "competicao": "Fórmula 1 · Yas Marina",
-      "titulo": "GP de Abu Dhabi",
-      "monogramas": [
-        "F1"
-      ],
-      "inicio": "2026-12-06T10:00:00-03:00",
-      "horario_definido": true,
-      "situacao": "agendado",
-      "inicio_anterior": null,
-      "local": "Abu Dhabi",
-      "onde_assistir": [
-        {
-          "canal": "sportv",
-          "tipo": "tv_fechada",
-          "gratis": false,
-          "servico": "globoplay"
-        }
-      ],
-      "status_canal": "previsto",
-      "origem_canal": "sportv exibe todas as corridas; TV Globo ao vivo ainda não confirmada para este GP",
-      "meu_time": false,
-      "pontos": 8,
-      "motivos": [
-        "mega-evento",
-        "última etapa"
-      ],
-      "por_que_vale": [],
-      "interesses": [
-        "f1"
-      ]
-    },
-    {
-      "id": "nfl-2026-w14-sf-nyg",
-      "esporte": "nfl",
-      "competicao": "NFL · temporada regular",
-      "titulo": "49ers @ Giants",
-      "monogramas": [
-        "SF",
-        "NYG"
-      ],
-      "inicio": "2026-12-06T15:00:00-03:00",
-      "horario_definido": true,
-      "situacao": "agendado",
-      "inicio_anterior": null,
-      "local": "Nova Jersey",
-      "onde_assistir": [
-        {
-          "canal": "NFL Game Pass (DAZN)",
-          "tipo": "streaming",
-          "gratis": false,
-          "servico": "nfl_game_pass"
-        }
-      ],
-      "status_canal": "previsto",
-      "origem_canal": "Game Pass confirmado; demais canais a definir",
-      "meu_time": true,
-      "pontos": 8,
-      "motivos": [
-        "meu time",
-        "contra o líder da NFC"
-      ],
-      "por_que_vale": [],
-      "times": [
-        "49ers",
-        "Giants"
-      ],
-      "interesses": [
-        "new-york-giants",
-        "nfl"
-      ]
     },
     {
       "id": "cdb-2026-final",
@@ -2767,6 +2742,80 @@
       "observacao": "Calendário provisório da FIS.",
       "interesses": [
         "lucas-pinheiro-braathen"
+      ]
+    },
+    {
+      "id": "f1-2026-abu-dhabi",
+      "esporte": "f1",
+      "competicao": "Fórmula 1 · Yas Marina",
+      "titulo": "GP de Abu Dhabi",
+      "monogramas": [
+        "F1"
+      ],
+      "inicio": "2026-12-06T10:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Abu Dhabi",
+      "onde_assistir": [
+        {
+          "canal": "sportv",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "globoplay"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "sportv exibe todas as corridas; TV Globo ao vivo ainda não confirmada para este GP",
+      "meu_time": false,
+      "pontos": 8,
+      "motivos": [
+        "mega-evento",
+        "última etapa"
+      ],
+      "por_que_vale": [],
+      "interesses": [
+        "f1"
+      ]
+    },
+    {
+      "id": "nfl-2026-w14-sf-nyg",
+      "esporte": "nfl",
+      "competicao": "NFL · temporada regular",
+      "titulo": "49ers @ Giants",
+      "monogramas": [
+        "SF",
+        "NYG"
+      ],
+      "inicio": "2026-12-06T15:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Nova Jersey",
+      "onde_assistir": [
+        {
+          "canal": "NFL Game Pass (DAZN)",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "nfl_game_pass"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Game Pass confirmado; demais canais a definir",
+      "meu_time": true,
+      "pontos": 8,
+      "motivos": [
+        "meu time",
+        "contra o líder da NFC"
+      ],
+      "por_que_vale": [],
+      "times": [
+        "49ers",
+        "Giants"
+      ],
+      "interesses": [
+        "new-york-giants",
+        "nfl"
       ]
     }
   ]
