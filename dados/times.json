@@ -296,6 +296,209 @@
     "Barcelona": {
       "busca": "Barcelona",
       "esporte": "futebol"
+    },
+    "Chapecoense": {
+      "busca": "Chapecoense",
+      "esporte": "futebol",
+      "pais": "Brazil"
+    },
+    "Santos": {
+      "busca": "Santos",
+      "esporte": "futebol",
+      "pais": "Brazil"
+    },
+    "Vitória": {
+      "busca": "Vitoria",
+      "esporte": "futebol",
+      "pais": "Brazil"
+    },
+    "Internacional": {
+      "busca": "Internacional",
+      "esporte": "futebol",
+      "pais": "Brazil"
+    },
+    "Bragantino": {
+      "busca": "Red Bull Bragantino",
+      "esporte": "futebol",
+      "pais": "Brazil"
+    },
+    "Boca Juniors": {
+      "busca": "Boca Juniors",
+      "esporte": "futebol",
+      "pais": "Argentina"
+    },
+    "Fortaleza": {
+      "busca": "Fortaleza",
+      "esporte": "futebol",
+      "pais": "Brazil"
+    },
+    "Vila Nova": {
+      "busca": "Vila Nova",
+      "esporte": "futebol",
+      "pais": "Brazil"
+    },
+    "Criciúma": {
+      "busca": "Criciuma",
+      "esporte": "futebol",
+      "pais": "Brazil"
+    },
+    "Novorizontino": {
+      "busca": "Gremio Novorizontino",
+      "esporte": "futebol",
+      "pais": "Brazil"
+    },
+    "Nice": {
+      "busca": "Nice",
+      "esporte": "futebol",
+      "pais": "France"
+    },
+    "PSG": {
+      "busca": "Paris SG",
+      "esporte": "futebol",
+      "pais": "France"
+    },
+    "Sevilla": {
+      "busca": "Sevilla",
+      "esporte": "futebol",
+      "pais": "Spain"
+    },
+    "Betis": {
+      "busca": "Real Betis",
+      "esporte": "futebol",
+      "pais": "Spain"
+    },
+    "Lille": {
+      "busca": "Lille",
+      "esporte": "futebol",
+      "pais": "France"
+    },
+    "Lyon": {
+      "busca": "Lyon",
+      "esporte": "futebol",
+      "pais": "France"
+    },
+    "Villarreal": {
+      "busca": "Villarreal",
+      "esporte": "futebol",
+      "pais": "Spain"
+    },
+    "Milan": {
+      "busca": "AC Milan",
+      "esporte": "futebol",
+      "pais": "Italy"
+    },
+    "Frosinone": {
+      "busca": "Frosinone",
+      "esporte": "futebol",
+      "pais": "Italy"
+    },
+    "Liverpool": {
+      "busca": "Liverpool",
+      "esporte": "futebol",
+      "pais": "England"
+    },
+    "Manchester United": {
+      "busca": "Manchester United",
+      "esporte": "futebol",
+      "pais": "England"
+    },
+    "Everton": {
+      "busca": "Everton",
+      "esporte": "futebol",
+      "pais": "England"
+    },
+    "Freiburg": {
+      "busca": "SC Freiburg",
+      "esporte": "futebol",
+      "pais": "Germany"
+    },
+    "RB Leipzig": {
+      "busca": "RB Leipzig",
+      "esporte": "futebol",
+      "pais": "Germany"
+    },
+    "Leverkusen": {
+      "busca": "Bayer Leverkusen",
+      "esporte": "futebol",
+      "pais": "Germany"
+    },
+    "Como": {
+      "busca": "Como",
+      "esporte": "futebol",
+      "pais": "Italy"
+    },
+    "Juventus": {
+      "busca": "Juventus",
+      "esporte": "futebol",
+      "pais": "Italy"
+    },
+    "Real Sociedad": {
+      "busca": "Real Sociedad",
+      "esporte": "futebol",
+      "pais": "Spain"
+    },
+    "Chelsea": {
+      "busca": "Chelsea",
+      "esporte": "futebol",
+      "pais": "England"
+    },
+    "Tottenham": {
+      "busca": "Tottenham Hotspur",
+      "esporte": "futebol",
+      "pais": "England"
+    },
+    "Marseille": {
+      "busca": "Marseille",
+      "esporte": "futebol",
+      "pais": "France"
+    },
+    "Aston Villa": {
+      "busca": "Aston Villa",
+      "esporte": "futebol",
+      "pais": "England"
+    },
+    "Inter": {
+      "busca": "Inter Milan",
+      "esporte": "futebol",
+      "pais": "Italy"
+    },
+    "Cowboys": {
+      "busca": "Dallas Cowboys",
+      "esporte": "nfl"
+    },
+    "Heat": {
+      "busca": "Miami Heat",
+      "esporte": "nba"
+    },
+    "Raiders": {
+      "busca": "Las Vegas Raiders",
+      "esporte": "nfl"
+    },
+    "Rams": {
+      "busca": "Los Angeles Rams",
+      "esporte": "nfl"
+    },
+    "Raptors": {
+      "busca": "Toronto Raptors",
+      "esporte": "nba"
+    },
+    "Texans": {
+      "busca": "Houston Texans",
+      "esporte": "nfl"
+    },
+    "Trail Blazers": {
+      "busca": "Portland Trail Blazers",
+      "esporte": "nba"
+    },
+    "Gen.G": {
+      "busca": "Gen.G",
+      "esporte": "esports",
+      "buscar": false
+    },
+    "Bilibili Gaming": {
+      "busca": "Bilibili Gaming",
+      "esporte": "esports",
+      "buscar": false
     }
   }
 }
