@@ -499,6 +499,85 @@
       "busca": "Bilibili Gaming",
       "esporte": "esports",
       "buscar": false
+    },
+    "CRB": {
+      "busca": "CRB",
+      "esporte": "futebol",
+      "pais": "Brazil"
+    },
+    "Ceará": {
+      "busca": "Ceara",
+      "esporte": "futebol",
+      "pais": "Brazil"
+    },
+    "Club Brugge": {
+      "busca": "Club Brugge",
+      "esporte": "futebol",
+      "pais": "Belgium"
+    },
+    "Paris FC": {
+      "busca": "Paris FC",
+      "esporte": "futebol",
+      "pais": "France"
+    },
+    "Lazio": {
+      "busca": "Lazio",
+      "esporte": "futebol",
+      "pais": "Italy"
+    },
+    "Roma": {
+      "busca": "AS Roma",
+      "esporte": "futebol",
+      "pais": "Italy"
+    },
+    "Werder Bremen": {
+      "busca": "Werder Bremen",
+      "esporte": "futebol",
+      "pais": "Germany"
+    },
+    "Jazz": {
+      "busca": "Utah Jazz",
+      "esporte": "nba"
+    },
+    "Sesi Bauru": {
+      "busca": "Sesi Volei Bauru",
+      "esporte": "volei",
+      "buscar": false
+    },
+    "Osasco": {
+      "busca": "Osasco Sao Cristovao Saude",
+      "esporte": "volei",
+      "buscar": false
+    },
+    "Al Ahly": {
+      "busca": "Al Ahly SC volleyball",
+      "esporte": "volei",
+      "buscar": false
+    },
+    "Zhetysu": {
+      "busca": "Zhetysu VC",
+      "esporte": "volei",
+      "buscar": false
+    },
+    "Vakifbank": {
+      "busca": "VakifBank SK",
+      "esporte": "volei",
+      "buscar": false
+    },
+    "Alianza Lima": {
+      "busca": "Club Alianza Lima volleyball",
+      "esporte": "volei",
+      "buscar": false
+    },
+    "Eczacibasi": {
+      "busca": "Eczacibasi Dynavit",
+      "esporte": "volei",
+      "buscar": false
+    },
+    "NEC Red Rockets": {
+      "busca": "NEC Red Rockets Kawasaki",
+      "esporte": "volei",
+      "buscar": false
     }
   }
 }

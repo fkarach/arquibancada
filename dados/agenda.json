@@ -1,236 +1,151 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-11-10T06:16:39-03:00",
-  "proxima_atualizacao": "2026-11-13T06:00:00-03:00",
+  "atualizado_em": "2026-11-13T06:12:21-03:00",
+  "proxima_atualizacao": "2026-11-16T06:00:00-03:00",
   "janela": {
-    "de": "2026-11-10",
-    "ate": "2026-12-10"
+    "de": "2026-11-13",
+    "ate": "2026-12-13"
   },
   "observacoes": [
-    "Semana de 10 a 15/11 é data FIFA: sem rodada nas ligas europeias e só 2 jogos da Série A; piso de futebol fica abaixo nessa semana por falta de jogos.",
-    "NBA: de 4 a 12/12 a liga reservou datas para o mata-mata da NBA Cup; a temporada regular de dezembro ainda não tem grade de TV no Brasil.",
+    "Final da Copa do Brasil (6/12, Brasília) segue sem horário definido pela CBF.",
+    "Rodada 38 do Brasileirão: quarta 2/12, 21h30, 10 jogos simultâneos; transmissões só depois da 37ª rodada.",
+    "Playoffs de acesso da Série B em 21 e 28/11 (3º x 6º e 4º x 5º); confrontos e horários saem após a rodada de 14/11 — incluir na próxima atualização.",
+    "Ligue 1: Xsports exibe 3 jogos por rodada na TV aberta, mas a escolha não foi divulgada; os jogos agora listam só a CazéTV (prevista) até confirmação.",
+    "NBA: jogos de 6 a 12/12 dos times fora do mata-mata da NBA Cup (inclusive do Bulls) ainda não foram marcados; semana de 7 a 13/12 fica abaixo do piso até a NBA divulgar.",
+    "NBA: grade de dezembro da ESPN/Disney+ ainda não divulgada.",
+    "NFL: Jaguars x Giants (22/11) foi para 18h25 e Steelers x Eagles para 15h (flex anunciado em 9/11).",
+    "NFL: Broncos x Steelers da Black Friday é grátis no Prime Video no Brasil.",
+    "Basquete: Brasil x EUA (27/11) e Brasil x México (30/11) pelas eliminatórias da Copa do Mundo de 2027 entram em \"Brasil em grandes eventos\" (seleção principal); sem campo times para não reaproveitar o escudo da seleção de futebol.",
+    "Mundial de Clubes de vôlei masculino (15 a 20/12, Polônia) fica fora da janela.",
     "IDs da NFL mantêm a numeração anterior (uma semana à frente da numeração oficial) para estabilidade.",
-    "Rocket League (interesse novo): o Mundial 2026 já terminou e não há Major na janela; entra só o RLCS Club Kick-Off (9–13/12) por ter a FURIA convidada.",
-    "Super-G de Copper Mountain e Beaver Creek: participação do Lucas Pinheiro Braathen ainda não confirmada."
+    "Dérbi das Américas (9/12, Catar): se o Palmeiras for campeão da Libertadores em 28/11, o evento passa a ser Palmeiras x Toluca e meu_time.",
+    "Rocket League: sem Major na janela; entra só o RLCS Club Kick-Off (9–13/12) com a FURIA convidada; chave ainda não divulgada."
   ],
   "fontes": [
-    "https://www.oliberal.com/esportes/palmeiras-bate-vasco-esta-na-final-da-copa-do-brasil-e-mantem-sonho-da-triplice-coroa-1.1192003",
-    "https://abcdoabc.com.br/gremio-arranca-empate-do-atletico-fora/",
-    "https://abcdoabc.com.br/copa-do-brasil-2026-saiba-os-detalhes-da-final",
-    "https://gameoverdrive.com.br/gremio-palmeiras-final-copa-do-brasil-2026-data-local/",
-    "https://valorfinal.com.br/brasileirao/2026/rodada-34.md",
-    "https://tribunadejundiai.com.br/mais/esportes/brasileirao-tem-as-rodadas-35-e-36-detalhadas-pela-cbf/",
-    "https://tribunadejundiai.com.br/mais/esportes/brasileirao-2026-cbf-detalha-ultimas-rodadas-veja-os-jogos-e-como-assistir/",
-    "https://portaldeprefeitura.com.br/esportes/brasileirao-cbf-publica-tabela-detalhada-das-duas-ultimas-rodadas/635632/",
+    "https://tribunadejundiai.com.br/noticias/copa-do-brasil-2026-veja-todos-os-detalhes-da-grande-final/",
+    "https://acritica.net/esportes/gremio-x-palmeiras-veja-onde-assistir-data-e-horario-da-final-da-copa-do-brasil-2026/",
+    "https://gcmais.com.br/noticias/2026/11/12/palmeiras-pode-conquistar-tres-titulos-em-2026-veja-calendario-decisivo",
+    "https://www.cbf.com.br/selecao-brasileira/noticias/noticias/selecao-feminina-principal/credenciamento-de-imprensa-para-os-amistosos-da-selecao-feminina-no-japao-esta-aberto",
+    "https://www.bahianoticias.com.br/esportes/noticia/80971-arthur-elias-convoca-a-selecao-brasileira-feminina-para-amistosos-contra-o-japao",
+    "https://m.imirante.com/esporte/sao-luis/2026/11/09/selecao-brasileira-encerra-temporada-2026-amistosos",
+    "https://midiaesportiva.com/brasileirao-tem-transmissoes-da-penultima-rodada-definidas-por-globo-record-amazon-e-sportv/",
+    "https://www.portalmidiaesporte.com/2026/11/globo-amazon-e-record-definem-escolhas-dos-jogos-da-penultima-rodada-do-brasileirao.html",
+    "https://www.netvasco.com.br/n/396061/informacoes-sobre-ingressos-para-chapecoense-x-vasco",
     "https://diariodorio.com/esporte/2026/10/30/chapecoense-x-vasco-cbf-divulga-data-e-horario-do-jogo-atrasado-do-brasileirao.html",
-    "https://www.dgabc.com.br/Noticia/4366193/palmeiras-x-estudiantes-conmebol-define-horario-da-final-da-libertadores-veja-detalhes",
-    "https://acritica.net/esportes/palmeiras-estudiantes-final-libertadores-2026-data-local-onde-assistir/",
-    "https://tribunadejundiai.com.br/mais/esportes/libertadores-e-sul-americana-2026-tem-finais-entre-brasil-e-argentina/",
-    "https://tribunadejundiai.com.br/mais/esportes/sul-americana-2026-conmebol-define-horario-da-final-confira/",
-    "https://www.primicias.ec/deportes/futbol/conmebol-horario-final-copa-sudamericana-boca-juniors-atletico-mineiro-barranquilla-136188/",
-    "https://tribunadejundiai.com.br/mais/esportes/cbf-divulga-detalhes-dos-ultimos-jogos-do-brasil-em-2026/",
-    "https://www.metropoles.com/esportes/arthur-elias-convoca-selecao-brasileira-feminina-para-ultimos-jogos-em-2026",
-    "https://www.tupi.fm/esportes/selecao-feminina-anuncia-convocacao-para-amistosos-contra-o-japao-em-novembro/",
-    "https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/alexandre-mota/fortaleza-conhece-adversario-dos-playoffs-da-serie-b-rodada-final-define-vantagem-1.3804193",
-    "https://acritica.net/esportes/serie-b-37-rodada-sabado-decisivo-acessos-titulo-rebaixamento/",
-    "https://abcdoabc.com.br/sp-recebe-mundial-de-clubes-de-volei-feminino/",
-    "https://maquinadoesporte.com.br/?p=242751",
-    "https://www.swimmingworldmagazine.com/news/world-aquatics-reveals-schedule-for-world-short-course-championships-in-beijing/",
-    "https://www.premierleague.com/en/news/4725574/fixture-amendments-for-premier-league-matches-in-november",
-    "https://www.premierleague.com/en/news/4743152/fixture-amendments-for-premier-league-matches-in-december/",
-    "https://www.sportsmole.co.uk/football/Premier-League/table.html",
-    "https://www.themag.co.uk/2026/11/what-the-premier-league-table-tells-us-as-we-now-head-into-november-internationals/",
-    "https://jereznews.com/laliga-barcelona-lider-33-puntos-betis-cuarto-malaga-colista",
-    "https://www.eldesmarque.com/futbol/liga-1a-division/20261021/fechas-horarios-partidos-jornada-13-laliga_18_020499599.html",
-    "https://www.eldesmarque.com/futbol/liga-1a-division/20261106/fechas-horarios-jornada-14-jornada-23-laliga_18_020644801.html",
+    "https://maquinadoesporte.com.br/?p=237497",
+    "https://wmais.com.br/wsports/cbf-tabela-38-rodada-serie-b-2026-transmissoes-botafogo-sp/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/serie-b-veja-disputa-por-acesso-playoffs-e-contra-o-z4-apos-a-37a-rodada/",
+    "https://www.365scores.com/pt-br/news/magazine/o-que-vale-cada-jogo-ultima-rodada-serie-b-2026/",
+    "https://www.bahianoticias.com.br/esportes/noticia/77999-playoffs-da-serie-b-2026-como-funciona-a-nova-disputa-pelo-acesso",
+    "https://tribunadejundiai.com.br/mais/esportes/final-da-sul-americana-veja-todos-os-detalhes/",
+    "https://tribunadejundiai.com.br/mais/esportes/palmeiras-x-estudiantes-veja-os-detalhes-da-final-da-libertadores-2026/",
+    "https://www.gazetaesportiva.com/campeonatos/mundial-de-clubes-fifa/fifa-define-datas-copa-intercontinental-2026/",
+    "https://www.record.com.mx/historia/laliga-adelanta-partidos-de-barcelona-real-madrid-2026110618022223804",
+    "https://www.comuniate.com/en/noticias/38695/laliga-brings-forward-two-jornada-23-matches-to-december",
+    "https://futboltotal.futbol/noticias/lideres-cinco-grandes-ligas-noviembre-2026",
     "https://futboltotal.futbol/league/la-liga/todos-los-partidos",
-    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-athletic-club-real-madrid-15",
-    "https://www.dazn.com/it-IT/news/calcio/classifica-serie-a-aggiornata/1ae86cqx9wpxe1ltiy5kwpuxtd",
-    "https://www.dazn.com/it-IT/news/calcio/serie-a-enilive-202627-anticipi-e-posticipi-dalla-13%C2%AA-alla-19%C2%AA-giornata/13t7bz7uq2rlq1biux9b4x49uy",
-    "https://www.sportmediaset.mediaset.it/calcio/seriea/calendario-serie-a-2026-27-anticipi-e-posticipi-dalla-sesta-alla-dodicesima-giornata_116161531-202602k.shtml",
-    "https://www.sport1.de/daten/fussball/bundesliga/tabelle",
-    "https://anstosszeiten.de/bundesliga/spielplan/",
+    "https://futboltotal.futbol/partido/sevilla-vs-real-betis-la-liga-2026-11-22",
+    "https://www.laliga.com/es-DE/partido/temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-real-betis-15",
+    "https://www.excelsior.com.mx/deportes/queda-tabla-laliga-tras-victoria-barcelona-metropolitano",
+    "https://www.sportsmole.co.uk/football/Premier-League/table.html",
+    "https://www.101greatgoals.com/news/football-on-tv-november-fixture-changes-matches-channels-live-online-streams-where-watch-kick-off-times-schedule/",
+    "https://www.101greatgoals.com/?p=217979",
+    "https://www.empireofthekop.com/2026/10/19/liverpool-fixture-updates-december-2026/amp/",
+    "https://www.capitalfm.com/radio/news/sport/premier-league-fixtures-on-sky-sports-arsenal/",
+    "https://www.fantamaster.it/seriea-anticipi-posticipi-date-orari-programmazione-tv-dalla-12-alla-19-giornata/",
+    "https://www.fantacalcio.it/serie-a/calendario/12/2026-27/milan-frosinone/18070",
+    "https://www.tuttomercatoweb.com/i-fatti-del-giorno/serie-a-recap-risultati-11-turno-classifica-sosta-2292244",
     "https://anstosszeiten.de/bundesliga/spieltag-10/",
-    "https://www.ski-nordique.net/ligue-1-20262027-classement-j10-le-psg-tient-bon-lom-gagne-a-lens-lyon-chute-a-brest.6751885-72348.html",
+    "https://anstosszeiten.de/bundesliga/spieltag-11/",
+    "https://anstosszeiten.de/bundesliga/spieltag-12/",
+    "https://anstosszeiten.de/bundesliga/spieltag-13/",
+    "https://www.hessenschau.de/sport/ergebnisse-tabellen/fussball-1bl100~_matchday-9.html",
     "https://ligue1.com/fr/articles/l1_article_5839-programmation-tv-j10-j11-ligue-1-2026-2027",
-    "https://ligue1.com/fr/articles/l1_article_5843-programmation-tv-j12-ligue-1-2026-2027",
+    "https://ligue1.com/fr/articles/l1_article_5843-",
     "https://ligue1.com/fr/articles/l1_article_5979-programmation-tv-de-la-j13-a-la-j18",
-    "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
+    "https://m.maxifoot.fr/ligue-1/le-classement-provisoire-foot-467377.htm",
+    "https://www.sportcal.com/news/xsports-to-share-ligue-1-rights-with-cazetv-in-brazil/",
+    "https://www.si.com/soccer/2026-27-champions-league-dates-kickoff-times-all-league-phase-fixtures",
     "https://www.nbcsports.com/soccer/news/uefa-champions-league-2026-27-league-phase-table-latest-standings",
-    "https://www.portalmidiaesporte.com/2026/10/sbt-confirma-transmissao-de-jogos-de-barcelona-e-real-madrid-pelas-rodadas-4-e-5-da-champions-league.html",
-    "https://maquinadoesporte.com.br/midia/cazetv-exibira-laliga-com-exclusividade-no-mercado-brasileiro-ate-2031-2032/",
-    "https://www.portalmidiaesporte.com/2026/08/futebol-europeu-youtube-jogos-gratuitos-transmissoes-2026-2027.html",
-    "https://www.diariodepernambuco.com.br/esportes-dp/internacional/2026/08/11721857-onde-assistir-a-premier-league-2026-27-veja-a-divisao-de-transmissoes.html",
-    "https://maquinadoesporte.com.br/midia/xsports-adquire-direitos-de-transmissao-da-ligue-1-para-a-tv-aberta-na-temporada-2026-27/",
-    "https://www.alemanhafc.com.br/2026/08/bundesliga-amplia-cobertura-no-brasil.html",
-    "https://golazzo.com.br/2026-07-acordo-com-sportynet-amplia-transmissao-do-campeonato-italiano-de-graca-no-youtube/",
-    "https://gameoverdrive.com.br/nfl-novembro-2026-onde-assistir-jogos-horarios/",
-    "https://maquinadoesporte.com.br/onde-assistir/nfl-veja-onde-assistir-aos-jogos-da-temporada-2026-2027/",
-    "https://www.dgabc.com.br/Noticia/4367062/nfl-veja-horarios-e-onde-assistir-aos-jogos-da-semana-9",
-    "https://www.omelete.com.br/esporte/netflix-anuncia-jogos-da-nfl-que-vai-transmitir-nesta-temporada",
-    "https://nflplayoffpass.com/game/giants-vs-eagles-week-9-2026/",
-    "https://nflplayoffpass.com/game/commanders-vs-giants-week-10-2026/",
-    "https://nflplayoffpass.com/nfl-standings/",
-    "https://bleacherreport.com/articles/25531025-nfl-playoff-picture-2026-week-10-standings-super-bowl-odds-wild-card-bracket-hunt",
-    "https://nflplayoffpass.com/nfl-week-10-schedule/",
-    "https://nflplayoffpass.com/nfl-week-11-schedule/",
-    "https://nflplayoffpass.com/nfl-week-12-schedule/",
-    "https://nflplayoffpass.com/nfl-week-13-schedule/",
-    "https://www.cbssports.com/nfl/schedule/2026/regular/13/",
-    "https://nflplayoffpass.com/nfl-schedule/",
-    "https://www.meioemensagem.com.br/midia/prime-video-transmitira-jogo-da-nfl-durante-a-black-friday",
-    "https://gameoverdrive.com.br/nba-novembro-2026-onde-assistir-jogos-horarios/",
-    "https://www.landofbasketball.com/results_by_team/2026_2027_bulls.htm",
-    "https://www.bettoredge.com/printable-schedule/nba/chicago-bulls",
-    "https://www.landofbasketball.com/yearbyyear/2026_2027_cup_scores.htm",
-    "https://www.landofbasketball.com/results_by_team/2026_2027_lakers.htm",
-    "https://www.landofbasketball.com/results_by_team/2026_2027_thunder.htm",
+    "https://trivela.com.br/europa/champions-league/rodada-estreia-tnt-sports-youtube/",
+    "https://hoopsbrasil.com.br/nba-2026-27-calendario-de-transmissoes-do-prime-video/",
+    "https://cenariomt.com.br/esportes/nba-em-novembro-veja-jogos-horarios-e-onde-assistir/",
+    "https://www.otempo.com.br/sports/basquete/nba/2026/11/12/nba-tem-raptors-x-76ers-no-prime-video-e-mais-tres-jogos-nesta-quinta-veja-onde-assistir",
+    "https://www.espn.com/nba/story/_/id/49577473/2026-nba-season-tournament-cup-format-highlights-updates",
+    "https://en.wikipedia.org/wiki/2026_NBA_Cup",
+    "https://www.cbssports.com/nba/teams/CHI/chicago-bulls/schedule/",
+    "https://www.nba.com/bulls/news/chicago-bulls-announce-schedule-for-2026-27-regular-season",
     "https://africa.espn.com/nba/table/_/sort/streak",
-    "https://bleacherreport.com/articles/25470465-2026-nba-cup-schedule-matchups-dates-tv-info-set-group-bracket-format",
-    "https://africa.espn.com/nba/story/_/id/49577473/2026-nba-season-tournament-cup-format-highlights-updates",
-    "https://ballislife.com/news/nba/nba-national-tv-schedules-2026-27-nbc/",
-    "https://awfulannouncing.com/nba/2026-national-tv-schedule-abc-espn-nbc-prime.html",
-    "https://www.terra.com.br/esportes/automobilismo/formula1/calendario-da-f1-2026-saiba-quais-corridas-terao-transmissao-na-globo,f5b0d21e2872961506c7b632378b6a34bz8f0frc.html",
-    "https://garagem360.com.br/?p=302625",
-    "https://juliannecerasoli.com.br/calendario-f1-2026-e-horarios-tv-globo/",
-    "https://www.atletapro.com.br/onde-assistir-gp-las-vegas-2026/",
-    "https://www.ufcalendar.com/ufc/schedule",
-    "https://www.ufcalendar.com/events/ufc-2026-11-15",
-    "https://www.ufcalendar.com/events/ufc-fight-night-2026-11-21",
-    "https://www.postwrestling.com/?p=139998",
-    "https://estnn.com/bilibili-gaming-beat-t1-worlds-2026-final-gen-g/",
-    "https://gameoverinteractive.com/news/worlds-2026-final-start-time-how-to-watch",
-    "https://portaldogamer.com.br/worlds-2026-horarios-brasil-datas-formato-onde-assistir/",
-    "https://blast.tv/cs/tournaments/rivals-2026-season-2/match",
-    "https://liquipedia.net/counterstrike/BLAST/Rivals/2026/Fall",
-    "https://draft5.gg/equipe/330-FURIA/campeonatos",
-    "https://en.wikipedia.org/wiki/PGL_Major_Singapore_2026",
-    "https://www.hotspawn.com/counter-strike/news/hotspawn-pickems-pgl-major-singapore-2026-how-to-play",
-    "https://blast.tv/rl/tournaments/rlcs-club-championship-kick-off-2027",
-    "https://blast.tv/rl/news/rlcs-returns-to-london-club-championship-2026",
+    "https://sports.yahoo.com/articles/nba-national-tv-streaming-schedule-221120259.html",
+    "https://www.espn.com/nba/story/_/id/50220519/nba-season-2026-2027-espn-abc-schedule",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Los_Angeles_Lakers_season",
+    "https://www.giants.com/schedule/2026/",
+    "https://www.nfl.com/news/week-11-schedule-change",
+    "https://fbschedules.com/nfl-schedule-2026-two-changes-announced-for-week-11/",
+    "https://www.steelers.com/news/steelers-eagles-game-flexed",
+    "https://gameoverdrive.com.br/nfl-novembro-2026-onde-assistir-jogos-horarios/",
+    "https://www.lance.com.br/odds-mais-esportes/nfl/semana-10-da-nfl-tem-jogo-em-munique-e-duelo-por-lideranca-no-sportv-e-ge-tv.html",
+    "https://www.365scores.com/pt-br/news/magazine/semana-10-nfl-2026-onde-assistir/",
+    "https://www.portalmidiaesporte.com/2026/11/prime-video-anuncia-transmissoes-gratuitas-da-nfl-nba-e-golfe-no-dia-da-black-friday.html",
+    "https://www.antenadosnatvestreaming.com/2026/11/prime-video-nfl-nba-gratis-black-friday-2026.html",
+    "https://maquinadoesporte.com.br/onde-assistir/nfl-veja-onde-assistir-aos-jogos-da-temporada-2026-2027/",
+    "https://www.renderfoot.com/nfl-schedule/week-13",
+    "https://www.cbssports.com/nfl/schedule/2026/regular/14/",
+    "https://www.espn.co.uk/nfl/table/_/group/league",
+    "https://www.fpshub.com/1127411/furia-spirit-win-blast-rivals-fall-groups-in-hong-kong-field-level-media-professional-sports-content-solutions/",
+    "https://estnn.com/blast-rivals-playoffs-november-13-what-is-at-stake/",
+    "https://www.hltv.org/news/45978/spirit-through-to-hong-kong-semis-as-blast-rivals-bracket-is-set",
+    "https://estnn.com/worlds-2026-final-gen-g-vs-bilibili-gaming-preview/",
+    "https://mmasucka.com/previews/ufc-334-full-fight-card-main-event-and-start-times/",
+    "https://www.ufcalendar.com/events/ufc-335-2026-12-13",
+    "https://www.lance.com.br/lutas/do-bronx-poatan-e-mais-confira-as-principais-lutas-do-ufc-335-pelo-cinturao-bmf-em-las-vegas.html",
+    "https://www.brasilemfolhas.com.br/2026/10/ufc-anuncia-sete-eventos-ate-dezembro-com-brasileiros-em-destaque/",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_FIS_Alpine_Ski_World_Cup",
-    "https://www.techradar.com/entertainment/sport/watch-alpine-ski-world-cup-2026-27",
-    "https://etusuora.com/en/alpine-skiing/world-cup/levi",
-    "https://snowbrains.com/levi-finland-world-cup-snow-control-2026/",
-    "https://www.gurgl.com/en/events-leisure-tips/events/audi-fis-ski-world-cup/race-program",
+    "https://www.tvmatchen.nu/sport/alpint/slalom-levi-2026-2/",
     "https://www.coppercolorado.com/copper-cup/event-experience/race-info-and-schedules/",
-    "https://bcworldcup.com/events/",
-    "https://www.brasilzerograu.com.br/2026/05/programacao-lucas-pinheiro-braathen-esqui-alpino-2027.html",
+    "https://bcworldcup.com/birds-of-prey-menswomens/",
+    "https://guide-ski.fr/criterium-premiere-neige-val-disere-2026/",
+    "https://www.bluewin.ch/en/sport/ski/braathen-is-aiming-for-the-overall-world-cup-title-and-will-soon-be-competing-in-the-speed-events-i-ve-put-myself-in-a-good-position.-li.3649059",
     "https://www.portalmidiaesporte.com/2026/10/xsports-garante-direitos-da-copa-do-mundo-de-esqui-alpino-com-lucas-pinheiro-braathen.html",
-    "https://www.espn.com.br/artigo/_/id/16401418/lucas-pinheiro-braathen-hoje-slalom-horario-onde-assistir-ao-vivo-apos-ouro-copa-mundo-esqui-alpino",
-    "https://m.imirante.com/esporte/brasil/2026/10/26/lucas-pinheiro-abre-temporada-ouro-slalom-austria",
-    "https://jordantimes.com/news/sports/braathen-wins-levi-slalom-for-first-brazilian-world-cup-victory",
     "https://tmc.com.br/esporte/quando-comeca-kings-league-brasil-2026-jogos-datas/",
-    "https://www.betexplorer.com/football/team/g3x-fc/QRHeV9Hs/results/",
-    "https://www.flashscore.es/partido/futbol/desimpain-kings-league-4CezuEhd/g3x-fc-kings-league-QRHeV9Hs/",
-    "https://jogada10.com.br/os-jogos-horarios-e-onde-assistir-a-quinta-rodada-da-kings-league-brasil/"
+    "https://tmc.com.br/esporte/kings-cup-brasil-horarios-onde-assistir-4-rodada/",
+    "https://www.terra.com.br/esportes/automobilismo/formula1/f1-confira-horarios-e-onde-assistir-ao-gp-de-las-vegas-com-gabriel-bortoleto-e-rafa-camara,d9cd99a144183f65602c255662cfe224bn1ifmp3.html",
+    "https://www.the-race.com/formula-1/f1-2026-race-start-times/",
+    "https://en.wikipedia.org/wiki/PGL_Major_Singapore_2026",
+    "https://estnn.com/pgl-major-singapore-2026-results-standings-tracker/",
+    "https://clip.dor.gg/en/blog/cs2-major-schedule",
+    "https://blast.tv/rl/tournaments/rlcs-club-championship-kick-off-2027",
+    "https://surtoolimpico.com.br/artigo/cbda-confirma-guilherme-caribe-e-mafe-costa-entre-os-15-convocados-para-o-mundial-de-piscina-curta",
+    "https://www.crsaopaulo.com.br/noticia/grupo-globo-transmite-mundial-de-clubes-de-volei-feminino-da-fivb-2026-no-parque-sao-jorge",
+    "https://webvolei.com.br/tabela-do-mundial-feminino-de-clubes-de-2026/",
+    "https://www.otempo.com.br/sports/volei/2026/10/29/tabela-mundial-de-clubes-de-volei-masculino-2026",
+    "https://www.cbb.com.br/noticias/selecao-brasileira-de-basquete-volta-ao-ibirapuera-para-a-janela-de-novembro-das-eliminatorias-da-copa-do-mundo",
+    "https://auriverdebrasil.com.br/esportes/brasil-enfrentara-estados-unidos-e-mexico-no-ibirapuera-pelas-eliminatorias-da-copa-do-mundo-de",
+    "https://www.redenn.com.br/noticia/ingressos-esgotam-em-72h-para-brasil-x-estados-unidos-pelas-eliminatorias-da-copa-do-mundo"
   ],
   "eventos": [
     {
-      "id": "nba-2026-11-10-bos-phi",
       "esporte": "nba",
-      "competicao": "NBA · temporada regular",
-      "titulo": "Celtics x 76ers",
-      "monogramas": [
-        "BOS",
-        "PHI"
-      ],
-      "inicio": "2026-11-10T22:00:00-03:00",
+      "competicao": "NBA · NBA Cup (fase de grupos)",
       "horario_definido": true,
       "situacao": "agendado",
       "inicio_anterior": null,
       "local": null,
-      "onde_assistir": [
-        {
-          "canal": "Prime Video",
-          "tipo": "streaming",
-          "gratis": false,
-          "servico": "prime_video"
-        }
-      ],
-      "status_canal": "confirmado",
-      "origem_canal": "grade de novembro do Game Over Drive",
       "meu_time": false,
-      "pontos": 6,
-      "motivos": [
-        "líder x vice do Leste",
-        "no seu Prime"
-      ],
-      "por_que_vale": [
-        "76ers (9-2) e Celtics (8-2) são os dois primeiros do Leste."
-      ],
-      "times": [
-        "Celtics",
-        "76ers"
-      ],
       "interesses": [
         "nba"
-      ]
-    },
-    {
-      "situacao": "agendado",
-      "inicio_anterior": null,
-      "horario_definido": true,
-      "local": "AsiaWorld-Expo, Hong Kong",
-      "por_que_vale": [
-        "A FURIA defende o título do BLAST Rivals de Hong Kong, conquistado em 2025."
       ],
-      "status_canal": "confirmado",
-      "origem_canal": "BLAST.tv lista a partida",
-      "id": "cs2-2026-blast-rivals-fur-leg",
-      "esporte": "esports",
-      "modalidade": "cs2",
-      "categoria": {
-        "chave": "cs2",
-        "sigla": "CS2",
-        "rotulo": "CS2"
-      },
-      "competicao": "BLAST Rivals Hong Kong · grupo A",
-      "titulo": "FURIA x Legacy",
+      "id": "nba-2026-11-13-nyk-ind",
+      "titulo": "Knicks x Pacers",
       "times": [
-        "FURIA",
-        "Legacy"
+        "Knicks",
+        "Pacers"
       ],
       "monogramas": [
-        "FUR",
-        "LEG"
+        "NYK",
+        "IND"
       ],
-      "inicio": "2026-11-10T23:00:00-03:00",
-      "onde_assistir": [
-        {
-          "canal": "BLAST (Twitch/YouTube)",
-          "tipo": "youtube",
-          "gratis": true
-        }
-      ],
-      "meu_time": true,
-      "pontos": 6,
-      "motivos": [
-        "meu time"
-      ],
-      "interesses": [
-        "furia-cs2"
-      ],
-      "observacao": "Jogo de abertura do grupo A (melhor de 3)."
-    },
-    {
-      "id": "nba-2026-11-11-okc-por",
-      "esporte": "nba",
-      "competicao": "NBA · temporada regular",
-      "titulo": "Thunder x Trail Blazers",
-      "times": [
-        "Thunder",
-        "Trail Blazers"
-      ],
-      "monogramas": [
-        "OKC",
-        "POR"
-      ],
-      "inicio": "2026-11-11T01:00:00-03:00",
-      "horario_definido": true,
-      "situacao": "agendado",
-      "inicio_anterior": null,
-      "local": null,
+      "inicio": "2026-11-13T21:00:00-03:00",
       "onde_assistir": [
         {
           "canal": "Prime Video",
@@ -246,276 +161,16 @@
         }
       ],
       "status_canal": "confirmado",
-      "origem_canal": "grade de novembro do Game Over Drive",
-      "meu_time": false,
-      "pontos": 6,
-      "motivos": [
-        "dois times do topo do Oeste",
-        "no seu Prime"
-      ],
-      "por_que_vale": [
-        "Thunder 8-2 e Trail Blazers 6-3."
-      ],
-      "interesses": [
-        "nba"
-      ],
-      "observacao": "Começa à 1h da madrugada de quarta (noite de terça nos EUA)."
-    },
-    {
-      "id": "nba-2026-11-11-sas-chi",
-      "esporte": "nba",
-      "competicao": "NBA · temporada regular",
-      "titulo": "Bulls x Spurs",
-      "monogramas": [
-        "CHI",
-        "SAS"
-      ],
-      "inicio": "2026-11-11T22:00:00-03:00",
-      "horario_definido": true,
-      "situacao": "agendado",
-      "inicio_anterior": null,
-      "local": "Chicago",
-      "onde_assistir": [
-        {
-          "canal": "NBA League Pass",
-          "tipo": "streaming",
-          "gratis": false,
-          "servico": "league_pass"
-        }
-      ],
-      "status_canal": "confirmado",
-      "origem_canal": "grade de novembro do Game Over Drive",
-      "meu_time": true,
-      "pontos": 6,
-      "motivos": [
-        "meu time"
-      ],
-      "por_que_vale": [
-        "Spurs são 3º do Oeste (8-2); Bulls são 14º do Leste (1-8)."
-      ],
-      "times": [
-        "Bulls",
-        "Spurs"
-      ],
-      "interesses": [
-        "chicago-bulls",
-        "nba"
-      ]
-    },
-    {
-      "situacao": "agendado",
-      "inicio_anterior": null,
-      "horario_definido": true,
-      "local": "AsiaWorld-Expo, Hong Kong",
-      "por_que_vale": [],
-      "status_canal": "confirmado",
-      "origem_canal": "BLAST.tv",
-      "id": "cs2-2026-blast-rivals-fur-2",
-      "esporte": "esports",
-      "modalidade": "cs2",
-      "categoria": {
-        "chave": "cs2",
-        "sigla": "CS2",
-        "rotulo": "CS2"
-      },
-      "competicao": "BLAST Rivals Hong Kong · grupo A",
-      "titulo": "FURIA · 2º jogo do grupo",
-      "monogramas": [
-        "FUR"
-      ],
-      "inicio": "2026-11-11T23:00:00-03:00",
-      "onde_assistir": [
-        {
-          "canal": "BLAST (Twitch/YouTube)",
-          "tipo": "youtube",
-          "gratis": true
-        }
-      ],
-      "meu_time": true,
-      "pontos": 6,
-      "motivos": [
-        "meu time"
-      ],
-      "interesses": [
-        "furia-cs2"
-      ],
-      "observacao": "Se perder para a Legacy, a FURIA joga a partida de eliminação às 23:00 de 11/11. Se vencer, joga a partida dos vencedores às 01:30 de 12/11, contra Vitality ou Falcons."
-    },
-    {
-      "id": "nba-2026-11-11-gsw-hou",
-      "esporte": "nba",
-      "competicao": "NBA · temporada regular",
-      "titulo": "Warriors x Rockets",
-      "monogramas": [
-        "GSW",
-        "HOU"
-      ],
-      "inicio": "2026-11-11T23:30:00-03:00",
-      "horario_definido": true,
-      "situacao": "agendado",
-      "inicio_anterior": null,
-      "local": null,
-      "onde_assistir": [
-        {
-          "canal": "ESPN 2 / Disney+",
-          "tipo": "tv_fechada",
-          "gratis": false,
-          "servico": "espn_disney"
-        }
-      ],
-      "status_canal": "confirmado",
-      "origem_canal": "grade de novembro do Game Over Drive",
-      "meu_time": false,
+      "origem_canal": "calendário do Prime Video para 2026/27 (Hoops Brasil) e grade de novembro (Cenário MT)",
       "pontos": 4,
       "motivos": [
-        "dois times do topo do Oeste"
-      ],
-      "por_que_vale": [
-        "Warriors e Rockets estão 7-3, entre os seis primeiros do Oeste."
-      ],
-      "times": [
-        "Warriors",
-        "Rockets"
-      ],
-      "interesses": [
-        "nba"
-      ]
-    },
-    {
-      "id": "nba-2026-11-12-tor-phi",
-      "esporte": "nba",
-      "competicao": "NBA · temporada regular",
-      "titulo": "Raptors x 76ers",
-      "times": [
-        "Raptors",
-        "76ers"
-      ],
-      "monogramas": [
-        "TOR",
-        "PHI"
-      ],
-      "inicio": "2026-11-12T21:00:00-03:00",
-      "horario_definido": true,
-      "situacao": "agendado",
-      "inicio_anterior": null,
-      "local": null,
-      "onde_assistir": [
-        {
-          "canal": "Prime Video",
-          "tipo": "streaming",
-          "gratis": false,
-          "servico": "prime_video"
-        },
-        {
-          "canal": "NBA League Pass",
-          "tipo": "streaming",
-          "gratis": false,
-          "servico": "league_pass"
-        }
-      ],
-      "status_canal": "confirmado",
-      "origem_canal": "grade de novembro do Game Over Drive",
-      "meu_time": false,
-      "pontos": 5,
-      "motivos": [
-        "líder do Leste",
+        "NBA Cup",
         "no seu Prime"
       ],
       "por_que_vale": [
-        "76ers lideram o Leste (9-2); Raptors são 5º (5-4)."
-      ],
-      "interesses": [
-        "nba"
+        "NBA Cup, Grupo B do Leste: Knicks 0-1 e Pacers 0-1 no grupo.",
+        "Knicks são 5º do Leste (6-5)."
       ]
-    },
-    {
-      "id": "nfl-2026-w11-was-nyg",
-      "esporte": "nfl",
-      "competicao": "NFL · Thursday Night",
-      "titulo": "Commanders @ Giants",
-      "monogramas": [
-        "WAS",
-        "NYG"
-      ],
-      "inicio": "2026-11-12T22:15:00-03:00",
-      "horario_definido": true,
-      "situacao": "agendado",
-      "inicio_anterior": null,
-      "local": "Nova Jersey",
-      "onde_assistir": [
-        {
-          "canal": "sportv",
-          "tipo": "tv_fechada",
-          "gratis": false,
-          "servico": "globoplay"
-        },
-        {
-          "canal": "NFL Game Pass (DAZN)",
-          "tipo": "streaming",
-          "gratis": false,
-          "servico": "nfl_game_pass"
-        }
-      ],
-      "status_canal": "previsto",
-      "origem_canal": "sportv tem todos os jogos de quinta (Máquina do Esporte); grade da semana ainda não divulgada; Game Pass confirmado (Game Over Drive)",
-      "meu_time": true,
-      "pontos": 7,
-      "motivos": [
-        "meu time",
-        "clássico de divisão"
-      ],
-      "por_que_vale": [
-        "Giants lideram a NFC East (5-2-1) após vencer os Eagles por 19 a 11.",
-        "No primeiro duelo, em 11/10, empate em 27 a 27."
-      ],
-      "times": [
-        "Commanders",
-        "Giants"
-      ],
-      "interesses": [
-        "new-york-giants",
-        "nfl"
-      ]
-    },
-    {
-      "situacao": "agendado",
-      "inicio_anterior": null,
-      "horario_definido": true,
-      "local": "AsiaWorld-Expo, Hong Kong",
-      "por_que_vale": [],
-      "status_canal": "confirmado",
-      "origem_canal": "BLAST.tv",
-      "id": "cs2-2026-blast-rivals-playoffs",
-      "esporte": "esports",
-      "modalidade": "cs2",
-      "categoria": {
-        "chave": "cs2",
-        "sigla": "CS2",
-        "rotulo": "CS2"
-      },
-      "competicao": "BLAST Rivals Hong Kong · playoffs",
-      "titulo": "FURIA nos playoffs do BLAST Rivals",
-      "monogramas": [
-        "FUR"
-      ],
-      "inicio": "2026-11-13T04:00:00-03:00",
-      "onde_assistir": [
-        {
-          "canal": "BLAST (Twitch/YouTube)",
-          "tipo": "youtube",
-          "gratis": true
-        }
-      ],
-      "meu_time": true,
-      "pontos": 6,
-      "motivos": [
-        "meu time",
-        "mata-mata"
-      ],
-      "interesses": [
-        "furia-cs2"
-      ],
-      "observacao": "Quartas em 13/11 às 04:00 ou 06:30. O 1º do grupo vai direto à semifinal (14/11, 04:00 ou 06:30). Depende da campanha da FURIA no grupo."
     },
     {
       "id": "nba-2026-11-13-atl-chi",
@@ -548,7 +203,8 @@
         "NBA Cup"
       ],
       "por_que_vale": [
-        "NBA Cup, Grupo C do Leste: Bulls 0-1, Hawks 1-0 no grupo."
+        "NBA Cup, Grupo C do Leste: Bulls 0-1, Hawks 1-0 no grupo.",
+        "Hawks são 4º do Leste (7-5); Bulls 14º (1-9)."
       ],
       "times": [
         "Bulls",
@@ -591,7 +247,8 @@
         "no seu Prime"
       ],
       "por_que_vale": [
-        "NBA Cup, Grupo C do Oeste: Warriors e Spurs chegam 1-0 no grupo."
+        "NBA Cup, Grupo C do Oeste: Warriors e Spurs chegam 1-0 no grupo.",
+        "Spurs são 2º do Oeste (10-2); Warriors 8-4."
       ],
       "times": [
         "Warriors",
@@ -638,7 +295,7 @@
         }
       ],
       "status_canal": "confirmado",
-      "origem_canal": "CBF, detalhes dos últimos jogos de 2026 (via Tribuna de Jundiaí)",
+      "origem_canal": "CBF/imprensa: Globo, ge TV e sportv (Imirante, 09/11)",
       "meu_time": true,
       "pontos": 8,
       "motivos": [
@@ -651,6 +308,48 @@
         "selecao-brasileira",
         "brasil-grandes-eventos"
       ]
+    },
+    {
+      "situacao": "alterado",
+      "inicio_anterior": "2026-11-13T04:00:00-03:00",
+      "horario_definido": true,
+      "local": "AsiaWorld-Expo, Hong Kong",
+      "por_que_vale": [
+        "A FURIA venceu o grupo A ao bater a Vitality por 2 a 1 e foi direto à semifinal."
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "BLAST.tv",
+      "id": "cs2-2026-blast-rivals-playoffs",
+      "esporte": "esports",
+      "modalidade": "cs2",
+      "categoria": {
+        "chave": "cs2",
+        "sigla": "CS2",
+        "rotulo": "CS2"
+      },
+      "competicao": "BLAST Rivals Hong Kong · semifinal",
+      "titulo": "FURIA na semifinal do BLAST Rivals",
+      "monogramas": [
+        "FUR"
+      ],
+      "inicio": "2026-11-14T07:30:00-03:00",
+      "onde_assistir": [
+        {
+          "canal": "BLAST (Twitch/YouTube)",
+          "tipo": "youtube",
+          "gratis": true
+        }
+      ],
+      "meu_time": true,
+      "pontos": 6,
+      "motivos": [
+        "meu time",
+        "mata-mata"
+      ],
+      "interesses": [
+        "furia-cs2"
+      ],
+      "observacao": "Melhor de 3 contra o vencedor de G2 x Falcons (quartas em 13/11). Horário de 11:30 em Paris (HLTV/ESTNN)."
     },
     {
       "situacao": "agendado",
@@ -697,7 +396,7 @@
       "interesses": [
         "league-of-legends"
       ],
-      "observacao": "16:00 é o início da transmissão; o primeiro jogo começa depois da cerimônia de abertura."
+      "observacao": "Melhor de 5 no Barclays Center; 16:00 (14h de Nova York) é o início da programação; o primeiro jogo começa depois da cerimônia de abertura."
     },
     {
       "id": "brb-2026-r38-for-vno",
@@ -717,9 +416,22 @@
       "situacao": "agendado",
       "inicio_anterior": null,
       "local": "Arena Castelão, Fortaleza",
-      "onde_assistir": [],
-      "status_canal": "desconhecido",
-      "origem_canal": "",
+      "onde_assistir": [
+        {
+          "canal": "ESPN",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "espn_disney"
+        },
+        {
+          "canal": "Disney+",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "espn_disney"
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "tabela da 38ª rodada da Série B com transmissões (W Mais)",
       "meu_time": false,
       "pontos": 4,
       "motivos": [
@@ -752,9 +464,22 @@
       "situacao": "agendado",
       "inicio_anterior": null,
       "local": "Heriberto Hülse, Criciúma",
-      "onde_assistir": [],
-      "status_canal": "desconhecido",
-      "origem_canal": "",
+      "onde_assistir": [
+        {
+          "canal": "ESPN",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "espn_disney"
+        },
+        {
+          "canal": "Disney+",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "espn_disney"
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "tabela da 38ª rodada da Série B com transmissões (W Mais)",
       "meu_time": false,
       "pontos": 4,
       "motivos": [
@@ -762,8 +487,61 @@
         "vale vantagem nos playoffs"
       ],
       "por_que_vale": [
-        "Novorizontino já garantiu o acesso inédito à Série A.",
+        "Novorizontino (70 pts) já garantiu o acesso inédito à Série A.",
         "Criciúma (4º, 62 pts) disputa com o Fortaleza a vantagem no playoff entre os dois."
+      ],
+      "interesses": [
+        "futebol"
+      ]
+    },
+    {
+      "id": "brb-2026-r38-crb-cea",
+      "esporte": "futebol",
+      "competicao": "Série B · 38ª rodada",
+      "titulo": "CRB x Ceará",
+      "times": [
+        "CRB",
+        "Ceará"
+      ],
+      "monogramas": [
+        "CRB",
+        "CEA"
+      ],
+      "inicio": "2026-11-14T16:30:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Estádio Rei Pelé, Maceió",
+      "onde_assistir": [
+        {
+          "canal": "RedeTV!",
+          "tipo": "tv_aberta",
+          "gratis": true
+        },
+        {
+          "canal": "ESPN",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "espn_disney"
+        },
+        {
+          "canal": "Disney+",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "espn_disney"
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "tabela da 38ª rodada da Série B com transmissões (W Mais)",
+      "meu_time": false,
+      "pontos": 4,
+      "motivos": [
+        "dá pra ver (RedeTV!)",
+        "briga por vaga x fuga do rebaixamento"
+      ],
+      "por_que_vale": [
+        "CRB é 6º com 58 pontos, empatado com Goiás e Atlético-GO na briga pela última vaga nos playoffs.",
+        "Ceará disputa com o Avaí a fuga da quarta vaga de rebaixamento."
       ],
       "interesses": [
         "futebol"
@@ -829,9 +607,15 @@
       "situacao": "agendado",
       "inicio_anterior": null,
       "local": "Arena Condá, Chapecó",
-      "onde_assistir": [],
-      "status_canal": "desconhecido",
-      "origem_canal": "",
+      "onde_assistir": [
+        {
+          "canal": "Premiere",
+          "tipo": "ppv",
+          "gratis": false
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "Máquina do Esporte (10/11): Premiere com exclusividade",
       "meu_time": false,
       "pontos": 2,
       "motivos": [
@@ -844,7 +628,7 @@
       "interesses": [
         "futebol"
       ],
-      "observacao": "Entra com a régua baixada em 1 ponto: na semana da Data Fifa só há dois jogos da Série A."
+      "observacao": "Entra com a régua baixada em 1 ponto (piso semanal na Data Fifa). Só no Premiere."
     },
     {
       "id": "nba-2026-11-14-chi-min",
@@ -880,7 +664,7 @@
         "meu time"
       ],
       "por_que_vale": [
-        "Timberwolves são 4º do Oeste (7-3)."
+        "Timberwolves são 5º do Oeste (8-3); Bulls 14º do Leste (1-9)."
       ],
       "interesses": [
         "chicago-bulls",
@@ -927,7 +711,7 @@
     },
     {
       "situacao": "alterado",
-      "inicio_anterior": "2026-11-15",
+      "inicio_anterior": "2026-11-15T04:00:00-03:00",
       "horario_definido": true,
       "local": "AsiaWorld-Expo, Hong Kong",
       "por_que_vale": [],
@@ -946,7 +730,7 @@
       "monogramas": [
         "CS2"
       ],
-      "inicio": "2026-11-15T04:00:00-03:00",
+      "inicio": "2026-11-15T05:00:00-03:00",
       "onde_assistir": [
         {
           "canal": "BLAST (Twitch/YouTube)",
@@ -963,7 +747,7 @@
       "interesses": [
         "furia-cs2"
       ],
-      "observacao": "Final em melhor de 5. A FURIA só joga se avançar."
+      "observacao": "Final em melhor de 5, às 9:00 de Paris. A FURIA só joga se vencer a semifinal."
     },
     {
       "situacao": "agendado",
@@ -975,7 +759,7 @@
         "Lucas abriu a temporada 2026/27 vencendo o slalom gigante de Sölden."
       ],
       "status_canal": "previsto",
-      "origem_canal": "ESPN/Disney+ transmitiu a Copa do Mundo na temporada 2025/26; direitos de 2026/27 no Brasil não confirmados",
+      "origem_canal": "ESPN/Disney+ transmitiu a Copa do Mundo na temporada 2025/26; a XSports tem só as etapas austríacas em 2026/27 (Portal Mídia Esporte)",
       "id": "esqui-2026-levi-sl",
       "esporte": "esqui",
       "competicao": "Copa do Mundo de esqui alpino · slalom",
@@ -1018,17 +802,29 @@
       "local": "Munique",
       "onde_assistir": [
         {
+          "canal": "ge TV",
+          "tipo": "youtube",
+          "gratis": true
+        },
+        {
+          "canal": "sportv 4",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "globoplay"
+        },
+        {
           "canal": "NFL Game Pass (DAZN)",
           "tipo": "streaming",
           "gratis": false,
           "servico": "nfl_game_pass"
         }
       ],
-      "status_canal": "previsto",
-      "origem_canal": "Game Pass confirmado; demais canais a definir",
+      "status_canal": "confirmado",
+      "origem_canal": "Grade da semana divulgada em 11/11 (Lance!, 365Scores): sportv 4 e ge TV; Game Pass tem todos",
       "meu_time": false,
-      "pontos": 4,
+      "pontos": 5,
       "motivos": [
+        "grátis no ge TV",
         "dois times com campanha positiva",
         "jogo em Munique"
       ],
@@ -1064,14 +860,20 @@
       "local": null,
       "onde_assistir": [
         {
+          "canal": "sportv 4",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "globoplay"
+        },
+        {
           "canal": "NFL Game Pass (DAZN)",
           "tipo": "streaming",
           "gratis": false,
           "servico": "nfl_game_pass"
         }
       ],
-      "status_canal": "previsto",
-      "origem_canal": "Game Pass confirmado (Game Over Drive); ESPN, sportv e ge TV ainda não divulgaram os jogos da semana",
+      "status_canal": "confirmado",
+      "origem_canal": "Grade da semana divulgada em 11/11 (Lance!, 365Scores): sportv 4; Game Pass tem todos",
       "meu_time": false,
       "pontos": 4,
       "motivos": [
@@ -1115,7 +917,7 @@
         "no seu Prime"
       ],
       "por_que_vale": [
-        "Celtics são 2º do Leste (8-2)."
+        "Celtics lideram o Leste (10-2); Mavericks 7-4."
       ],
       "times": [
         "Mavericks",
@@ -1141,7 +943,7 @@
       "local": null,
       "onde_assistir": [
         {
-          "canal": "sportv",
+          "canal": "sportv 2",
           "tipo": "tv_fechada",
           "gratis": false,
           "servico": "globoplay"
@@ -1153,8 +955,8 @@
           "servico": "nfl_game_pass"
         }
       ],
-      "status_canal": "previsto",
-      "origem_canal": "sportv tem os jogos de domingo à noite (Máquina do Esporte)",
+      "status_canal": "confirmado",
+      "origem_canal": "Grade da semana divulgada em 11/11 (Lance!, 365Scores): sportv 2; Game Pass tem todos",
       "meu_time": false,
       "pontos": 5,
       "motivos": [
@@ -1257,7 +1059,9 @@
       "motivos": [
         "meu time"
       ],
-      "por_que_vale": [],
+      "por_que_vale": [
+        "Cavaliers são 6º do Leste (6-6)."
+      ],
       "times": [
         "Cavaliers",
         "Bulls"
@@ -1304,7 +1108,7 @@
         }
       ],
       "status_canal": "confirmado",
-      "origem_canal": "CBF, detalhes dos últimos jogos de 2026 (via Tribuna de Jundiaí)",
+      "origem_canal": "CBF/imprensa: Globo, ge TV e sportv (Imirante, 09/11)",
       "meu_time": true,
       "pontos": 7,
       "motivos": [
@@ -1349,7 +1153,7 @@
         "no seu Prime"
       ],
       "por_que_vale": [
-        "Spurs (8-2) e Pistons (6-3) estão no top 3 de suas conferências."
+        "Spurs são 2º do Oeste (10-2); Pistons 3º do Leste (7-3)."
       ],
       "times": [
         "Pistons",
@@ -1400,7 +1204,7 @@
         "no seu Prime"
       ],
       "por_que_vale": [
-        "Lakers lideram o Oeste (10-2)."
+        "Lakers lideram o Oeste (11-2)."
       ],
       "interesses": [
         "nba"
@@ -1526,7 +1330,7 @@
         "meu time"
       ],
       "por_que_vale": [
-        "Nets (2-8) e Bulls (1-8) estão entre os três piores do Leste."
+        "Nets (3-8) e Bulls (1-9) são 13º e 14º do Leste."
       ],
       "times": [
         "Nets",
@@ -1630,7 +1434,8 @@
         "no seu Prime"
       ],
       "por_que_vale": [
-        "NBA Cup, Grupo A do Leste: Pistons 1-0 e Raptors 1-1 no grupo."
+        "NBA Cup, Grupo A do Leste: Pistons 1-0 e Raptors 1-1 no grupo.",
+        "Pistons são 3º do Leste (7-3)."
       ],
       "interesses": [
         "nba"
@@ -1667,7 +1472,7 @@
         "NBA Cup"
       ],
       "por_que_vale": [
-        "NBA Cup, Grupo C do Leste."
+        "NBA Cup, Grupo C do Leste: Wizards 1-1, Bulls 0-1 no grupo."
       ],
       "times": [
         "Bulls",
@@ -1720,7 +1525,8 @@
         "no seu Prime"
       ],
       "por_que_vale": [
-        "NBA Cup, Grupo A do Oeste: Nuggets 1-0, Rockets 0-1 no grupo."
+        "NBA Cup, Grupo A do Oeste: Nuggets 1-0, Rockets 0-1 no grupo.",
+        "Rockets são 3º do Oeste (9-3)."
       ],
       "interesses": [
         "nba"
@@ -1751,15 +1557,10 @@
           "tipo": "youtube",
           "gratis": true,
           "servico": "cazetv"
-        },
-        {
-          "canal": "Xsports",
-          "tipo": "tv_aberta",
-          "gratis": true
         }
       ],
       "status_canal": "previsto",
-      "origem_canal": "Pacote 2026/27: CazéTV exibe os 9 jogos da rodada no YouTube (parte sem narração); Xsports escolhe 3 por rodada na TV aberta",
+      "origem_canal": "Pacote 2026/27: CazéTV exibe os jogos da Ligue 1 no YouTube; Xsports escolhe 3 por rodada na TV aberta (escolha deste jogo ainda não divulgada)",
       "meu_time": false,
       "pontos": 4,
       "motivos": [
@@ -1891,15 +1692,10 @@
           "tipo": "youtube",
           "gratis": true,
           "servico": "cazetv"
-        },
-        {
-          "canal": "Xsports",
-          "tipo": "tv_aberta",
-          "gratis": true
         }
       ],
       "status_canal": "previsto",
-      "origem_canal": "Pacote 2026/27: CazéTV exibe os 9 jogos da rodada no YouTube (parte sem narração); Xsports escolhe 3 por rodada na TV aberta",
+      "origem_canal": "Pacote 2026/27: CazéTV exibe os jogos da Ligue 1 no YouTube; Xsports escolhe 3 por rodada na TV aberta (escolha deste jogo ainda não divulgada)",
       "meu_time": false,
       "pontos": 6,
       "motivos": [
@@ -1972,9 +1768,11 @@
       "inicio_anterior": null,
       "horario_definido": true,
       "local": "Las Vegas, EUA",
-      "por_que_vale": [],
+      "por_que_vale": [
+        "Gabriel Bortoleto (Audi) e Rafael Câmara (Haas) estão no grid."
+      ],
       "status_canal": "confirmado",
-      "origem_canal": "calendário de transmissões da Globo para 2026 inclui Las Vegas ao vivo na TV aberta (Terra, Garagem360); sportv exibe todas as corridas",
+      "origem_canal": "Terra (11/11) confirma a corrida ao vivo na TV Globo; sportv 3, Globoplay e F1 TV têm o fim de semana todo",
       "id": "f1-2026-las-vegas",
       "esporte": "f1",
       "competicao": "Fórmula 1 · Las Vegas",
@@ -2088,53 +1886,6 @@
       ]
     },
     {
-      "id": "seriea-2026-r12-mil-fro",
-      "esporte": "futebol",
-      "competicao": "Serie A · 12ª rodada",
-      "titulo": "Milan x Frosinone",
-      "times": [
-        "Milan",
-        "Frosinone"
-      ],
-      "monogramas": [
-        "MIL",
-        "FRO"
-      ],
-      "inicio": "2026-11-22T11:00:00-03:00",
-      "horario_definido": true,
-      "situacao": "agendado",
-      "inicio_anterior": null,
-      "local": "San Siro, Milão",
-      "onde_assistir": [
-        {
-          "canal": "Disney+",
-          "tipo": "streaming",
-          "gratis": false,
-          "servico": "espn_disney"
-        },
-        {
-          "canal": "ESPN",
-          "tipo": "tv_fechada",
-          "gratis": false,
-          "servico": "espn_disney"
-        }
-      ],
-      "status_canal": "previsto",
-      "origem_canal": "Pacote 2026/27: ESPN/Disney+ têm todos os jogos; SportyNet (2), ESPN (1) e CazéTV (1, também no Prime Video) liberam jogos por rodada no YouTube, definidos perto da data",
-      "meu_time": false,
-      "pontos": 4,
-      "motivos": [
-        "os dois na metade de cima",
-        "briga por vaga na Champions"
-      ],
-      "por_que_vale": [
-        "Milan é 4º com 24 pontos; o recém-promovido Frosinone é 6º com 20."
-      ],
-      "interesses": [
-        "futebol"
-      ]
-    },
-    {
       "id": "pl-2026-r11-liv-mun",
       "esporte": "futebol",
       "competicao": "Premier League · 11ª rodada",
@@ -2181,6 +1932,95 @@
       ]
     },
     {
+      "id": "seriea-2026-r12-mil-fro",
+      "esporte": "futebol",
+      "competicao": "Serie A · 12ª rodada",
+      "titulo": "Milan x Frosinone",
+      "times": [
+        "Milan",
+        "Frosinone"
+      ],
+      "monogramas": [
+        "MIL",
+        "FRO"
+      ],
+      "inicio": "2026-11-22T14:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "alterado",
+      "inicio_anterior": "2026-11-22T11:00:00-03:00",
+      "local": "San Siro, Milão",
+      "onde_assistir": [
+        {
+          "canal": "Disney+",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "espn_disney"
+        },
+        {
+          "canal": "ESPN",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "espn_disney"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Pacote 2026/27: ESPN/Disney+ têm todos os jogos; SportyNet (2), ESPN (1) e CazéTV (1, também no Prime Video) liberam jogos por rodada no YouTube, definidos perto da data",
+      "meu_time": false,
+      "pontos": 4,
+      "motivos": [
+        "os dois na metade de cima",
+        "briga por vaga na Champions"
+      ],
+      "por_que_vale": [
+        "Milan é 4º com 24 pontos; o recém-promovido Frosinone é 6º com 20."
+      ],
+      "interesses": [
+        "futebol"
+      ]
+    },
+    {
+      "id": "nfl-2026-w12-pit-phi",
+      "esporte": "nfl",
+      "competicao": "NFL · temporada regular",
+      "titulo": "Steelers @ Eagles",
+      "times": [
+        "Steelers",
+        "Eagles"
+      ],
+      "monogramas": [
+        "PIT",
+        "PHI"
+      ],
+      "inicio": "2026-11-22T15:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "alterado",
+      "inicio_anterior": "2026-11-22T18:25:00-03:00",
+      "local": null,
+      "onde_assistir": [
+        {
+          "canal": "NFL Game Pass (DAZN)",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "nfl_game_pass"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Game Pass confirmado (Game Over Drive); demais canais a definir",
+      "meu_time": false,
+      "pontos": 3,
+      "motivos": [
+        "rival de divisão dos Giants",
+        "clássico da Pensilvânia"
+      ],
+      "por_que_vale": [
+        "Eagles (2-7), rivais dos Giants na NFC East, recebem os Steelers (6-2)."
+      ],
+      "interesses": [
+        "nfl"
+      ],
+      "observacao": "Jogo antecipado das 18h25 para as 15h (troca de horário com Jaguars x Giants, anunciada pela NFL em 9/11)."
+    },
+    {
       "id": "nfl-2026-w12-jax-nyg",
       "esporte": "nfl",
       "competicao": "NFL · temporada regular",
@@ -2189,10 +2029,10 @@
         "JAX",
         "NYG"
       ],
-      "inicio": "2026-11-22T15:00:00-03:00",
+      "inicio": "2026-11-22T18:25:00-03:00",
       "horario_definido": true,
-      "situacao": "agendado",
-      "inicio_anterior": null,
+      "situacao": "alterado",
+      "inicio_anterior": "2026-11-22T15:00:00-03:00",
       "local": "Nova Jersey",
       "onde_assistir": [
         {
@@ -2203,7 +2043,7 @@
         }
       ],
       "status_canal": "previsto",
-      "origem_canal": "Game Pass confirmado; demais canais a definir",
+      "origem_canal": "Game Pass tem todos; sportv, ESPN e ge TV divulgam a grade da semana perto da data",
       "meu_time": true,
       "pontos": 7,
       "motivos": [
@@ -2211,7 +2051,8 @@
         "dois times com campanha positiva"
       ],
       "por_que_vale": [
-        "Jaguars lideram a AFC South (6-2); Giants lideram a NFC East (5-2-1)."
+        "Jaguars lideram a AFC South (6-2).",
+        "Giants (5-3-1) seguem líderes da NFC East mesmo após perder para os Commanders por 24 a 21 em 12/11."
       ],
       "times": [
         "Jaguars",
@@ -2220,7 +2061,8 @@
       "interesses": [
         "new-york-giants",
         "nfl"
-      ]
+      ],
+      "observacao": "Jogo transferido das 15h para as 18h25 (flex anunciado pela NFL em 9/11)."
     },
     {
       "id": "nfl-2026-w12-lv-den",
@@ -2258,47 +2100,6 @@
       ],
       "por_que_vale": [
         "Clássico da AFC West; Broncos (7-2) lideram a divisão."
-      ],
-      "interesses": [
-        "nfl"
-      ]
-    },
-    {
-      "id": "nfl-2026-w12-pit-phi",
-      "esporte": "nfl",
-      "competicao": "NFL · temporada regular",
-      "titulo": "Steelers @ Eagles",
-      "times": [
-        "Steelers",
-        "Eagles"
-      ],
-      "monogramas": [
-        "PIT",
-        "PHI"
-      ],
-      "inicio": "2026-11-22T18:25:00-03:00",
-      "horario_definido": true,
-      "situacao": "agendado",
-      "inicio_anterior": null,
-      "local": null,
-      "onde_assistir": [
-        {
-          "canal": "NFL Game Pass (DAZN)",
-          "tipo": "streaming",
-          "gratis": false,
-          "servico": "nfl_game_pass"
-        }
-      ],
-      "status_canal": "previsto",
-      "origem_canal": "Game Pass confirmado (Game Over Drive); demais canais a definir",
-      "meu_time": false,
-      "pontos": 3,
-      "motivos": [
-        "rival de divisão dos Giants",
-        "clássico da Pensilvânia"
-      ],
-      "por_que_vale": [
-        "Eagles (2-7), rivais dos Giants na NFC East, recebem os Steelers (6-2)."
       ],
       "interesses": [
         "nfl"
@@ -2392,11 +2193,11 @@
       "meu_time": false,
       "pontos": 4,
       "motivos": [
-        "vice-líder do Oeste",
+        "time do top 6 do Oeste",
         "no seu Prime"
       ],
       "por_que_vale": [
-        "Thunder são 2º do Oeste (8-2)."
+        "Thunder são 6º do Oeste (8-4)."
       ],
       "interesses": [
         "nba"
@@ -2431,7 +2232,9 @@
       "motivos": [
         "meu time"
       ],
-      "por_que_vale": [],
+      "por_que_vale": [
+        "Nuggets 6-4 no Oeste; Bulls 1-9."
+      ],
       "times": [
         "Bulls",
         "Nuggets"
@@ -2530,7 +2333,7 @@
         "no seu Prime"
       ],
       "por_que_vale": [
-        "Celtics 8-2 (2º do Leste) e Warriors 7-3."
+        "Celtics lideram o Leste (10-2); Warriors 8-4."
       ],
       "interesses": [
         "nba"
@@ -2565,7 +2368,9 @@
       "motivos": [
         "meu time"
       ],
-      "por_que_vale": [],
+      "por_que_vale": [
+        "Cavaliers são 6º do Leste (6-6)."
+      ],
       "times": [
         "Bulls",
         "Cavaliers"
@@ -2811,6 +2616,47 @@
       "observacao": "Começa à meia-noite de terça para quarta."
     },
     {
+      "id": "ucl-2026-md5-clb-liv",
+      "esporte": "futebol",
+      "competicao": "Champions League · 5ª rodada",
+      "titulo": "Club Brugge x Liverpool",
+      "times": [
+        "Club Brugge",
+        "Liverpool"
+      ],
+      "monogramas": [
+        "CLB",
+        "LIV"
+      ],
+      "inicio": "2026-11-25T17:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Jan Breydel Stadium, Bruges",
+      "onde_assistir": [
+        {
+          "canal": "TNT / HBO Max",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "hbo_max"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "TNT/HBO Max têm todos os jogos; SBT escolhe 1 por rodada (só jogos de terça), definido na semana",
+      "meu_time": false,
+      "pontos": 4,
+      "motivos": [
+        "os dois na metade de cima",
+        "briga direta por vaga no top 8"
+      ],
+      "por_que_vale": [
+        "Liverpool é 8º e Club Brugge 9º na fase de liga, ambos com 9 pontos (após 4 rodadas)."
+      ],
+      "interesses": [
+        "futebol"
+      ]
+    },
+    {
       "id": "nba-2026-11-25-cha-chi",
       "esporte": "nba",
       "competicao": "NBA · NBA Cup (fase de grupos)",
@@ -2942,6 +2788,55 @@
       ]
     },
     {
+      "esporte": "nba",
+      "competicao": "NBA · NBA Cup (fase de grupos)",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": null,
+      "meu_time": false,
+      "interesses": [
+        "nba"
+      ],
+      "id": "nba-2026-11-26-sas-por",
+      "titulo": "Spurs x Trail Blazers",
+      "times": [
+        "Spurs",
+        "Trail Blazers"
+      ],
+      "monogramas": [
+        "SAS",
+        "POR"
+      ],
+      "inicio": "2026-11-26T00:00:00-03:00",
+      "onde_assistir": [
+        {
+          "canal": "ESPN 2 / Disney+",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "espn_disney"
+        },
+        {
+          "canal": "NBA League Pass",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "league_pass"
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "grade de novembro (Cenário MT)",
+      "pontos": 4,
+      "motivos": [
+        "dois times do topo do Oeste",
+        "NBA Cup"
+      ],
+      "por_que_vale": [
+        "Spurs (10-2) e Trail Blazers (8-3) são 2º e 4º do Oeste.",
+        "NBA Cup, Grupo C do Oeste."
+      ],
+      "observacao": "Começa à meia-noite de quarta para quinta."
+    },
+    {
       "id": "nfl-2026-w12-chi-det",
       "esporte": "nfl",
       "competicao": "NFL · Thanksgiving",
@@ -2964,7 +2859,7 @@
         }
       ],
       "status_canal": "previsto",
-      "origem_canal": "Game Pass confirmado; demais canais a definir",
+      "origem_canal": "Game Pass tem todos; Máquina do Esporte diz que o sportv tem os jogos de quinta, mas a grade do Thanksgiving no Brasil ainda não foi divulgada",
       "meu_time": false,
       "pontos": 5,
       "motivos": [
@@ -3009,7 +2904,7 @@
         }
       ],
       "status_canal": "previsto",
-      "origem_canal": "Game Pass confirmado (Game Over Drive); demais canais a definir",
+      "origem_canal": "Game Pass tem todos; Máquina do Esporte diz que o sportv tem os jogos de quinta, mas a grade do Thanksgiving no Brasil ainda não foi divulgada",
       "meu_time": false,
       "pontos": 4,
       "motivos": [
@@ -3046,7 +2941,7 @@
         }
       ],
       "status_canal": "previsto",
-      "origem_canal": "Game Pass confirmado; demais canais a definir",
+      "origem_canal": "Game Pass tem todos; Máquina do Esporte diz que o sportv tem os jogos de quinta, mas a grade do Thanksgiving no Brasil ainda não foi divulgada",
       "meu_time": false,
       "pontos": 5,
       "motivos": [
@@ -3080,18 +2975,26 @@
       "local": null,
       "onde_assistir": [
         {
+          "canal": "Prime Video",
+          "tipo": "streaming",
+          "gratis": true,
+          "servico": "prime_video"
+        },
+        {
           "canal": "NFL Game Pass (DAZN)",
           "tipo": "streaming",
           "gratis": false,
           "servico": "nfl_game_pass"
         }
       ],
-      "status_canal": "previsto",
-      "origem_canal": "Game Pass confirmado; demais canais a definir",
+      "status_canal": "confirmado",
+      "origem_canal": "Amazon anunciou o jogo grátis no Prime Video em mais de 200 países, incluindo o Brasil, só com conta Amazon (Portal Mídia Esporte, 11/11); Game Pass tem todos",
       "meu_time": false,
-      "pontos": 4,
+      "pontos": 6,
       "motivos": [
-        "dois times 6-2"
+        "grátis no Prime Video",
+        "dois times do topo da AFC",
+        "Black Friday"
       ],
       "por_que_vale": [
         "Jogo da Black Friday; Broncos 7-2 e Steelers 6-2."
@@ -3103,7 +3006,7 @@
       "interesses": [
         "nfl"
       ],
-      "observacao": "Em 2025 a Amazon passou o jogo da Black Friday de graça no Prime Video em mais de 240 países; para 2026 não há confirmação no Brasil."
+      "observacao": "Grátis no Prime Video com conta Amazon gratuita, sem assinatura; pré-jogo a partir das 15h30."
     },
     {
       "id": "bra-2026-r37-flu-cru",
@@ -3149,6 +3052,50 @@
       ],
       "interesses": [
         "futebol"
+      ]
+    },
+    {
+      "id": "basquete-2026-elim-bra-eua",
+      "titulo": "Brasil x Estados Unidos",
+      "monogramas": [
+        "BRA",
+        "EUA"
+      ],
+      "inicio": "2026-11-27T20:10:00-03:00",
+      "pontos": 7,
+      "motivos": [
+        "seleção principal",
+        "eliminatória de Copa do Mundo"
+      ],
+      "por_que_vale": [
+        "Seleção masculina volta a jogar no Ibirapuera depois de 42 anos.",
+        "Ingressos esgotaram em 72 horas."
+      ],
+      "observacao": "Seleção principal masculina em eliminatória da Copa do Mundo de 2027 (Catar), por isso entra em \"Brasil em grandes eventos\".",
+      "esporte": "basquete",
+      "categoria": {
+        "chave": "basquete",
+        "sigla": "BAS",
+        "rotulo": "Basquete"
+      },
+      "competicao": "Eliminatórias da Copa do Mundo de basquete 2027",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Ginásio do Ibirapuera, São Paulo",
+      "onde_assistir": [
+        {
+          "canal": "CazéTV (YouTube)",
+          "tipo": "youtube",
+          "gratis": true,
+          "servico": "cazetv"
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "CazéTV transmite os dois jogos ao vivo (Auri Verde Brasil, 20/10)",
+      "meu_time": true,
+      "interesses": [
+        "brasil-grandes-eventos"
       ]
     },
     {
@@ -3199,6 +3146,48 @@
       ]
     },
     {
+      "esporte": "nba",
+      "competicao": "NBA · NBA Cup (fase de grupos)",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": null,
+      "meu_time": false,
+      "interesses": [
+        "nba"
+      ],
+      "id": "nba-2026-11-27-atl-bos",
+      "titulo": "Hawks x Celtics",
+      "times": [
+        "Hawks",
+        "Celtics"
+      ],
+      "monogramas": [
+        "ATL",
+        "BOS"
+      ],
+      "inicio": "2026-11-27T22:00:00-03:00",
+      "onde_assistir": [
+        {
+          "canal": "NBA League Pass",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "league_pass"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "regra de pacote: League Pass tem todos; fora das grades de novembro do Prime e da ESPN",
+      "pontos": 4,
+      "motivos": [
+        "grupo do Bulls na NBA Cup",
+        "dois times do topo do Leste"
+      ],
+      "por_que_vale": [
+        "Última rodada do Grupo C do Leste (o do Bulls): Celtics 2-0, Hawks 1-0 no grupo.",
+        "Celtics lideram o Leste (10-2); Hawks são 4º (7-5)."
+      ]
+    },
+    {
       "id": "nba-2026-11-27-lal-sas",
       "esporte": "nba",
       "competicao": "NBA · NBA Cup (fase de grupos)",
@@ -3225,12 +3214,12 @@
       "meu_time": false,
       "pontos": 6,
       "motivos": [
-        "dois times do topo do Oeste",
+        "líder x vice do Oeste",
         "NBA Cup",
         "no seu Prime"
       ],
       "por_que_vale": [
-        "Lakers lideram o Oeste (10-2); Spurs são 3º (8-2).",
+        "Lakers lideram o Oeste (11-2); Spurs são 2º (10-2).",
         "Última rodada do Grupo C do Oeste da NBA Cup."
       ],
       "times": [
@@ -3273,7 +3262,7 @@
       "interesses": [
         "lucas-pinheiro-braathen"
       ],
-      "observacao": "Prova em descida única. Lucas pretende correr super-G nesta temporada, mas a inscrição nesta etapa não está confirmada. Horário provisório do organizador."
+      "observacao": "Prova em descida única. Lucas confirmou que vai correr os super-G de Copper e Beaver Creek (blue News, 26/10). Horário provisório do organizador (11:45 local)."
     },
     {
       "id": "lib-2026-final",
@@ -3368,7 +3357,9 @@
       "motivos": [
         "meu time"
       ],
-      "por_que_vale": [],
+      "por_que_vale": [
+        "Pacers 4-8 e Bulls 1-9, ambos na metade de baixo do Leste."
+      ],
       "times": [
         "Bulls",
         "Pacers"
@@ -3410,7 +3401,7 @@
       "interesses": [
         "brasil-grandes-eventos"
       ],
-      "observacao": "Horário e transmissão ainda não divulgados; a CBF anuncia a convocação em 10/11, às 15h (CBF TV no YouTube)."
+      "observacao": "Convocação feita em 10/11; CBF ainda não divulgou horário nem transmissão."
     },
     {
       "id": "pl-2026-r12-eve-liv",
@@ -3638,7 +3629,7 @@
         "meu time"
       ],
       "por_que_vale": [
-        "Giants lideram a NFC East (5-2-1)."
+        "Giants (5-3-1) lideram a NFC East."
       ],
       "times": [
         "Giants",
@@ -3826,6 +3817,47 @@
       ]
     },
     {
+      "id": "laliga-2026-r14-rso-sev",
+      "esporte": "futebol",
+      "competicao": "LaLiga · 14ª rodada",
+      "titulo": "Real Sociedad x Sevilla",
+      "times": [
+        "Real Sociedad",
+        "Sevilla"
+      ],
+      "monogramas": [
+        "RSO",
+        "SEV"
+      ],
+      "inicio": "2026-11-29T17:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Reale Arena, San Sebastián",
+      "onde_assistir": [
+        {
+          "canal": "CazéTV (YouTube)",
+          "tipo": "youtube",
+          "gratis": true,
+          "servico": "cazetv"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Pacote 2026/27: CazéTV tem a LaLiga com exclusividade no Brasil (2026/27–2031/32), todos os jogos no YouTube",
+      "meu_time": false,
+      "pontos": 4,
+      "motivos": [
+        "dá pra ver (YouTube)",
+        "os dois na metade de cima"
+      ],
+      "por_que_vale": [
+        "Real Sociedad é 5ª com 22 pontos; Sevilla 6º com 18 (após 12 rodadas)."
+      ],
+      "interesses": [
+        "futebol"
+      ]
+    },
+    {
       "id": "nfl-2026-w13-sea-sf",
       "esporte": "nfl",
       "competicao": "NFL · temporada regular",
@@ -3944,14 +3976,57 @@
       "meu_time": false,
       "pontos": 5,
       "motivos": [
-        "dois times do top 6 do Leste",
+        "dois times do top 5 do Leste",
         "no seu Prime"
       ],
       "por_que_vale": [
-        "Hawks (7-5) e Knicks (5-4) estão entre os seis primeiros do Leste."
+        "Hawks (7-5) e Knicks (6-5) são 4º e 5º do Leste."
       ],
       "interesses": [
         "nba"
+      ]
+    },
+    {
+      "id": "basquete-2026-elim-bra-mex",
+      "titulo": "Brasil x México",
+      "monogramas": [
+        "BRA",
+        "MEX"
+      ],
+      "inicio": "2026-11-30T20:10:00-03:00",
+      "pontos": 6,
+      "motivos": [
+        "seleção principal",
+        "eliminatória de Copa do Mundo"
+      ],
+      "por_que_vale": [
+        "Duas vitórias em casa nesta janela podem classificar o Brasil antecipadamente para a Copa do Mundo de 2027."
+      ],
+      "observacao": "Seleção principal masculina em eliminatória da Copa do Mundo de 2027 (Catar), por isso entra em \"Brasil em grandes eventos\".",
+      "esporte": "basquete",
+      "categoria": {
+        "chave": "basquete",
+        "sigla": "BAS",
+        "rotulo": "Basquete"
+      },
+      "competicao": "Eliminatórias da Copa do Mundo de basquete 2027",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Ginásio do Ibirapuera, São Paulo",
+      "onde_assistir": [
+        {
+          "canal": "CazéTV (YouTube)",
+          "tipo": "youtube",
+          "gratis": true,
+          "servico": "cazetv"
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "CazéTV transmite os dois jogos ao vivo (Auri Verde Brasil, 20/10)",
+      "meu_time": true,
+      "interesses": [
+        "brasil-grandes-eventos"
       ]
     },
     {
@@ -3994,7 +4069,7 @@
         "dois times do topo do Oeste"
       ],
       "por_que_vale": [
-        "Lakers lideram o Oeste (10-2); Rockets 7-3."
+        "Lakers lideram o Oeste (11-2); Rockets são 3º (9-3)."
       ],
       "interesses": [
         "nba"
@@ -4020,19 +4095,19 @@
       "local": "Centro Aquático Nacional (Cubo d'Água), Pequim",
       "onde_assistir": [],
       "status_canal": "desconhecido",
-      "origem_canal": "",
+      "origem_canal": "nenhuma emissora brasileira divulgou a transmissão nas fontes consultadas",
       "meu_time": true,
       "pontos": 6,
       "motivos": [
         "Mundial"
       ],
       "por_que_vale": [
-        "Mundial de piscina curta da World Aquatics, de 1 a 6/12 em Pequim."
+        "A CBDA convocou 15 nadadores, entre eles Guilherme Caribé e Maria Fernanda Costa."
       ],
       "interesses": [
         "brasil-grandes-eventos"
       ],
-      "observacao": "Horário da 1ª sessão de finais. Eliminatórias às 23h de Brasília (véspera) e finais às 8h; no dia 6/12 as finais começam às 7h. Lista de convocados do Brasil e transmissão não confirmadas nas fontes consultadas."
+      "observacao": "Mundial de 1 a 6/12 em Pequim. Horário da 1ª sessão de finais. Eliminatórias às 23h de Brasília (véspera) e finais às 8h; no dia 6/12 as finais começam às 7h."
     },
     {
       "id": "nba-2026-12-01-nyk-chi",
@@ -4050,21 +4125,28 @@
       "local": "Chicago",
       "onde_assistir": [
         {
+          "canal": "Prime Video",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "prime_video"
+        },
+        {
           "canal": "NBA League Pass",
           "tipo": "streaming",
           "gratis": false,
           "servico": "league_pass"
         }
       ],
-      "status_canal": "previsto",
-      "origem_canal": "grade de dezembro ainda não divulgada; League Pass tem todos",
+      "status_canal": "confirmado",
+      "origem_canal": "calendário do Prime Video para 2026/27 (Hoops Brasil)",
       "meu_time": true,
       "pontos": 6,
       "motivos": [
-        "meu time"
+        "meu time",
+        "no seu Prime"
       ],
       "por_que_vale": [
-        "Jogo com transmissão nacional da NBC nos EUA."
+        "Transmissão nacional da NBC nos EUA; Knicks são 5º do Leste (6-5)."
       ],
       "times": [
         "Bulls",
@@ -4118,6 +4200,53 @@
       "observacao": "Stage 3 de 2 a 6/12, sistema suíço com 16 times e 8 vagas nos playoffs. Adversário e horário saem no sorteio."
     },
     {
+      "esporte": "nba",
+      "competicao": "NBA · temporada regular",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": null,
+      "meu_time": false,
+      "interesses": [
+        "nba"
+      ],
+      "id": "nba-2026-12-02-uta-gsw",
+      "titulo": "Jazz x Warriors",
+      "times": [
+        "Jazz",
+        "Warriors"
+      ],
+      "monogramas": [
+        "UTA",
+        "GSW"
+      ],
+      "inicio": "2026-12-02T01:00:00-03:00",
+      "onde_assistir": [
+        {
+          "canal": "Prime Video",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "prime_video"
+        },
+        {
+          "canal": "NBA League Pass",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "league_pass"
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "calendário do Prime Video para 2026/27 (Hoops Brasil)",
+      "pontos": 2,
+      "motivos": [
+        "no seu Prime"
+      ],
+      "por_que_vale": [
+        "Warriors 8-4; Jazz 1-11, último do Oeste."
+      ],
+      "observacao": "Começa à 1h da madrugada de quarta. Entrou com a régua baixada para fechar o piso semanal."
+    },
+    {
       "id": "laliga-2026-r23-rso-rma",
       "esporte": "futebol",
       "competicao": "LaLiga · 23ª rodada (antecipada)",
@@ -4158,7 +4287,8 @@
       ],
       "interesses": [
         "futebol"
-      ]
+      ],
+      "observacao": "Jogo da 23ª rodada (originalmente 7/2/2027) antecipado para 2/12 porque os quatro clubes disputam a Supercopa da Espanha em Istambul (2 a 7/2/2027)."
     },
     {
       "id": "laliga-2026-r23-bar-atm",
@@ -4201,7 +4331,8 @@
       ],
       "interesses": [
         "futebol"
-      ]
+      ],
+      "observacao": "Jogo da 23ª rodada (originalmente 7/2/2027) antecipado para 2/12 porque os quatro clubes disputam a Supercopa da Espanha em Istambul (2 a 7/2/2027)."
     },
     {
       "id": "bra-2026-r38-pal-cfc",
@@ -4238,7 +4369,7 @@
         "palmeiras",
         "futebol"
       ],
-      "observacao": "CBF fixou a rodada final para quarta, 2/12, às 21h30; transmissões ainda não divulgadas."
+      "observacao": "Rodada final com os 10 jogos simultâneos; emissoras só escolhem os jogos depois da 37ª rodada (ordem: Record, Globo, Prime Video)."
     },
     {
       "id": "bra-2026-r38-fla-cha",
@@ -4273,7 +4404,7 @@
       "interesses": [
         "futebol"
       ],
-      "observacao": "Rodada final com os 10 jogos simultâneos; transmissões ainda não divulgadas."
+      "observacao": "Rodada final com os 10 jogos simultâneos; emissoras só escolhem os jogos depois da 37ª rodada (ordem: Record, Globo, Prime Video)."
     },
     {
       "id": "bra-2026-r38-rbb-flu",
@@ -4308,7 +4439,7 @@
       "interesses": [
         "futebol"
       ],
-      "observacao": "Rodada final com os 10 jogos simultâneos; transmissões ainda não divulgadas."
+      "observacao": "Rodada final com os 10 jogos simultâneos; emissoras só escolhem os jogos depois da 37ª rodada (ordem: Record, Globo, Prime Video)."
     },
     {
       "id": "bra-2026-r38-cap-sao",
@@ -4343,7 +4474,7 @@
       "interesses": [
         "futebol"
       ],
-      "observacao": "Rodada final com os 10 jogos simultâneos; transmissões ainda não divulgadas."
+      "observacao": "Rodada final com os 10 jogos simultâneos; emissoras só escolhem os jogos depois da 37ª rodada (ordem: Record, Globo, Prime Video)."
     },
     {
       "id": "bra-2026-r38-bah-cam",
@@ -4378,7 +4509,7 @@
       "interesses": [
         "futebol"
       ],
-      "observacao": "Rodada final com os 10 jogos simultâneos; transmissões ainda não divulgadas."
+      "observacao": "Rodada final com os 10 jogos simultâneos; emissoras só escolhem os jogos depois da 37ª rodada (ordem: Record, Globo, Prime Video)."
     },
     {
       "id": "bra-2026-r38-cru-int",
@@ -4413,7 +4544,54 @@
       "interesses": [
         "futebol"
       ],
-      "observacao": "Rodada final com os 10 jogos simultâneos; transmissões ainda não divulgadas."
+      "observacao": "Rodada final com os 10 jogos simultâneos; emissoras só escolhem os jogos depois da 37ª rodada (ordem: Record, Globo, Prime Video)."
+    },
+    {
+      "esporte": "nba",
+      "competicao": "NBA · temporada regular",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": null,
+      "meu_time": false,
+      "interesses": [
+        "nba"
+      ],
+      "id": "nba-2026-12-03-was-mia",
+      "titulo": "Wizards x Heat",
+      "times": [
+        "Wizards",
+        "Heat"
+      ],
+      "monogramas": [
+        "WAS",
+        "MIA"
+      ],
+      "inicio": "2026-12-03T21:30:00-03:00",
+      "onde_assistir": [
+        {
+          "canal": "Prime Video",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "prime_video"
+        },
+        {
+          "canal": "NBA League Pass",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "league_pass"
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "calendário do Prime Video para 2026/27 (Hoops Brasil)",
+      "pontos": 2,
+      "motivos": [
+        "no seu Prime"
+      ],
+      "por_que_vale": [
+        "Heat 5-6 (8º do Leste); Wizards 4-8."
+      ],
+      "observacao": "Entrou com a régua baixada para fechar o piso semanal."
     },
     {
       "id": "nba-2026-12-03-cle-chi",
@@ -4438,13 +4616,15 @@
         }
       ],
       "status_canal": "previsto",
-      "origem_canal": "grade de dezembro ainda não divulgada; League Pass tem todos",
+      "origem_canal": "grade de dezembro da ESPN/Disney+ ainda não divulgada; não está no calendário do Prime; League Pass tem todos",
       "meu_time": true,
       "pontos": 6,
       "motivos": [
         "meu time"
       ],
-      "por_que_vale": [],
+      "por_que_vale": [
+        "Terceiro duelo com os Cavaliers em 18 dias; Cavaliers são 6º do Leste (6-6)."
+      ],
       "times": [
         "Bulls",
         "Cavaliers"
@@ -4452,7 +4632,8 @@
       "interesses": [
         "chicago-bulls",
         "nba"
-      ]
+      ],
+      "observacao": "Depois deste jogo, o Bulls não tem partidas definidas até 13/12: os jogos de 6 a 12/12 dos times fora do mata-mata da NBA Cup ainda serão marcados pela NBA."
     },
     {
       "id": "nfl-2026-w14-kc-lar",
@@ -4513,18 +4694,25 @@
       "local": null,
       "onde_assistir": [
         {
+          "canal": "Prime Video",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "prime_video"
+        },
+        {
           "canal": "NBA League Pass",
           "tipo": "streaming",
           "gratis": false,
           "servico": "league_pass"
         }
       ],
-      "status_canal": "previsto",
-      "origem_canal": "League Pass tem todos (regra de pacote); grade de dezembro ainda não divulgada",
+      "status_canal": "confirmado",
+      "origem_canal": "calendário do Prime Video para 2026/27 (Hoops Brasil): duas partidas das quartas por dia",
       "meu_time": false,
-      "pontos": 5,
+      "pontos": 6,
       "motivos": [
-        "mata-mata"
+        "mata-mata",
+        "no seu Prime"
       ],
       "por_que_vale": [
         "Quartas de final da NBA Cup, na casa do time de melhor campanha."
@@ -4532,7 +4720,7 @@
       "interesses": [
         "nba"
       ],
-      "observacao": "As quatro quartas são em 4 e 5/12; confrontos e horários saem após a fase de grupos (27/11). Se o Bulls avançar no Grupo C do Leste, vira jogo do meu time."
+      "observacao": "Quartas oficialmente em 4 e 5/12, em casa dos líderes de grupo e do melhor segundo colocado. Confrontos e horários saem após a fase de grupos (27/11). Bulls (0-1 no Grupo C do Leste) só avança vencendo os três jogos que restam."
     },
     {
       "id": "fut-fem-2026-amistoso-jap-bra-2",
@@ -4566,7 +4754,7 @@
       "interesses": [
         "brasil-grandes-eventos"
       ],
-      "observacao": "Horário e transmissão ainda não divulgados."
+      "observacao": "Convocação feita em 10/11; CBF ainda não divulgou horário nem transmissão."
     },
     {
       "id": "nba-2026-12-05-cup-qf2",
@@ -4581,18 +4769,25 @@
       "local": null,
       "onde_assistir": [
         {
+          "canal": "Prime Video",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "prime_video"
+        },
+        {
           "canal": "NBA League Pass",
           "tipo": "streaming",
           "gratis": false,
           "servico": "league_pass"
         }
       ],
-      "status_canal": "previsto",
-      "origem_canal": "League Pass tem todos (regra de pacote); grade de dezembro ainda não divulgada",
+      "status_canal": "confirmado",
+      "origem_canal": "calendário do Prime Video para 2026/27 (Hoops Brasil): duas partidas das quartas por dia",
       "meu_time": false,
-      "pontos": 5,
+      "pontos": 6,
       "motivos": [
-        "mata-mata"
+        "mata-mata",
+        "no seu Prime"
       ],
       "por_que_vale": [
         "Quartas de final da NBA Cup, na casa do time de melhor campanha."
@@ -4600,7 +4795,7 @@
       "interesses": [
         "nba"
       ],
-      "observacao": "As quatro quartas são em 4 e 5/12; confrontos e horários saem após a fase de grupos (27/11). Se o Bulls avançar no Grupo C do Leste, vira jogo do meu time."
+      "observacao": "Quartas oficialmente em 4 e 5/12. Confrontos e horários saem após a fase de grupos (27/11)."
     },
     {
       "id": "pl-2026-r14-che-liv",
@@ -4650,6 +4845,53 @@
       ]
     },
     {
+      "id": "seriea-2026-r14-fro-int",
+      "esporte": "futebol",
+      "competicao": "Serie A · 14ª rodada",
+      "titulo": "Frosinone x Inter",
+      "times": [
+        "Frosinone",
+        "Inter"
+      ],
+      "monogramas": [
+        "FRO",
+        "INT"
+      ],
+      "inicio": "2026-12-05T14:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Stadio Benito Stirpe, Frosinone",
+      "onde_assistir": [
+        {
+          "canal": "Disney+",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "espn_disney"
+        },
+        {
+          "canal": "ESPN",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "espn_disney"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Pacote 2026/27: ESPN/Disney+ têm todos os jogos; SportyNet (2), ESPN (1) e CazéTV (1, também no Prime Video) liberam jogos por rodada no YouTube, definidos perto da data",
+      "meu_time": false,
+      "pontos": 4,
+      "motivos": [
+        "os dois na metade de cima",
+        "briga pelo título"
+      ],
+      "por_que_vale": [
+        "Inter é 2ª com 28 pontos, 1 atrás da líder Lazio; o recém-promovido Frosinone é 6º com 20 (após 11 rodadas)."
+      ],
+      "interesses": [
+        "futebol"
+      ]
+    },
+    {
       "situacao": "agendado",
       "inicio_anterior": null,
       "horario_definido": true,
@@ -4681,7 +4923,7 @@
       "interesses": [
         "lucas-pinheiro-braathen"
       ],
-      "observacao": "Prova em descida única. Lucas pretende correr super-G nesta temporada, mas a inscrição nesta etapa não está confirmada."
+      "observacao": "Prova em descida única, às 10:30 locais. Lucas confirmou que vai correr os super-G de Copper e Beaver Creek (blue News, 26/10)."
     },
     {
       "id": "cdb-2026-final",
@@ -4731,7 +4973,7 @@
         }
       ],
       "status_canal": "previsto",
-      "origem_canal": "pacote 2026 da Copa do Brasil (mesmos canais da semifinal Vasco x Palmeiras); transmissão da final ainda não anunciada",
+      "origem_canal": "A Crítica (Globo, sportv, Premiere, ge TV e Prime Video); transmissão da final ainda não anunciada pela CBF",
       "meu_time": true,
       "pontos": 10,
       "motivos": [
@@ -4746,7 +4988,7 @@
         "palmeiras",
         "futebol"
       ],
-      "observacao": "Horário ainda não definido pela CBF. Empate leva aos pênaltis."
+      "observacao": "Horário ainda não definido pela CBF (sem anúncio até 12/11). Empate leva aos pênaltis."
     },
     {
       "id": "laliga-2026-r15-atm-bet",
@@ -4911,49 +5153,7 @@
       "interesses": [
         "lucas-pinheiro-braathen"
       ],
-      "observacao": "1ª descida às 14:00 de Brasília; horário da 2ª ainda não divulgado."
-    },
-    {
-      "id": "nfl-2026-w14-sf-nyg",
-      "esporte": "nfl",
-      "competicao": "NFL · temporada regular",
-      "titulo": "49ers @ Giants",
-      "monogramas": [
-        "SF",
-        "NYG"
-      ],
-      "inicio": "2026-12-06T15:00:00-03:00",
-      "horario_definido": true,
-      "situacao": "agendado",
-      "inicio_anterior": null,
-      "local": "Nova Jersey",
-      "onde_assistir": [
-        {
-          "canal": "NFL Game Pass (DAZN)",
-          "tipo": "streaming",
-          "gratis": false,
-          "servico": "nfl_game_pass"
-        }
-      ],
-      "status_canal": "previsto",
-      "origem_canal": "Game Pass confirmado; demais canais a definir",
-      "meu_time": true,
-      "pontos": 8,
-      "motivos": [
-        "meu time",
-        "contra o líder da NFC"
-      ],
-      "por_que_vale": [
-        "49ers lideram a NFC (7-1); Giants lideram a NFC East (5-2-1)."
-      ],
-      "times": [
-        "49ers",
-        "Giants"
-      ],
-      "interesses": [
-        "new-york-giants",
-        "nfl"
-      ]
+      "observacao": "1ª descida às 14:00 e 2ª às 17:00 de Brasília (bcworldcup.com)."
     },
     {
       "id": "nfl-2026-w14-jax-chi",
@@ -4996,6 +5196,48 @@
       ]
     },
     {
+      "id": "nfl-2026-w14-sf-nyg",
+      "esporte": "nfl",
+      "competicao": "NFL · temporada regular",
+      "titulo": "49ers @ Giants",
+      "monogramas": [
+        "SF",
+        "NYG"
+      ],
+      "inicio": "2026-12-06T15:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Nova Jersey",
+      "onde_assistir": [
+        {
+          "canal": "NFL Game Pass (DAZN)",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "nfl_game_pass"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Game Pass confirmado; demais canais a definir",
+      "meu_time": true,
+      "pontos": 8,
+      "motivos": [
+        "meu time",
+        "contra o líder da NFC"
+      ],
+      "por_que_vale": [
+        "49ers lideram a NFC (7-1); Giants (5-3-1) lideram a NFC East."
+      ],
+      "times": [
+        "49ers",
+        "Giants"
+      ],
+      "interesses": [
+        "new-york-giants",
+        "nfl"
+      ]
+    },
+    {
       "id": "ligue1-2026-r13-mar-nic",
       "esporte": "futebol",
       "competicao": "Ligue 1 · 13ª rodada",
@@ -5019,15 +5261,10 @@
           "tipo": "youtube",
           "gratis": true,
           "servico": "cazetv"
-        },
-        {
-          "canal": "Xsports",
-          "tipo": "tv_aberta",
-          "gratis": true
         }
       ],
       "status_canal": "previsto",
-      "origem_canal": "Pacote 2026/27: CazéTV exibe os 9 jogos da rodada no YouTube (parte sem narração); Xsports escolhe 3 por rodada na TV aberta",
+      "origem_canal": "Pacote 2026/27: CazéTV exibe os jogos da Ligue 1 no YouTube; Xsports escolhe 3 por rodada na TV aberta (escolha deste jogo ainda não divulgada)",
       "meu_time": false,
       "pontos": 4,
       "motivos": [
@@ -5126,7 +5363,8 @@
       ],
       "interesses": [
         "nfl"
-      ]
+      ],
+      "observacao": "Sunday Night sujeito a flex: a NFL pode trocar o jogo até 12 dias antes."
     },
     {
       "id": "nfl-2026-w14-dal-sea",
@@ -5176,53 +5414,6 @@
       ]
     },
     {
-      "id": "volei-2026-mundial-clubes-fem",
-      "esporte": "volei",
-      "categoria": {
-        "chave": "volei",
-        "sigla": "VOL",
-        "rotulo": "Vôlei"
-      },
-      "competicao": "Mundial de Clubes de vôlei feminino · FIVB",
-      "titulo": "Mundial de Clubes de vôlei feminino",
-      "monogramas": [
-        "VOL"
-      ],
-      "inicio": "2026-12-08",
-      "horario_definido": false,
-      "situacao": "agendado",
-      "inicio_anterior": null,
-      "local": "Ginásio Poliesportivo Wlamir Marques, São Paulo",
-      "onde_assistir": [
-        {
-          "canal": "ge TV",
-          "tipo": "youtube",
-          "gratis": true
-        },
-        {
-          "canal": "sportv",
-          "tipo": "tv_fechada",
-          "gratis": false,
-          "servico": "globoplay"
-        }
-      ],
-      "status_canal": "confirmado",
-      "origem_canal": "Globo comprou os direitos (Máquina do Esporte, 15/09)",
-      "meu_time": true,
-      "pontos": 5,
-      "motivos": [
-        "Mundial",
-        "clubes brasileiros em casa"
-      ],
-      "por_que_vale": [
-        "Osasco (anfitrião) e Sesi Bauru disputam o Mundial em São Paulo, de 8 a 13/12."
-      ],
-      "interesses": [
-        "brasil-grandes-eventos"
-      ],
-      "observacao": "Fase de grupos de 8 a 10/12; semifinais em 12/12 e final em 13/12 (fora da janela). Tabela e horários ainda não divulgados."
-    },
-    {
       "id": "nba-2026-12-08-cup-sf",
       "esporte": "nba",
       "competicao": "NBA · NBA Cup (semifinais)",
@@ -5235,18 +5426,25 @@
       "local": null,
       "onde_assistir": [
         {
+          "canal": "Prime Video",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "prime_video"
+        },
+        {
           "canal": "NBA League Pass",
           "tipo": "streaming",
           "gratis": false,
           "servico": "league_pass"
         }
       ],
-      "status_canal": "previsto",
-      "origem_canal": "League Pass tem todos (regra de pacote); grade de dezembro ainda não divulgada",
+      "status_canal": "confirmado",
+      "origem_canal": "calendário do Prime Video para 2026/27 (Hoops Brasil): as duas semifinais em 08/12",
       "meu_time": false,
-      "pontos": 5,
+      "pontos": 6,
       "motivos": [
-        "mata-mata"
+        "mata-mata",
+        "no seu Prime"
       ],
       "por_que_vale": [
         "Semifinais da NBA Cup; a final é em 11/12 no Hinkle Fieldhouse, em Indianápolis."
@@ -5254,7 +5452,7 @@
       "interesses": [
         "nba"
       ],
-      "observacao": "A NBA marcou as semifinais para 8 e/ou 9/12; confrontos e horários a definir."
+      "observacao": "A NBA marcou as semifinais para 8 e/ou 9/12, na casa do melhor cabeça de cada conferência; o calendário do Prime lista as duas em 8/12. Confrontos e horários a definir."
     },
     {
       "id": "ucl-2026-md6-bar-mci",
@@ -5339,6 +5537,141 @@
       ]
     },
     {
+      "id": "volei-2026-mundial-clubes-fem",
+      "competicao": "Mundial de Clubes de vôlei feminino · grupo B",
+      "titulo": "Sesi Bauru x Al Ahly",
+      "times": [
+        "Sesi Bauru",
+        "Al Ahly"
+      ],
+      "monogramas": [
+        "SES",
+        "AHL"
+      ],
+      "inicio": "2026-12-08T17:00:00-03:00",
+      "pontos": 5,
+      "motivos": [
+        "Mundial",
+        "clube brasileiro em casa"
+      ],
+      "por_que_vale": [
+        "Mundial de Clubes da FIVB em São Paulo, de 8 a 13/12, com Osasco e Sesi Bauru."
+      ],
+      "esporte": "volei",
+      "categoria": {
+        "chave": "volei",
+        "sigla": "VOL",
+        "rotulo": "Vôlei"
+      },
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Ginásio Poliesportivo Wlamir Marques, São Paulo",
+      "onde_assistir": [
+        {
+          "canal": "ge TV (YouTube)",
+          "tipo": "youtube",
+          "gratis": true
+        },
+        {
+          "canal": "sportv / Globoplay",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "globoplay"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Grupo Globo tem os direitos (sportv, ge TV e Globoplay); canal de cada jogo ainda não divulgado",
+      "meu_time": true,
+      "interesses": [
+        "brasil-grandes-eventos"
+      ],
+      "observacao": "Estreia do Sesi Bauru. Os dois primeiros de cada grupo vão à semifinal."
+    },
+    {
+      "id": "volei-2026-mcf-osasco-alianza",
+      "competicao": "Mundial de Clubes de vôlei feminino · grupo A",
+      "titulo": "Osasco x Alianza Lima",
+      "times": [
+        "Osasco",
+        "Alianza Lima"
+      ],
+      "monogramas": [
+        "OSA",
+        "ALI"
+      ],
+      "inicio": "2026-12-08T20:30:00-03:00",
+      "pontos": 5,
+      "motivos": [
+        "Mundial",
+        "clube brasileiro em casa"
+      ],
+      "por_que_vale": [
+        "Osasco é o anfitrião do Mundial de Clubes."
+      ],
+      "esporte": "volei",
+      "categoria": {
+        "chave": "volei",
+        "sigla": "VOL",
+        "rotulo": "Vôlei"
+      },
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Ginásio Poliesportivo Wlamir Marques, São Paulo",
+      "onde_assistir": [
+        {
+          "canal": "ge TV (YouTube)",
+          "tipo": "youtube",
+          "gratis": true
+        },
+        {
+          "canal": "sportv / Globoplay",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "globoplay"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Grupo Globo tem os direitos (sportv, ge TV e Globoplay); canal de cada jogo ainda não divulgado",
+      "meu_time": true,
+      "interesses": [
+        "brasil-grandes-eventos"
+      ]
+    },
+    {
+      "id": "int-2026-derbi-americas",
+      "esporte": "futebol",
+      "competicao": "Copa Intercontinental · Dérbi das Américas",
+      "titulo": "Campeão da Libertadores x Toluca",
+      "monogramas": [
+        "LIB",
+        "TOL"
+      ],
+      "inicio": "2026-12-09",
+      "horario_definido": false,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Catar",
+      "onde_assistir": [],
+      "status_canal": "desconhecido",
+      "origem_canal": "",
+      "meu_time": false,
+      "pontos": 5,
+      "motivos": [
+        "Palmeiras pode jogar",
+        "vale vaga na Copa Challenger"
+      ],
+      "por_que_vale": [
+        "O campeão da Libertadores (Palmeiras ou Estudiantes, final em 28/11) enfrenta o Toluca no Catar.",
+        "O vencedor pega o Mamelodi Sundowns em 12/12 e o vencedor desse jogo, o PSG na final de 16/12."
+      ],
+      "interesses": [
+        "futebol"
+      ],
+      "observacao": "Se o Palmeiras for campeão em 28/11, vira jogo do meu time (trocar título, times e interesses). FIFA ainda não divulgou horário nem estádio."
+    },
+    {
       "situacao": "agendado",
       "inicio_anterior": null,
       "horario_definido": false,
@@ -5377,7 +5710,7 @@
       "interesses": [
         "rocket-league"
       ],
-      "observacao": "Evento de 9 a 13/12 (os dias 12 e 13 ficam fora da janela). Chave e horários ainda não divulgados. Não é um Major."
+      "observacao": "Evento de 9 a 13/12 com 24 clubes (20 convidados e 4 das qualificatórias). Chave e horários ainda não divulgados. Não é um Major."
     },
     {
       "id": "ucl-2026-md6-ars-rma",
@@ -5462,6 +5795,108 @@
       ]
     },
     {
+      "id": "volei-2026-mcf-sesi-zhetysu",
+      "competicao": "Mundial de Clubes de vôlei feminino · grupo B",
+      "titulo": "Sesi Bauru x Zhetysu",
+      "times": [
+        "Sesi Bauru",
+        "Zhetysu"
+      ],
+      "monogramas": [
+        "SES",
+        "ZHE"
+      ],
+      "inicio": "2026-12-09T17:00:00-03:00",
+      "pontos": 5,
+      "motivos": [
+        "Mundial",
+        "clube brasileiro em casa"
+      ],
+      "por_que_vale": [
+        "Mundial de Clubes da FIVB em São Paulo, de 8 a 13/12, com Osasco e Sesi Bauru."
+      ],
+      "esporte": "volei",
+      "categoria": {
+        "chave": "volei",
+        "sigla": "VOL",
+        "rotulo": "Vôlei"
+      },
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Ginásio Poliesportivo Wlamir Marques, São Paulo",
+      "onde_assistir": [
+        {
+          "canal": "ge TV (YouTube)",
+          "tipo": "youtube",
+          "gratis": true
+        },
+        {
+          "canal": "sportv / Globoplay",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "globoplay"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Grupo Globo tem os direitos (sportv, ge TV e Globoplay); canal de cada jogo ainda não divulgado",
+      "meu_time": true,
+      "interesses": [
+        "brasil-grandes-eventos"
+      ]
+    },
+    {
+      "id": "volei-2026-mcf-osasco-eczacibasi",
+      "competicao": "Mundial de Clubes de vôlei feminino · grupo A",
+      "titulo": "Osasco x Eczacibasi",
+      "times": [
+        "Osasco",
+        "Eczacibasi"
+      ],
+      "monogramas": [
+        "OSA",
+        "ECZ"
+      ],
+      "inicio": "2026-12-09T20:30:00-03:00",
+      "pontos": 6,
+      "motivos": [
+        "Mundial",
+        "clube brasileiro em casa"
+      ],
+      "por_que_vale": [
+        "Eczacibasi, da Turquia, é um dos favoritos do grupo A."
+      ],
+      "esporte": "volei",
+      "categoria": {
+        "chave": "volei",
+        "sigla": "VOL",
+        "rotulo": "Vôlei"
+      },
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Ginásio Poliesportivo Wlamir Marques, São Paulo",
+      "onde_assistir": [
+        {
+          "canal": "ge TV (YouTube)",
+          "tipo": "youtube",
+          "gratis": true
+        },
+        {
+          "canal": "sportv / Globoplay",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "globoplay"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Grupo Globo tem os direitos (sportv, ge TV e Globoplay); canal de cada jogo ainda não divulgado",
+      "meu_time": true,
+      "interesses": [
+        "brasil-grandes-eventos"
+      ]
+    },
+    {
       "situacao": "agendado",
       "inicio_anterior": null,
       "horario_definido": false,
@@ -5500,7 +5935,109 @@
       "interesses": [
         "furia-cs2"
       ],
-      "observacao": "Playoffs de 10 a 13/12; a final fica fora da janela. A FURIA só joga se passar do Stage 3."
+      "observacao": "Playoffs de 10 a 13/12; as sessões de 10 a 12/12 começam às 17h de Singapura (06:00 de Brasília), segundo a programação divulgada. A FURIA só joga se passar do Stage 3."
+    },
+    {
+      "id": "volei-2026-mcf-vakifbank-sesi",
+      "competicao": "Mundial de Clubes de vôlei feminino · grupo B",
+      "titulo": "Vakifbank x Sesi Bauru",
+      "times": [
+        "Vakifbank",
+        "Sesi Bauru"
+      ],
+      "monogramas": [
+        "VAK",
+        "SES"
+      ],
+      "inicio": "2026-12-10T17:00:00-03:00",
+      "pontos": 6,
+      "motivos": [
+        "Mundial",
+        "clube brasileiro em casa"
+      ],
+      "por_que_vale": [
+        "Vakifbank, da Turquia, é o principal rival do Sesi no grupo B."
+      ],
+      "esporte": "volei",
+      "categoria": {
+        "chave": "volei",
+        "sigla": "VOL",
+        "rotulo": "Vôlei"
+      },
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Ginásio Poliesportivo Wlamir Marques, São Paulo",
+      "onde_assistir": [
+        {
+          "canal": "ge TV (YouTube)",
+          "tipo": "youtube",
+          "gratis": true
+        },
+        {
+          "canal": "sportv / Globoplay",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "globoplay"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Grupo Globo tem os direitos (sportv, ge TV e Globoplay); canal de cada jogo ainda não divulgado",
+      "meu_time": true,
+      "interesses": [
+        "brasil-grandes-eventos"
+      ]
+    },
+    {
+      "id": "volei-2026-mcf-osasco-nec",
+      "competicao": "Mundial de Clubes de vôlei feminino · grupo A",
+      "titulo": "Osasco x NEC Red Rockets",
+      "times": [
+        "Osasco",
+        "NEC Red Rockets"
+      ],
+      "monogramas": [
+        "OSA",
+        "NEC"
+      ],
+      "inicio": "2026-12-10T20:30:00-03:00",
+      "pontos": 5,
+      "motivos": [
+        "Mundial",
+        "clube brasileiro em casa"
+      ],
+      "por_que_vale": [
+        "Última rodada do grupo A."
+      ],
+      "esporte": "volei",
+      "categoria": {
+        "chave": "volei",
+        "sigla": "VOL",
+        "rotulo": "Vôlei"
+      },
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Ginásio Poliesportivo Wlamir Marques, São Paulo",
+      "onde_assistir": [
+        {
+          "canal": "ge TV (YouTube)",
+          "tipo": "youtube",
+          "gratis": true
+        },
+        {
+          "canal": "sportv / Globoplay",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "globoplay"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Grupo Globo tem os direitos (sportv, ge TV e Globoplay); canal de cada jogo ainda não divulgado",
+      "meu_time": true,
+      "interesses": [
+        "brasil-grandes-eventos"
+      ]
     },
     {
       "id": "nfl-2026-w15-min-ne",
@@ -5547,6 +6084,725 @@
       "interesses": [
         "nfl"
       ]
+    },
+    {
+      "esporte": "nba",
+      "competicao": "NBA · NBA Cup (final)",
+      "horario_definido": false,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Indianápolis (Hinkle Fieldhouse)",
+      "meu_time": false,
+      "interesses": [
+        "nba"
+      ],
+      "id": "nba-2026-12-11-cup-final",
+      "titulo": "NBA Cup · final",
+      "monogramas": [],
+      "inicio": "2026-12-11",
+      "onde_assistir": [
+        {
+          "canal": "Prime Video",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "prime_video"
+        },
+        {
+          "canal": "NBA League Pass",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "league_pass"
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "calendário do Prime Video para 2026/27 (Hoops Brasil)",
+      "pontos": 6,
+      "motivos": [
+        "final",
+        "no seu Prime"
+      ],
+      "por_que_vale": [
+        "Final da NBA Cup em 11/12 no Hinkle Fieldhouse, em Indianápolis (saiu de Las Vegas)."
+      ],
+      "observacao": "Finalistas e horário saem após as semifinais."
+    },
+    {
+      "id": "esqui-2026-valdisere-gs",
+      "esporte": "esqui",
+      "competicao": "Copa do Mundo de esqui alpino · slalom gigante",
+      "titulo": "Slalom gigante de Val d'Isère",
+      "monogramas": [
+        "LPB"
+      ],
+      "inicio": "2026-12-12",
+      "horario_definido": false,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Val d'Isère, França",
+      "onde_assistir": [
+        {
+          "canal": "ESPN / Disney+",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "espn_disney"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "ESPN/Disney+ transmitiu a Copa do Mundo na temporada 2025/26; direitos de 2026/27 no Brasil não confirmados",
+      "meu_time": true,
+      "pontos": 6,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": [
+        "Lucas abriu a temporada 2026/27 vencendo o slalom gigante de Sölden."
+      ],
+      "interesses": [
+        "lucas-pinheiro-braathen"
+      ],
+      "observacao": "Horários de 2026 ainda não publicados; em 2025 a 1ª descida foi às 9:30 e a 2ª às 13:00 locais (05:30 e 09:00 de Brasília)."
+    },
+    {
+      "id": "ligue1-2026-r14-psg-pfc",
+      "esporte": "futebol",
+      "competicao": "Ligue 1 · 14ª rodada",
+      "titulo": "PSG x Paris FC",
+      "times": [
+        "PSG",
+        "Paris FC"
+      ],
+      "monogramas": [
+        "PSG",
+        "PFC"
+      ],
+      "inicio": "2026-12-12T13:15:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Parc des Princes, Paris",
+      "onde_assistir": [
+        {
+          "canal": "CazéTV (YouTube)",
+          "tipo": "youtube",
+          "gratis": true,
+          "servico": "cazetv"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Pacote 2026/27: CazéTV exibe os jogos da Ligue 1 no YouTube; Xsports escolhe 3 por rodada na TV aberta (escolha deste jogo ainda não divulgada)",
+      "meu_time": false,
+      "pontos": 6,
+      "motivos": [
+        "dá pra ver (YouTube)",
+        "1º x 3º",
+        "clássico de Paris"
+      ],
+      "por_que_vale": [
+        "Dérbi de Paris entre o líder PSG (23 pontos) e o 3º Paris FC (20), após 10 rodadas."
+      ],
+      "interesses": [
+        "futebol"
+      ]
+    },
+    {
+      "id": "pl-2026-r15-mci-che",
+      "esporte": "futebol",
+      "competicao": "Premier League · 15ª rodada",
+      "titulo": "Manchester City x Chelsea",
+      "times": [
+        "Manchester City",
+        "Chelsea"
+      ],
+      "monogramas": [
+        "MCI",
+        "CHE"
+      ],
+      "inicio": "2026-12-12T14:30:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Etihad Stadium, Manchester",
+      "onde_assistir": [
+        {
+          "canal": "Disney+",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "espn_disney"
+        },
+        {
+          "canal": "ESPN",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "espn_disney"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Pacote 2026/27: Disney+ tem os 380 jogos; ESPN exibe jogos escolhidos por rodada; CazéTV (YouTube) exibe 1 jogo por rodada de Liverpool/Arsenal/Chelsea/City/United, definido perto da data",
+      "meu_time": false,
+      "pontos": 4,
+      "motivos": [
+        "os dois na metade de cima",
+        "briga por vaga na Champions"
+      ],
+      "por_que_vale": [
+        "Manchester City é 3º com 21 pontos; Chelsea 5º com 16 (após 10 rodadas)."
+      ],
+      "interesses": [
+        "futebol"
+      ]
+    },
+    {
+      "id": "volei-2026-mcf-semifinais",
+      "competicao": "Mundial de Clubes de vôlei feminino · semifinais",
+      "titulo": "Semifinais do Mundial de Clubes",
+      "monogramas": [
+        "VOL"
+      ],
+      "inicio": "2026-12-12T16:00:00-03:00",
+      "pontos": 6,
+      "motivos": [
+        "Mundial",
+        "mata-mata"
+      ],
+      "por_que_vale": [
+        "Mundial de Clubes da FIVB em São Paulo, de 8 a 13/12, com Osasco e Sesi Bauru."
+      ],
+      "esporte": "volei",
+      "categoria": {
+        "chave": "volei",
+        "sigla": "VOL",
+        "rotulo": "Vôlei"
+      },
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Ginásio Poliesportivo Wlamir Marques, São Paulo",
+      "onde_assistir": [
+        {
+          "canal": "ge TV (YouTube)",
+          "tipo": "youtube",
+          "gratis": true
+        },
+        {
+          "canal": "sportv / Globoplay",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "globoplay"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Grupo Globo tem os direitos (sportv, ge TV e Globoplay); canal de cada jogo ainda não divulgado",
+      "meu_time": true,
+      "interesses": [
+        "brasil-grandes-eventos"
+      ],
+      "observacao": "Semifinal 1 às 16:00 (1º do B x 2º do A) e semifinal 2 às 20:00 (1º do A x 2º do B). Osasco e Sesi Bauru só jogam se avançarem."
+    },
+    {
+      "esporte": "nba",
+      "competicao": "NBA · temporada regular",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": null,
+      "meu_time": false,
+      "interesses": [
+        "nba"
+      ],
+      "id": "nba-2026-12-12-nyk-mia",
+      "titulo": "Knicks x Heat",
+      "times": [
+        "Knicks",
+        "Heat"
+      ],
+      "monogramas": [
+        "NYK",
+        "MIA"
+      ],
+      "inicio": "2026-12-12T22:30:00-03:00",
+      "onde_assistir": [
+        {
+          "canal": "NBA League Pass",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "league_pass"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "regra de pacote: League Pass tem todos; grade de dezembro da ESPN/Disney+ não divulgada e jogo fora do calendário do Prime",
+      "pontos": 2,
+      "motivos": [
+        "dois times da metade de cima do Leste"
+      ],
+      "por_que_vale": [
+        "Transmissão nacional da ABC nos EUA.",
+        "Knicks 5º (6-5) e Heat 8º (5-6) do Leste."
+      ],
+      "observacao": "Entrou com a régua baixada: os demais jogos de 6 a 12/12 ainda não foram marcados pela NBA."
+    },
+    {
+      "id": "ufc-335",
+      "esporte": "mma",
+      "competicao": "UFC 335 · Las Vegas",
+      "titulo": "Oliveira x Lopes",
+      "monogramas": [
+        "UFC"
+      ],
+      "inicio": "2026-12-12T23:00:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "T-Mobile Arena, Las Vegas",
+      "onde_assistir": [
+        {
+          "canal": "Paramount+",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "paramount_plus"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "regra de pacote: UFC no Paramount+ (eventos numerados e Fight Nights)",
+      "meu_time": false,
+      "pontos": 7,
+      "motivos": [
+        "card numerado",
+        "brasileiros na luta principal"
+      ],
+      "por_que_vale": [
+        "Charles do Bronx e Diego Lopes disputam o cinturão BMF dos leves.",
+        "Alex Poatan enfrenta Sergei Pavlovich nos pesados no mesmo card."
+      ],
+      "interesses": [
+        "mma"
+      ],
+      "observacao": "Horário é o início do card principal (21h de Nova York). Preliminares ainda sem horário divulgado."
+    },
+    {
+      "id": "esqui-2026-valdisere-sl",
+      "esporte": "esqui",
+      "competicao": "Copa do Mundo de esqui alpino · slalom",
+      "titulo": "Slalom de Val d'Isère",
+      "monogramas": [
+        "LPB"
+      ],
+      "inicio": "2026-12-13",
+      "horario_definido": false,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Val d'Isère, França",
+      "onde_assistir": [
+        {
+          "canal": "ESPN / Disney+",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "espn_disney"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "ESPN/Disney+ transmitiu a Copa do Mundo na temporada 2025/26; direitos de 2026/27 no Brasil não confirmados",
+      "meu_time": true,
+      "pontos": 6,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": [
+        "Lucas abriu a temporada 2026/27 vencendo o slalom gigante de Sölden."
+      ],
+      "interesses": [
+        "lucas-pinheiro-braathen"
+      ],
+      "observacao": "Horários de 2026 ainda não publicados; em 2025 a 1ª descida foi às 9:30 e a 2ª às 13:00 locais (05:30 e 09:00 de Brasília)."
+    },
+    {
+      "id": "seriea-2026-r15-laz-rom",
+      "esporte": "futebol",
+      "competicao": "Serie A · 15ª rodada",
+      "titulo": "Lazio x Roma",
+      "times": [
+        "Lazio",
+        "Roma"
+      ],
+      "monogramas": [
+        "LAZ",
+        "ROM"
+      ],
+      "inicio": "2026-12-13T08:30:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Stadio Olimpico, Roma",
+      "onde_assistir": [
+        {
+          "canal": "Disney+",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "espn_disney"
+        },
+        {
+          "canal": "ESPN",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "espn_disney"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Pacote 2026/27: ESPN/Disney+ têm todos os jogos; SportyNet (2), ESPN (1) e CazéTV (1, também no Prime Video) liberam jogos por rodada no YouTube, definidos perto da data",
+      "meu_time": false,
+      "pontos": 4,
+      "motivos": [
+        "1º x 3º",
+        "clássico (Derby della Capitale)"
+      ],
+      "por_que_vale": [
+        "Dérbi de Roma entre a líder Lazio (29 pontos) e a Roma, 3ª com 27 (após 11 rodadas)."
+      ],
+      "interesses": [
+        "futebol"
+      ]
+    },
+    {
+      "id": "bundesliga-2026-r13-svw-lev",
+      "esporte": "futebol",
+      "competicao": "Bundesliga · 13ª rodada",
+      "titulo": "Werder Bremen x Leverkusen",
+      "times": [
+        "Werder Bremen",
+        "Leverkusen"
+      ],
+      "monogramas": [
+        "SVW",
+        "LEV"
+      ],
+      "inicio": "2026-12-13T15:30:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Weserstadion, Bremen",
+      "onde_assistir": [],
+      "status_canal": "desconhecido",
+      "origem_canal": "Pacote 2026/27: os 9 jogos da rodada são divididos entre OneFootball, Canal GOAT, SportyNet, Sportv, CazéTV, Xsports, Jovem Pan e RomárioTV; canal deste jogo ainda não divulgado",
+      "meu_time": false,
+      "pontos": 4,
+      "motivos": [
+        "os dois na metade de cima",
+        "briga por vaga na Champions"
+      ],
+      "por_que_vale": [
+        "Leverkusen é 5º com 16 pontos; Werder Bremen 6º com 15 (após 9 rodadas)."
+      ],
+      "interesses": [
+        "futebol"
+      ]
+    },
+    {
+      "id": "ligue1-2026-r14-lyo-mar",
+      "esporte": "futebol",
+      "competicao": "Ligue 1 · 14ª rodada",
+      "titulo": "Lyon x Marseille",
+      "times": [
+        "Lyon",
+        "Marseille"
+      ],
+      "monogramas": [
+        "LYO",
+        "MAR"
+      ],
+      "inicio": "2026-12-13T16:45:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Groupama Stadium, Décines-Charpieu",
+      "onde_assistir": [
+        {
+          "canal": "CazéTV (YouTube)",
+          "tipo": "youtube",
+          "gratis": true,
+          "servico": "cazetv"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Pacote 2026/27: CazéTV exibe os jogos da Ligue 1 no YouTube; Xsports escolhe 3 por rodada na TV aberta (escolha deste jogo ainda não divulgada)",
+      "meu_time": false,
+      "pontos": 6,
+      "motivos": [
+        "dá pra ver (YouTube)",
+        "os dois na metade de cima",
+        "briga por vaga na Champions"
+      ],
+      "por_que_vale": [
+        "Olympique de Marseille é 4º com 18 pontos; Lyon 5º com 17 (após 10 rodadas)."
+      ],
+      "interesses": [
+        "futebol"
+      ]
+    },
+    {
+      "id": "nfl-2026-w15-kc-cin",
+      "esporte": "nfl",
+      "competicao": "NFL · temporada regular",
+      "titulo": "Chiefs @ Bengals",
+      "times": [
+        "Chiefs",
+        "Bengals"
+      ],
+      "monogramas": [
+        "KC",
+        "CIN"
+      ],
+      "inicio": "2026-12-13T18:25:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": null,
+      "onde_assistir": [
+        {
+          "canal": "NFL Game Pass (DAZN)",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "nfl_game_pass"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Game Pass tem todos (Máquina do Esporte); grade da semana ainda não divulgada",
+      "meu_time": false,
+      "pontos": 4,
+      "motivos": [
+        "dois times com campanha positiva",
+        "briga por vaga na AFC"
+      ],
+      "por_que_vale": [
+        "Chiefs e Bengals têm 6-2 cada."
+      ],
+      "interesses": [
+        "nfl"
+      ]
+    },
+    {
+      "id": "nfl-2026-w15-lar-sf",
+      "esporte": "nfl",
+      "competicao": "NFL · temporada regular",
+      "titulo": "Rams @ 49ers",
+      "times": [
+        "Rams",
+        "49ers"
+      ],
+      "monogramas": [
+        "LAR",
+        "SF"
+      ],
+      "inicio": "2026-12-13T18:25:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": null,
+      "onde_assistir": [
+        {
+          "canal": "NFL Game Pass (DAZN)",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "nfl_game_pass"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Game Pass tem todos (Máquina do Esporte); grade da semana ainda não divulgada",
+      "meu_time": false,
+      "pontos": 4,
+      "motivos": [
+        "clássico de divisão",
+        "49ers lideram a NFC"
+      ],
+      "por_que_vale": [
+        "Clássico da NFC West; 49ers 7-1, Rams 5-4."
+      ],
+      "interesses": [
+        "nfl"
+      ]
+    },
+    {
+      "id": "nfl-2026-w15-nyg-sea",
+      "esporte": "nfl",
+      "competicao": "NFL · temporada regular",
+      "titulo": "Giants @ Seahawks",
+      "times": [
+        "Giants",
+        "Seahawks"
+      ],
+      "monogramas": [
+        "NYG",
+        "SEA"
+      ],
+      "inicio": "2026-12-13T18:25:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Seattle",
+      "onde_assistir": [
+        {
+          "canal": "NFL Game Pass (DAZN)",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "nfl_game_pass"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Game Pass tem todos (Máquina do Esporte); grade da semana ainda não divulgada",
+      "meu_time": true,
+      "pontos": 7,
+      "motivos": [
+        "meu time"
+      ],
+      "por_que_vale": [
+        "Giants (5-3-1) seguem líderes da NFC East mesmo após perder para os Commanders por 24 a 21 em 12/11.",
+        "Seahawks 5-4."
+      ],
+      "interesses": [
+        "new-york-giants",
+        "nfl"
+      ]
+    },
+    {
+      "esporte": "nba",
+      "competicao": "NBA · temporada regular",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Chicago",
+      "meu_time": true,
+      "interesses": [
+        "chicago-bulls",
+        "nba"
+      ],
+      "id": "nba-2026-12-13-hou-chi",
+      "titulo": "Bulls x Rockets",
+      "times": [
+        "Bulls",
+        "Rockets"
+      ],
+      "monogramas": [
+        "CHI",
+        "HOU"
+      ],
+      "inicio": "2026-12-13T20:00:00-03:00",
+      "onde_assistir": [
+        {
+          "canal": "Prime Video",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "prime_video"
+        },
+        {
+          "canal": "NBA League Pass",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "league_pass"
+        }
+      ],
+      "status_canal": "confirmado",
+      "origem_canal": "calendário do Prime Video para 2026/27 (Hoops Brasil)",
+      "pontos": 6,
+      "motivos": [
+        "meu time",
+        "no seu Prime"
+      ],
+      "por_que_vale": [
+        "Rockets são 3º do Oeste (9-3)."
+      ]
+    },
+    {
+      "id": "volei-2026-mcf-final",
+      "competicao": "Mundial de Clubes de vôlei feminino · final",
+      "titulo": "Final do Mundial de Clubes",
+      "monogramas": [
+        "VOL"
+      ],
+      "inicio": "2026-12-13T20:00:00-03:00",
+      "pontos": 6,
+      "motivos": [
+        "Mundial",
+        "final"
+      ],
+      "por_que_vale": [
+        "Mundial de Clubes da FIVB em São Paulo, de 8 a 13/12, com Osasco e Sesi Bauru."
+      ],
+      "esporte": "volei",
+      "categoria": {
+        "chave": "volei",
+        "sigla": "VOL",
+        "rotulo": "Vôlei"
+      },
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": "Ginásio Poliesportivo Wlamir Marques, São Paulo",
+      "onde_assistir": [
+        {
+          "canal": "ge TV (YouTube)",
+          "tipo": "youtube",
+          "gratis": true
+        },
+        {
+          "canal": "sportv / Globoplay",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "globoplay"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "Grupo Globo tem os direitos (sportv, ge TV e Globoplay); canal de cada jogo ainda não divulgado",
+      "meu_time": true,
+      "interesses": [
+        "brasil-grandes-eventos"
+      ],
+      "observacao": "Disputa do bronze às 16:00 e final às 20:00."
+    },
+    {
+      "id": "nfl-2026-w15-buf-gb",
+      "esporte": "nfl",
+      "competicao": "NFL · Sunday Night",
+      "titulo": "Bills @ Packers",
+      "times": [
+        "Bills",
+        "Packers"
+      ],
+      "monogramas": [
+        "BUF",
+        "GB"
+      ],
+      "inicio": "2026-12-13T22:20:00-03:00",
+      "horario_definido": true,
+      "situacao": "agendado",
+      "inicio_anterior": null,
+      "local": null,
+      "onde_assistir": [
+        {
+          "canal": "sportv",
+          "tipo": "tv_fechada",
+          "gratis": false,
+          "servico": "globoplay"
+        },
+        {
+          "canal": "NFL Game Pass (DAZN)",
+          "tipo": "streaming",
+          "gratis": false,
+          "servico": "nfl_game_pass"
+        }
+      ],
+      "status_canal": "previsto",
+      "origem_canal": "sportv tem os jogos de domingo à noite (Máquina do Esporte); Game Pass tem todos",
+      "meu_time": false,
+      "pontos": 4,
+      "motivos": [
+        "Sunday Night",
+        "dois times com campanha positiva"
+      ],
+      "por_que_vale": [
+        "Bills 7-1 lideram a AFC East; Packers 6-3."
+      ],
+      "interesses": [
+        "nfl"
+      ],
+      "observacao": "Sunday Night sujeito a flex: a NFL pode trocar o jogo até 12 dias antes."
     }
   ]
 }
