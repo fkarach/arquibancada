@@ -12,7 +12,6 @@
     "Seleção feminina no Japão: horários de Brasília (29/11 1h55; 5/12 3h) vêm da cobertura da convocação (CNN Brasil); transmissão não anunciada.",
     "Copa Intercontinental no Catar (9, 12 e 16/12): FIFA não divulgou horários nem transmissão no Brasil. Se o Palmeiras vencer a Libertadores (28/11), trocar o Dérbi para Palmeiras x Toluca e marcar meu_time (e a Challenger/final se avançar).",
     "Depois de 6/12 acaba a temporada do futebol brasileiro: semanas de 7 a 16/12 não têm piso de futebol brasileiro (fora de temporada).",
-    "Playoffs da Série B: canais divulgados pela CBF como 'sujeitos a alterações'.",
     "Champions 6ª rodada (8/12): SBT ainda não anunciou o jogo da terça; todos seguem só TNT/HBO Max (previsto). Candidatos de terça: Barcelona x Manchester City e Aston Villa x PSG.",
     "Canais por jogo da Bundesliga (rodadas 11 e 13) ainda não divulgados; ficam sem canal.",
     "Ligue 1: Xsports (TV aberta) ainda não divulgou os 3 jogos por rodada; jogos listam só a CazéTV (prevista).",
@@ -1272,65 +1271,6 @@
       "observacao": "Jogo antecipado das 18h25 para as 15h (troca de horário com Jaguars x Giants, anunciada pela NFL em 9/11)."
     },
     {
-      "id": "brb-2026-po-ida-cri-for",
-      "esporte": "futebol",
-      "competicao": "Série B · playoff de acesso (ida)",
-      "titulo": "Criciúma x Fortaleza",
-      "times": [
-        "Criciúma",
-        "Fortaleza"
-      ],
-      "monogramas": [
-        "CRI",
-        "FOR"
-      ],
-      "inicio": "2026-11-22T16:00:00-03:00",
-      "horario_definido": true,
-      "situacao": "agendado",
-      "inicio_anterior": null,
-      "local": "Heriberto Hülse, Criciúma",
-      "onde_assistir": [
-        {
-          "canal": "RedeTV!",
-          "tipo": "tv_aberta",
-          "gratis": true
-        },
-        {
-          "canal": "SportyNet (YouTube)",
-          "tipo": "youtube",
-          "gratis": true
-        },
-        {
-          "canal": "ESPN",
-          "tipo": "tv_fechada",
-          "gratis": false,
-          "servico": "espn_disney"
-        },
-        {
-          "canal": "Disney+",
-          "tipo": "streaming",
-          "gratis": false,
-          "servico": "espn_disney"
-        }
-      ],
-      "status_canal": "confirmado",
-      "origem_canal": "CBF, transmissões dos playoffs (Portal Mídia Esporte, nov/2026; \"sujeitas a alterações\")",
-      "meu_time": false,
-      "pontos": 4,
-      "motivos": [
-        "dá pra ver (RedeTV!)",
-        "mata-mata valendo acesso"
-      ],
-      "por_que_vale": [
-        "Primeira edição dos playoffs de acesso da Série B: o vencedor sobe para a Série A de 2027.",
-        "Fortaleza terminou em 4º (65 pts) e Criciúma em 5º (62)."
-      ],
-      "interesses": [
-        "futebol"
-      ],
-      "observacao": "Playoff em ida e volta sem pênaltis: com igualdade em pontos e saldo, avança quem decide em casa (Vila Nova e Fortaleza)."
-    },
-    {
       "id": "nfl-2026-w12-jax-nyg",
       "esporte": "nfl",
       "competicao": "NFL · temporada regular",
@@ -1465,66 +1405,6 @@
       "interesses": [
         "futebol"
       ]
-    },
-    {
-      "id": "brb-2026-po-ida-acg-vno",
-      "esporte": "futebol",
-      "competicao": "Série B · playoff de acesso (ida)",
-      "titulo": "Atlético-GO x Vila Nova",
-      "times": [
-        "Atlético-GO",
-        "Vila Nova"
-      ],
-      "monogramas": [
-        "ACG",
-        "VNO"
-      ],
-      "inicio": "2026-11-22T18:30:00-03:00",
-      "horario_definido": true,
-      "situacao": "agendado",
-      "inicio_anterior": null,
-      "local": "Antônio Accioly, Goiânia",
-      "onde_assistir": [
-        {
-          "canal": "XSports",
-          "tipo": "tv_aberta",
-          "gratis": true
-        },
-        {
-          "canal": "Canal GOAT (YouTube)",
-          "tipo": "youtube",
-          "gratis": true
-        },
-        {
-          "canal": "ESPN",
-          "tipo": "tv_fechada",
-          "gratis": false,
-          "servico": "espn_disney"
-        },
-        {
-          "canal": "Disney+",
-          "tipo": "streaming",
-          "gratis": false,
-          "servico": "espn_disney"
-        }
-      ],
-      "status_canal": "confirmado",
-      "origem_canal": "CBF, transmissões dos playoffs (Portal Mídia Esporte, nov/2026; \"sujeitas a alterações\")",
-      "meu_time": false,
-      "pontos": 5,
-      "motivos": [
-        "dá pra ver (XSports/Canal GOAT)",
-        "mata-mata valendo acesso",
-        "clássico goiano"
-      ],
-      "por_que_vale": [
-        "Clássico goiano valendo vaga na Série A de 2027.",
-        "Vila Nova terminou em 3º (66 pts) e Atlético-GO em 6º (61)."
-      ],
-      "interesses": [
-        "futebol"
-      ],
-      "observacao": "Playoff em ida e volta sem pênaltis: com igualdade em pontos e saldo, avança quem decide em casa (Vila Nova e Fortaleza)."
     },
     {
       "id": "nba-2026-11-22-den-chi",
@@ -2379,66 +2259,6 @@
       ]
     },
     {
-      "id": "brb-2026-po-volta-vno-acg",
-      "esporte": "futebol",
-      "competicao": "Série B · playoff de acesso (volta)",
-      "titulo": "Vila Nova x Atlético-GO",
-      "times": [
-        "Vila Nova",
-        "Atlético-GO"
-      ],
-      "monogramas": [
-        "VNO",
-        "ACG"
-      ],
-      "inicio": "2026-11-27T20:00:00-03:00",
-      "horario_definido": true,
-      "situacao": "agendado",
-      "inicio_anterior": null,
-      "local": "Onésio Brasileiro Alvarenga, Goiânia",
-      "onde_assistir": [
-        {
-          "canal": "XSports",
-          "tipo": "tv_aberta",
-          "gratis": true
-        },
-        {
-          "canal": "Canal GOAT (YouTube)",
-          "tipo": "youtube",
-          "gratis": true
-        },
-        {
-          "canal": "ESPN",
-          "tipo": "tv_fechada",
-          "gratis": false,
-          "servico": "espn_disney"
-        },
-        {
-          "canal": "Disney+",
-          "tipo": "streaming",
-          "gratis": false,
-          "servico": "espn_disney"
-        }
-      ],
-      "status_canal": "confirmado",
-      "origem_canal": "CBF, transmissões dos playoffs (Portal Mídia Esporte, nov/2026; \"sujeitas a alterações\")",
-      "meu_time": false,
-      "pontos": 5,
-      "motivos": [
-        "dá pra ver (XSports/Canal GOAT)",
-        "mata-mata valendo acesso",
-        "clássico goiano"
-      ],
-      "por_que_vale": [
-        "Jogo que decide uma das duas últimas vagas na Série A de 2027.",
-        "Vila Nova (3º, 66 pts) tem a vantagem do empate no agregado."
-      ],
-      "interesses": [
-        "futebol"
-      ],
-      "observacao": "Playoff em ida e volta sem pênaltis: com igualdade em pontos e saldo, avança quem decide em casa (Vila Nova e Fortaleza)."
-    },
-    {
       "id": "basquete-2026-elim-bra-eua",
       "titulo": "Brasil x Estados Unidos",
       "monogramas": [
@@ -2715,65 +2535,6 @@
         "palmeiras",
         "futebol"
       ]
-    },
-    {
-      "id": "brb-2026-po-volta-for-cri",
-      "esporte": "futebol",
-      "competicao": "Série B · playoff de acesso (volta)",
-      "titulo": "Fortaleza x Criciúma",
-      "times": [
-        "Fortaleza",
-        "Criciúma"
-      ],
-      "monogramas": [
-        "FOR",
-        "CRI"
-      ],
-      "inicio": "2026-11-28T20:00:00-03:00",
-      "horario_definido": true,
-      "situacao": "agendado",
-      "inicio_anterior": null,
-      "local": "Arena Castelão, Fortaleza",
-      "onde_assistir": [
-        {
-          "canal": "RedeTV!",
-          "tipo": "tv_aberta",
-          "gratis": true
-        },
-        {
-          "canal": "SportyNet (YouTube)",
-          "tipo": "youtube",
-          "gratis": true
-        },
-        {
-          "canal": "ESPN",
-          "tipo": "tv_fechada",
-          "gratis": false,
-          "servico": "espn_disney"
-        },
-        {
-          "canal": "Disney+",
-          "tipo": "streaming",
-          "gratis": false,
-          "servico": "espn_disney"
-        }
-      ],
-      "status_canal": "confirmado",
-      "origem_canal": "CBF, transmissões dos playoffs (Portal Mídia Esporte, nov/2026; \"sujeitas a alterações\")",
-      "meu_time": false,
-      "pontos": 4,
-      "motivos": [
-        "dá pra ver (RedeTV!)",
-        "mata-mata valendo acesso"
-      ],
-      "por_que_vale": [
-        "Jogo que decide uma das duas últimas vagas na Série A de 2027.",
-        "Fortaleza (4º, 65 pts) tem a vantagem do empate no agregado."
-      ],
-      "interesses": [
-        "futebol"
-      ],
-      "observacao": "Playoff em ida e volta sem pênaltis: com igualdade em pontos e saldo, avança quem decide em casa (Vila Nova e Fortaleza)."
     },
     {
       "id": "nba-2026-11-28-ind-chi",
