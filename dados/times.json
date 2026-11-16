@@ -578,6 +578,51 @@
       "busca": "NEC Red Rockets Kawasaki",
       "esporte": "volei",
       "buscar": false
+    },
+    "Atlético-GO": {
+      "busca": "Atletico Goianiense",
+      "esporte": "futebol",
+      "pais": "Brazil"
+    },
+    "Remo": {
+      "busca": "Clube do Remo",
+      "esporte": "futebol",
+      "pais": "Brazil"
+    },
+    "Racing Santander": {
+      "busca": "Racing Santander",
+      "esporte": "futebol",
+      "pais": "Spain"
+    },
+    "Deportivo La Coruña": {
+      "busca": "Deportivo La Coruna",
+      "esporte": "futebol",
+      "pais": "Spain"
+    },
+    "Athletic": {
+      "busca": "Athletic Bilbao",
+      "esporte": "futebol",
+      "pais": "Spain"
+    },
+    "Brest": {
+      "busca": "Brest",
+      "esporte": "futebol",
+      "pais": "France"
+    },
+    "Monaco": {
+      "busca": "Monaco",
+      "esporte": "futebol",
+      "pais": "France"
+    },
+    "Rennes": {
+      "busca": "Rennes",
+      "esporte": "futebol",
+      "pais": "France"
+    },
+    "Brighton": {
+      "busca": "Brighton and Hove Albion",
+      "esporte": "futebol",
+      "pais": "England"
     }
   }
 }
