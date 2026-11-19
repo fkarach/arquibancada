@@ -623,6 +623,70 @@
       "busca": "Brighton and Hove Albion",
       "esporte": "futebol",
       "pais": "England"
+    },
+    "Celta": {
+      "busca": "Celta Vigo",
+      "esporte": "futebol",
+      "pais": "Spain"
+    },
+    "Alavés": {
+      "busca": "Deportivo Alaves",
+      "esporte": "futebol",
+      "pais": "Spain"
+    },
+    "Málaga": {
+      "busca": "Malaga",
+      "esporte": "futebol",
+      "pais": "Spain"
+    },
+    "Osasuna": {
+      "busca": "Osasuna",
+      "esporte": "futebol",
+      "pais": "Spain"
+    },
+    "Bayern de Munique": {
+      "busca": "Bayern Munich",
+      "esporte": "futebol",
+      "pais": "Germany"
+    },
+    "Chargers": {
+      "busca": "Los Angeles Chargers",
+      "esporte": "nfl"
+    },
+    "Vôlei Renata": {
+      "busca": "Volei Renata Campinas",
+      "esporte": "volei",
+      "buscar": false
+    },
+    "Ziraat Bankkart": {
+      "busca": "Ziraat Bankasi Ankara volleyball",
+      "esporte": "volei",
+      "buscar": false
+    },
+    "Foolad Sirjan": {
+      "busca": "Foolad Sirjan Iranian volleyball",
+      "esporte": "volei",
+      "buscar": false
+    },
+    "Zawiercie": {
+      "busca": "Aluron CMC Warta Zawiercie",
+      "esporte": "volei",
+      "buscar": false
+    },
+    "Sada Cruzeiro": {
+      "busca": "Sada Cruzeiro Volei",
+      "esporte": "volei",
+      "buscar": false
+    },
+    "Perugia": {
+      "busca": "Sir Sicoma Monini Perugia",
+      "esporte": "volei",
+      "buscar": false
+    },
+    "Jakarta Bhayangkara": {
+      "busca": "Jakarta Bhayangkara Presisi",
+      "esporte": "volei",
+      "buscar": false
     }
   }
 }
