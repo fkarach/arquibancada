@@ -687,6 +687,24 @@
       "busca": "Jakarta Bhayangkara Presisi",
       "esporte": "volei",
       "buscar": false
+    },
+    "Bologna": {
+      "busca": "Bologna",
+      "esporte": "futebol",
+      "pais": "Italy"
+    },
+    "Hoffenheim": {
+      "busca": "Hoffenheim",
+      "esporte": "futebol",
+      "pais": "Germany"
+    },
+    "Browns": {
+      "busca": "Cleveland Browns",
+      "esporte": "nfl"
+    },
+    "Magic": {
+      "busca": "Orlando Magic",
+      "esporte": "nba"
     }
   }
 }
