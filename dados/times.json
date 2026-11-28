@@ -705,6 +705,30 @@
     "Magic": {
       "busca": "Orlando Magic",
       "esporte": "nba"
+    },
+    "Bournemouth": {
+      "busca": "AFC Bournemouth",
+      "esporte": "futebol",
+      "pais": "England"
+    },
+    "Hull City": {
+      "busca": "Hull City",
+      "esporte": "futebol",
+      "pais": "England"
+    },
+    "Newcastle": {
+      "busca": "Newcastle United",
+      "esporte": "futebol",
+      "pais": "England"
+    },
+    "Crystal Palace": {
+      "busca": "Crystal Palace",
+      "esporte": "futebol",
+      "pais": "England"
+    },
+    "Grizzlies": {
+      "busca": "Memphis Grizzlies",
+      "esporte": "nba"
     }
   }
 }
